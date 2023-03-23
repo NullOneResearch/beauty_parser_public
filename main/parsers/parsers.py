@@ -1,6 +1,30 @@
 #import database.database_handler as db_handler
+import json
+import logging
+import os
+import pandas as pd
 import parsers.database.database_handler as db_handler
+import random
+import re
+import requests
 import time
+import warnings
+
+from bs4 import BeautifulSoup
+from datetime import date
+from datetime import datetime
+from IPython.display import display
+from ipywidgets import IntProgress, HTML, VBox
+from selenium import webdriver
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.proxy import Proxy, ProxyType
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+from time import sleep
 
 list_of_proxies_global_address = 'parsers/misc/list_of_proxies.json'
 logs_global_address = 'parsers/misc/logs.json'
@@ -8,14 +32,6 @@ path_to_db_global = 'parsers/database/json_dumps'
 
 def parser_gold_apple():
     #
-    import requests
-    import json
-    import pandas as pd
-    from datetime import date
-    from datetime import datetime
-    import logging
-    import warnings
-
     def has_numbers(inputString):
         return any(char.isdigit() for char in inputString)
 
@@ -31,14 +47,14 @@ def parser_gold_apple():
 
     for i in parsed_xml_list:
         # чекаем чтобы был дефис, чекаем чтобы были цифры, чекаем чтобы не было лишних категорий, чекаем чтобы в мапинге первым элементов была цифра
-        if 'goldapple.ru' in i and '-' in i and has_numbers(i)== True and len(i.split('/')) ==4 and i.split('/')[3][0].isdigit() == True:
+        if 'goldapple.ru' in i and '-' in i and has_numbers(i) and len(i.split('/')) ==4 and i.split('/')[3][0].isdigit():
             filtered_parsed_list.append(i)
 
     response = requests.get('https://goldapple.ru/pub/sitemap-1-2.xml')
     parsed_xml_list = response.text.replace('</loc>', '<loc>').split('<loc>')
 
     for i in parsed_xml_list:
-        if 'goldapple.ru' in i and '-' in i and has_numbers(i)== True and len(i.split('/')) ==4 and i.split('/')[3][0].isdigit() == True:
+        if 'goldapple.ru' in i and '-' in i and has_numbers(i) and len(i.split('/')) ==4 and i.split('/')[3][0].isdigit():
             filtered_parsed_list.append(i)
 
     len(filtered_parsed_list)
@@ -105,23 +121,10 @@ def parser_gold_apple():
 
 def parser_iledebeaute():
     #
-    import requests
-    import json
-    import pandas as pd
-    from bs4 import BeautifulSoup
-    import time
-    import re
-    from datetime import datetime
-    from datetime import date
-    import logging
-
     logging.basicConfig(filename=logs_global_address, filemode='a+', level=logging.INFO)
     logger = logging.getLogger()
 
     def log_progress(sequence, every=None, size=None, name='Items'):
-        from ipywidgets import IntProgress, HTML, VBox
-        from IPython.display import display
-
         is_iterator = False
         if size is None:
             try:
@@ -307,42 +310,8 @@ def parser_iledebeaute():
     db_handler.handle_iledebeaute(str(today))
 
 def parser_letu():
-
-    import re
-    import requests
-    import json
-    import time
-    import pandas as pd
-    from bs4 import BeautifulSoup
-    from datetime import date
-
-    import logging
-    import random
-
-    import warnings
-
-    from time import sleep
-
-    import requests
-    import random
-
-    from datetime import datetime
-    from selenium import webdriver
-    from selenium.webdriver.common.proxy import Proxy, ProxyType
-
-    import os
-    from selenium.webdriver.common.action_chains import ActionChains
-    from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
-    from selenium.webdriver.common.keys import Keys
-    from selenium.webdriver.support import expected_conditions as EC
-    from selenium.webdriver.support.ui import WebDriverWait
-    from selenium.webdriver.common.by import By
-    from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-
+    #
     def log_progress(sequence, every=None, size=None, name='Items'):
-        from ipywidgets import IntProgress, HTML, VBox
-        from IPython.display import display
-
         is_iterator = False
         if size is None:
             try:
@@ -710,20 +679,7 @@ def parser_letu():
 
 def parser_podrygka():
     #
-    import requests
-    import json
-    import pandas as pd
-    from bs4 import BeautifulSoup
-    import time
-    import re
-    from datetime import datetime
-    from datetime import date
-    import logging
-
-
     def log_progress(sequence, every=None, size=None, name='Items'):
-        from ipywidgets import IntProgress, HTML, VBox
-        from IPython.display import display
 
         is_iterator = False
         if size is None:
@@ -917,18 +873,7 @@ def parser_podrygka():
 
 def parser_rivegauche():
     #
-    import requests
-    import json
-    import pandas as pd
-    import time
-    from datetime import datetime
-    from datetime import date
-    import logging
-
     def log_progress(sequence, every=None, size=None, name='Items'):
-        from ipywidgets import IntProgress, HTML, VBox
-        from IPython.display import display
-
         is_iterator = False
         if size is None:
             try:
