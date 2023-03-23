@@ -1,0 +1,46 @@
+Надо будет разобрать возможность эксплойтов через прогон веб-скриптов js
+Ну то есть шлем скриптом команду на работу со скриптом и уже с ним проводим махинации и парсим
+Как я понимаю для этого нужен движок, но мб можно в докер будет упаквать всё
+
+не забываем дорки
+goldapple.ru api
+goldapple.ru robots.txt
+goldapple.ru xml csv json html txt sql
+
+
+по сайтмапам можно смотреть и парсить
+https://goldapple.ru/sitemap.xml
+
+-------------
+Можно при открытии сайта врубить сеть -> лог консоли, и тогда отловить все пост и гет запросы с сайта
+
+пока эффективный гет только на всё html
+
+из рабочих идей - поставить эмулятор мобильного приложения и отследить какие он шлет гет и пост запросы и затем повторить их в парсере
+
+curl:
+curl "https://goldapple.ru/101860-19000086034-belyj" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0" -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8" -H "Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3" -H "Accept-Encoding: gzip, deflate, br" -H "Connection: keep-alive" -H "Cookie: mage-translation-storage="%"7B"%"7D; mage-translation-file-version="%"7B"%"7D; PHPSESSID=c352b4f89d559306d9e0d6ffe9d28683; rr_rcs=eF4FwTESgDAIBMAmlX-5GS4IhB_4jgQLCzv1_e629q5DXElaYGZ17LImtKSj6GSeTEZt9_dcJYxU0H1wBF1kGNQA_nUcEPE; _userGUID=0:lacpv73h:kDHKNAcSUFLOkgtCvHSncaAdxnFqmOi7; digi_uc=W10=; _ga_QE5MQ8XJJK=GS1.1.1668192958.2.1.1668194523.0.0.0; _ga=GA1.2.755008030.1668184310; flocktory-uuid=bf422bff-a98f-43b2-b1ea-0ab6ee78b5bf-8; tmr_reqNum=169; tmr_lvid=020934285e7a2e7cd8b82dd0a1023e8a; tmr_lvidTS=1668184310438; _gid=GA1.2.351409174.1668184311; _ym_uid=1668184311484161716; _ym_d=1668184311; _ym_isad=2; adrdel=1; adrcid=AGXGIB7Lf4e1oxnzblMyHYQ; tmr_detect=0"%"7C1668194526486; form_key=Mki3fTOD2EEWgWk8; analytic_id=1668184341646414; mage-cache-storage="%"7B"%"7D; mage-cache-storage-section-invalidation="%"7B"%"7D; client-store-code=default; mage-cache-sessid=true; gdeslon.ru.__arc_domain=gdeslon.ru; gdeslon.ru.user_id=828c0c70-b427-4aa0-a523-e15a9a165df5; store=default; recently_viewed_product="%"7B"%"7D; recently_viewed_product_previous="%"7B"%"7D; recently_compared_product="%"7B"%"7D; recently_compared_product_previous="%"7B"%"7D; product_data_storage="%"7B"%"7D; section_data_ids="%"7B"%"22cart"%"22"%"3A1668192960"%"2C"%"22geolocation"%"22"%"3A1668192960"%"2C"%"22adult_goods"%"22"%"3A1668184342"%"2C"%"22customer"%"22"%"3A1668185385"%"7D; adid=166818434473006; mage-messages=; mindboxDeviceUUID=33f1420e-05e8-473d-bff8-622bef0fc4c1; directCrm-session="%"7B"%"22deviceGuid"%"22"%"3A"%"2233f1420e-05e8-473d-bff8-622bef0fc4c1"%"22"%"7D; dSesn=568947f1-8a3a-8fa2-8d1b-f953ced26aa7; _dvs=0:lacv0lm6:XHFXM0_SVR5Mu~GZxYBSIRw8N5tRYiCc; _gat_UA-31209334-1=1" -H "Upgrade-Insecure-Requests: 1" -H "Sec-Fetch-Dest: document" -H "Sec-Fetch-Mode: navigate" -H "Sec-Fetch-Site: none" -H "Sec-Fetch-User: ?1" -H "TE: trailers"
+
+await fetch("https://goldapple.ru/101860-19000086034-belyj", {
+    "credentials": "include",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1"
+    },
+    "method": "GET",
+    "mode": "cors"
+});
+
+
+летуаль - нужен обход защиты от парсинга
+При отправке гет-запрса нужно ждать пока прогрузится страница загрузки
+Там есть баннер, который гасит html-текст
+Соттветственно нужно, чтобы сессия провисела некоторое время над этим баннером
+
+

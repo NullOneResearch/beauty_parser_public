@@ -1,0 +1,147 @@
+INFO:root:new request: {%Уход за лицом%}
+INFO:root:new request: {%уход за лицом%}
+INFO:root:new request: {('%уход%', datetime.datetime(2022, 11, 26, 20, 9, 1, 108582))}
+INFO:root:new request: {('%уход%', '2022-11-26 20:09:22.840507')}
+INFO:root:new request: {('%уход за лицом%', '2022-11-26 20:10:11.203869')}
+INFO:root:new request: {('%Уход за лицом%', '2022-11-26 20:10:13.855510')}
+INFO:root:new request: {('%уход за лицом%', '2022-11-26 20:10:32.422454')}
+INFO:root:new request: {('%крем%', '2022-11-26 20:14:06.648177')}
+INFO:root:new request: {('%уход за лицом%', '2022-11-26 20:30:48.126723')}
+INFO:root:new request: {('%№ход за лицом%', '2022-11-26 20:30:54.386382')}
+INFO:root:new request: {('%Уход за лицом%', '2022-11-26 20:30:58.459813')}
+INFO:root:new request: {('%Уход за лицом%', '2022-11-26 20:31:08.307589')}
+INFO:root:new request: {('%Уход за лицом%', '2022-11-26 20:31:30.566414')}
+INFO:root:new request: {('%Уход за лицом%', '2022-11-26 20:31:38.902138')}
+INFO:root:new request: {('%Уход за лицом%', '2022-11-26 20:32:14.129899')}
+INFO:root:new request: {('%Уход за лицом%', '2022-11-26 20:32:41.497247')}
+INFO:root:new request: {('%Уход за лицом%', '2022-11-26 20:32:47.802368')}
+INFO:root:new request: {('%уход за лицом%', '2022-11-26 20:32:54.477676')}
+INFO:root:new request: {('%крем%', '2022-11-26 20:33:20.487183')}
+INFO:root:new request: {('%крем%', '2022-11-26 20:34:03.254676')}
+INFO:root:new request: {('%крем%', '2022-11-26 20:34:10.628738')}
+INFO:root:new request: {('%крем%', '2022-11-26 20:34:15.929294')}
+INFO:root:new request: {('%ACHROMIN%', '2022-11-26 20:35:44.009083')}
+INFO:root:new request: {('%ACHROMIN%', '2022-11-26 20:35:47.890604')}
+INFO:root:new request: {('%ACHROMIN%', '2022-11-26 20:35:51.615676')}
+INFO:root:new request: {('%achromin%', '2022-11-26 20:36:00.821839')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:35:24.020363')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:37:32.982650')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:37:41.538877')}
+INFO:root:new request: {('%Тестовый запрос%', '2022-11-29 19:47:02.675202')}
+INFO:root:new request: {('%Тестовый запрос%', '2022-11-29 19:47:41.067087')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:48:01.882400')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:48:54.555771')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:49:21.877423')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:50:12.410278')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:50:26.775574')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:17.505248')}
+INFO:root:new request: {('%крем garnier%', '2022-11-29 19:56:18.588842')}
+INFO:root:new request: {('%test test%', '2022-11-29 19:56:19.085998')}
+INFO:root:new request: {('%ты че...%', '2022-11-29 19:56:19.552041')}
+INFO:root:new request: {('%апдейт%', '2022-11-29 19:56:20.045470')}
+INFO:root:new request: {('%Дима хорош%', '2022-11-29 19:56:20.541769')}
+INFO:root:new request: {('%слыш%', '2022-11-29 19:56:21.070952')}
+INFO:root:new request: {('%О_О%', '2022-11-29 19:56:21.665372')}
+INFO:root:new request: {('%False%', '2022-11-29 19:56:22.202225')}
+INFO:root:new request: {('%не answered!!!%', '2022-11-29 19:56:22.705227')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:23.215243')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:23.857654')}
+INFO:root:new request: {('%картошка%', '2022-11-29 19:56:24.524249')}
+INFO:root:new request: {('%че тупим%', '2022-11-29 19:56:25.220480')}
+INFO:root:new request: {('%проверка%', '2022-11-29 19:56:25.835171')}
+INFO:root:new request: {('%тест проверка%', '2022-11-29 19:56:26.344866')}
+INFO:root:new request: {('%тест%', '2022-11-29 19:56:26.860347')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:56:27.404442')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:56:27.916236')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:56:28.443116')}
+INFO:root:new request: {('%проверочка%', '2022-11-29 19:56:28.993677')}
+INFO:root:new request: {('%Тестовый запрос%', '2022-11-29 19:56:29.519474')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:30.076099')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:30.712566')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:31.346437')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:42.348365')}
+INFO:root:new request: {('%крем garnier%', '2022-11-29 19:56:42.988602')}
+INFO:root:new request: {('%test test%', '2022-11-29 19:56:43.495786')}
+INFO:root:new request: {('%ты че...%', '2022-11-29 19:56:43.944391')}
+INFO:root:new request: {('%апдейт%', '2022-11-29 19:56:44.496911')}
+INFO:root:new request: {('%Дима хорош%', '2022-11-29 19:56:45.090481')}
+INFO:root:new request: {('%слыш%', '2022-11-29 19:56:45.633923')}
+INFO:root:new request: {('%О_О%', '2022-11-29 19:56:46.160931')}
+INFO:root:new request: {('%False%', '2022-11-29 19:56:46.697111')}
+INFO:root:new request: {('%не answered!!!%', '2022-11-29 19:56:47.179635')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:47.692740')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:48.361569')}
+INFO:root:new request: {('%картошка%', '2022-11-29 19:56:49.001502')}
+INFO:root:new request: {('%че тупим%', '2022-11-29 19:56:49.498807')}
+INFO:root:new request: {('%проверка%', '2022-11-29 19:56:49.972871')}
+INFO:root:new request: {('%тест проверка%', '2022-11-29 19:56:50.464473')}
+INFO:root:new request: {('%тест%', '2022-11-29 19:56:50.963617')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:56:51.489450')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:56:52.037390')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:56:52.512157')}
+INFO:root:new request: {('%проверочка%', '2022-11-29 19:56:52.996656')}
+INFO:root:new request: {('%Тестовый запрос%', '2022-11-29 19:56:53.552093')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:54.171629')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:54.839847')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:56:55.456127')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:57:06.463711')}
+INFO:root:new request: {('%крем garnier%', '2022-11-29 19:57:07.097820')}
+INFO:root:new request: {('%test test%', '2022-11-29 19:57:07.571493')}
+INFO:root:new request: {('%ты че...%', '2022-11-29 19:57:08.025631')}
+INFO:root:new request: {('%апдейт%', '2022-11-29 19:57:08.581122')}
+INFO:root:new request: {('%Дима хорош%', '2022-11-29 19:57:09.140913')}
+INFO:root:new request: {('%слыш%', '2022-11-29 19:57:09.713479')}
+INFO:root:new request: {('%О_О%', '2022-11-29 19:57:10.291757')}
+INFO:root:new request: {('%False%', '2022-11-29 19:57:10.874726')}
+INFO:root:new request: {('%не answered!!!%', '2022-11-29 19:57:11.374478')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:57:11.923602')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:57:12.561087')}
+INFO:root:new request: {('%картошка%', '2022-11-29 19:57:13.233088')}
+INFO:root:new request: {('%че тупим%', '2022-11-29 19:57:13.727584')}
+INFO:root:new request: {('%проверка%', '2022-11-29 19:57:14.182060')}
+INFO:root:new request: {('%тест проверка%', '2022-11-29 19:57:14.685257')}
+INFO:root:new request: {('%тест%', '2022-11-29 19:57:15.161163')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:57:15.716554')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:57:16.207755')}
+INFO:root:new request: {('%тестирование%', '2022-11-29 19:57:16.694510')}
+INFO:root:new request: {('%проверочка%', '2022-11-29 19:57:17.158194')}
+INFO:root:new request: {('%Тестовый запрос%', '2022-11-29 19:57:17.662873')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:57:18.187691')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:57:18.848169')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:57:19.573784')}
+INFO:root:new request: {('%крем%', '2022-11-29 19:57:30.630218')}
+INFO:root:new request: {('%крем garnier%', '2022-11-29 19:57:31.286696')}
+INFO:root:new request: {('%test test%', '2022-11-29 19:57:31.801522')}
+INFO:root:new request: {('%ты че...%', '2022-11-29 19:57:32.220538')}
+INFO:root:new request: {('%крема%', '2022-11-29 19:58:15.897178')}
+INFO:root:new request: {('%тест%', '2022-11-29 20:07:33.361031')}
+INFO:root:new request: {('%кремчик%', '2022-11-29 20:13:02.515208')}
+INFO:root:new request: {('%крем%', '2022-11-29 20:17:06.647839')}
+INFO:root:new request: {('%кремасик%', '2022-11-29 20:19:23.745461')}
+INFO:root:new request: {('%payot%', '2022-11-29 20:29:26.994029')}
+INFO:root:new request: {('%PAYOT Крем для лица успокаивающий, уменьшающий покраснения с насыщенной текстурой%', '2022-11-29 20:30:09.436339')}
+INFO:root:new request: {('%Крем для лица успокаивающий, уменьшающий покраснения с насыщенной текстурой%', '2022-11-29 20:30:20.085561')}
+INFO:root:new request: {('%juliette has a gun%', '2022-11-29 20:32:50.950295')}
+INFO:root:new request: {('%babor%', '2022-11-29 20:33:11.827917')}
+INFO:root:new request: {('%Not a Body lotion%', '2022-11-29 20:33:42.957556')}
+INFO:root:new request: {('%Moscow Mule%', '2022-11-29 20:34:44.862624')}
+INFO:root:new request: {('%крем%', '2022-11-29 20:53:55.178509')}
+INFO:root:new request: {('%крем%', '2022-11-29 20:59:57.412308')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:00:17.587639')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:00:28.877614')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:01:37.269604')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:01:44.691431')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:01:56.754463')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:02:15.293058')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:05:07.621460')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:05:59.333197')}
+INFO:root:new request: {('%крем%', '2022-11-29 21:09:59.812306')}
+INFO:root:new request: {('%juliette has a gun mmm%', '2022-11-29 21:11:01.934237')}
+INFO:root:new request: {('%juliette has a gun mmmm%', '2022-11-29 21:11:24.477147')}
+INFO:root:new request: {('%juliette has a gun%', '2022-11-29 21:11:49.449778')}
+INFO:root:new request: {('%Juliette%', '2022-11-29 21:13:52.515938')}
+INFO:root:new request: {('%juliette%', '2022-11-29 21:21:55.169754')}
+INFO:root:new request: {("%L'ATELIER PARFUM leather black (k)night%", '2022-11-30 21:57:52.255605')}
+INFO:root:new request: {('%PAYOT blue techni liss jour%', '2022-11-30 21:58:17.423012')}
+INFO:root:new request: {('%blue techni liss jour%', '2022-11-30 21:58:50.276535')}
+INFO:root:new request: {('%Juliette has a gun Moscow Mule%', '2022-11-30 22:01:35.509740')}

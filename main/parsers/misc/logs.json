@@ -1,0 +1,2776 @@
+INFO:root:initiating parsing sequence: {2022-12-01 03:05:34.218865}
+INFO:root:start gold_apple sequence: {2022-12-01 03:05:34.219862}
+INFO:root:trouble with sku: {('10654018', 1)}
+INFO:root:trouble with sku: {('10799', 2)}
+INFO:root:trouble with sku: {('100912', 3)}
+INFO:root:trouble with sku: {('12207', 4)}
+INFO:root:trouble with sku: {('19000009762', 5)}
+INFO:root:trouble with sku: {('11779021', 6)}
+INFO:root:trouble with sku: {('10528025', 7)}
+INFO:root:trouble with sku: {('11708040', 8)}
+INFO:root:trouble with sku: {('10120006', 9)}
+INFO:root:trouble with sku: {('110743013', 10)}
+INFO:root:trouble with sku: {('101358', 11)}
+INFO:root:trouble with sku: {('10207065', 12)}
+INFO:root:trouble with sku: {('10661016', 13)}
+INFO:root:trouble with sku: {('19000121624', 14)}
+INFO:root:trouble with sku: {('11386008', 15)}
+INFO:root:trouble with sku: {('10225', 16)}
+INFO:root:trouble with sku: {('6252', 17)}
+INFO:root:trouble with sku: {('11289', 18)}
+INFO:root:trouble with sku: {('100370', 19)}
+INFO:root:trouble with sku: {('12203', 20)}
+INFO:root:trouble with sku: {('10084005', 21)}
+INFO:root:trouble with sku: {('10553128', 22)}
+INFO:root:trouble with sku: {('11999', 23)}
+INFO:root:trouble with sku: {('10844004', 24)}
+INFO:root:trouble with sku: {('100234', 25)}
+INFO:root:trouble with sku: {('102183', 26)}
+INFO:root:trouble with sku: {('10660001', 27)}
+INFO:root:trouble with sku: {('19000121121', 28)}
+INFO:root:trouble with sku: {('101326', 29)}
+INFO:root:trouble with sku: {('40664', 30)}
+INFO:root:trouble with sku: {('11092004', 31)}
+INFO:root:trouble with sku: {('10010', 32)}
+INFO:root:trouble with sku: {('19000011502', 33)}
+INFO:root:trouble with sku: {('19000086455', 34)}
+INFO:root:trouble with sku: {('19760341191', 35)}
+INFO:root:trouble with sku: {('10072008', 36)}
+INFO:root:trouble with sku: {('101028', 37)}
+INFO:root:trouble with sku: {('11379', 38)}
+INFO:root:trouble with sku: {('10213', 39)}
+INFO:root:trouble with sku: {('50020', 40)}
+INFO:root:trouble with sku: {('11092117', 41)}
+INFO:root:trouble with sku: {('12089', 42)}
+INFO:root:trouble with sku: {('10000', 43)}
+INFO:root:trouble with sku: {('11821022', 44)}
+INFO:root:trouble with sku: {('100692', 45)}
+INFO:root:trouble with sku: {('6624', 46)}
+INFO:root:trouble with sku: {('11223005', 47)}
+INFO:root:trouble with sku: {('90324', 48)}
+INFO:root:trouble with sku: {('19000072611', 49)}
+INFO:root:trouble with sku: {('101423', 50)}
+INFO:root:trouble with sku: {('102262', 51)}
+INFO:root:trouble with sku: {('100951', 52)}
+INFO:root:trouble with sku: {('101798', 53)}
+INFO:root:trouble with sku: {('9611', 54)}
+INFO:root:trouble with sku: {('9498', 55)}
+INFO:root:trouble with sku: {('11681', 56)}
+INFO:root:trouble with sku: {('10350', 57)}
+INFO:root:trouble with sku: {('101494', 58)}
+INFO:root:trouble with sku: {('10329012', 59)}
+INFO:root:trouble with sku: {('69940500109', 60)}
+INFO:root:trouble with sku: {('82257', 61)}
+INFO:root:trouble with sku: {('11047', 62)}
+INFO:root:trouble with sku: {('11450', 63)}
+INFO:root:trouble with sku: {('10916', 64)}
+INFO:root:trouble with sku: {('117072010', 65)}
+INFO:root:trouble with sku: {('10031013', 66)}
+INFO:root:trouble with sku: {('22030', 67)}
+INFO:root:trouble with sku: {('102054', 68)}
+INFO:root:trouble with sku: {('19000087039', 69)}
+INFO:root:trouble with sku: {('10137007', 70)}
+INFO:root:trouble with sku: {('30279', 71)}
+INFO:root:trouble with sku: {('9232', 72)}
+INFO:root:trouble with sku: {('10862004', 73)}
+INFO:root:trouble with sku: {('10072002', 74)}
+INFO:root:trouble with sku: {('10227', 75)}
+INFO:root:trouble with sku: {('19000034287', 76)}
+INFO:root:trouble with sku: {('11092079', 77)}
+INFO:root:trouble with sku: {('101415', 78)}
+INFO:root:trouble with sku: {('10207060', 79)}
+INFO:root:trouble with sku: {('11120', 80)}
+INFO:root:trouble with sku: {('10027', 81)}
+INFO:root:trouble with sku: {('10610023', 82)}
+INFO:root:trouble with sku: {('10805053', 83)}
+INFO:root:trouble with sku: {('10528030', 84)}
+INFO:root:trouble with sku: {('11821045', 85)}
+INFO:root:trouble with sku: {('14367', 86)}
+INFO:root:trouble with sku: {('12073', 87)}
+INFO:root:trouble with sku: {('18200', 88)}
+INFO:root:trouble with sku: {('102558', 89)}
+INFO:root:trouble with sku: {('2709000', 90)}
+INFO:root:trouble with sku: {('10820016', 91)}
+INFO:root:trouble with sku: {('19000055909', 92)}
+INFO:root:trouble with sku: {('11535002', 93)}
+INFO:root:trouble with sku: {('18408', 94)}
+INFO:root:trouble with sku: {('11850', 95)}
+INFO:root:trouble with sku: {('11386014', 96)}
+INFO:root:trouble with sku: {('10317', 97)}
+INFO:root:trouble with sku: {('14377', 98)}
+INFO:root:trouble with sku: {('11098', 99)}
+INFO:root:trouble with sku: {('92133', 100)}
+INFO:root:trouble with sku: {('10137', 101)}
+INFO:root:trouble with sku: {('101479', 102)}
+INFO:root:trouble with sku: {('1023900006', 103)}
+INFO:root:trouble with sku: {('11552011', 104)}
+INFO:root:trouble with sku: {('11473', 105)}
+INFO:root:trouble with sku: {('10661019', 106)}
+INFO:root:trouble with sku: {('11821038', 107)}
+INFO:root:trouble with sku: {('15533', 108)}
+INFO:root:trouble with sku: {('10820001', 109)}
+INFO:root:trouble with sku: {('11076004', 110)}
+INFO:root:trouble with sku: {('10207047', 111)}
+INFO:root:trouble with sku: {('101839', 112)}
+INFO:root:trouble with sku: {('101697', 113)}
+INFO:root:trouble with sku: {('16393', 114)}
+INFO:root:trouble with sku: {('17801', 115)}
+INFO:root:trouble with sku: {('12157', 116)}
+INFO:root:trouble with sku: {('10051032', 117)}
+INFO:root:trouble with sku: {('11005015', 118)}
+INFO:root:trouble with sku: {('14374', 119)}
+INFO:root:trouble with sku: {('10401009', 120)}
+INFO:root:trouble with sku: {('10654015', 121)}
+INFO:root:trouble with sku: {('11805029', 122)}
+INFO:root:trouble with sku: {('1006033', 123)}
+INFO:root:trouble with sku: {('90627', 124)}
+INFO:root:trouble with sku: {('117072011', 125)}
+INFO:root:trouble with sku: {('10226005', 126)}
+INFO:root:trouble with sku: {('10528006', 127)}
+INFO:root:trouble with sku: {('10820023', 128)}
+INFO:root:trouble with sku: {('111293047', 129)}
+INFO:root:trouble with sku: {('10070049', 130)}
+INFO:root:trouble with sku: {('22218', 131)}
+INFO:root:trouble with sku: {('10209070', 132)}
+INFO:root:trouble with sku: {('10207074', 133)}
+INFO:root:trouble with sku: {('100593', 134)}
+INFO:root:trouble with sku: {('92100', 135)}
+INFO:root:trouble with sku: {('10120003', 136)}
+INFO:root:trouble with sku: {('100084', 137)}
+INFO:root:trouble with sku: {('19000009735', 138)}
+INFO:root:trouble with sku: {('102387', 139)}
+INFO:root:trouble with sku: {('11821012', 140)}
+INFO:root:trouble with sku: {('10072052', 141)}
+INFO:root:trouble with sku: {('10820007', 142)}
+INFO:root:trouble with sku: {('102402', 143)}
+INFO:root:trouble with sku: {('19000097858', 144)}
+INFO:root:trouble with sku: {('11665018', 145)}
+INFO:root:trouble with sku: {('82253', 146)}
+INFO:root:trouble with sku: {('82261', 147)}
+INFO:root:trouble with sku: {('11455', 148)}
+INFO:root:trouble with sku: {('100067', 149)}
+INFO:root:trouble with sku: {('10933', 150)}
+INFO:root:trouble with sku: {('12147', 151)}
+INFO:root:trouble with sku: {('69940500093', 152)}
+INFO:root:trouble with sku: {('18901', 153)}
+INFO:root:trouble with sku: {('101195', 154)}
+INFO:root:trouble with sku: {('11247', 155)}
+INFO:root:trouble with sku: {('19760306252', 156)}
+INFO:root:trouble with sku: {('11219095', 157)}
+INFO:root:trouble with sku: {('6582', 158)}
+INFO:root:trouble with sku: {('11503011', 159)}
+INFO:root:trouble with sku: {('55008', 160)}
+INFO:root:trouble with sku: {('100463', 161)}
+INFO:root:trouble with sku: {('11248055', 162)}
+INFO:root:trouble with sku: {('100594', 163)}
+INFO:root:trouble with sku: {('10120', 164)}
+INFO:root:trouble with sku: {('50177', 165)}
+INFO:root:trouble with sku: {('101421', 166)}
+INFO:root:trouble with sku: {('55007', 167)}
+INFO:root:trouble with sku: {('50250', 168)}
+INFO:root:trouble with sku: {('10326', 169)}
+INFO:root:trouble with sku: {('19760301651', 170)}
+INFO:root:trouble with sku: {('12078', 171)}
+INFO:root:trouble with sku: {('102497', 172)}
+INFO:root:trouble with sku: {('10072021', 173)}
+INFO:root:trouble with sku: {('19000009757', 174)}
+INFO:root:trouble with sku: {('101967', 175)}
+INFO:root:trouble with sku: {('101984', 176)}
+INFO:root:trouble with sku: {('11947', 177)}
+INFO:root:trouble with sku: {('12217', 178)}
+INFO:root:trouble with sku: {('30031', 179)}
+INFO:root:trouble with sku: {('18942', 180)}
+INFO:root:trouble with sku: {('11997', 181)}
+INFO:root:trouble with sku: {('10434049', 182)}
+INFO:root:trouble with sku: {('101108', 183)}
+INFO:root:trouble with sku: {('10036021', 184)}
+INFO:root:trouble with sku: {('17667', 185)}
+INFO:root:trouble with sku: {('92149', 186)}
+INFO:root:trouble with sku: {('10209006', 187)}
+INFO:root:trouble with sku: {('85007', 188)}
+INFO:root:trouble with sku: {('92134', 189)}
+INFO:root:trouble with sku: {('10802', 190)}
+INFO:root:trouble with sku: {('41036', 191)}
+INFO:root:trouble with sku: {('10152', 192)}
+INFO:root:trouble with sku: {('11407', 193)}
+INFO:root:trouble with sku: {('91455', 194)}
+INFO:root:trouble with sku: {('101154', 195)}
+INFO:root:trouble with sku: {('102014', 196)}
+INFO:root:trouble with sku: {('10952021', 197)}
+INFO:root:trouble with sku: {('19000016934', 198)}
+INFO:root:trouble with sku: {('11965', 199)}
+INFO:root:trouble with sku: {('7316', 200)}
+INFO:root:trouble with sku: {('15825', 201)}
+INFO:root:trouble with sku: {('11539002', 202)}
+INFO:root:trouble with sku: {('101620', 203)}
+INFO:root:trouble with sku: {('10805050', 204)}
+INFO:root:trouble with sku: {('10058006', 205)}
+INFO:root:trouble with sku: {('110743010', 206)}
+INFO:root:trouble with sku: {('11792', 207)}
+INFO:root:trouble with sku: {('10072044', 208)}
+INFO:root:trouble with sku: {('10036031', 209)}
+INFO:root:trouble with sku: {('11805012', 210)}
+INFO:root:trouble with sku: {('101206', 211)}
+INFO:root:trouble with sku: {('100180', 212)}
+INFO:root:trouble with sku: {('100257', 213)}
+INFO:root:trouble with sku: {('11106001', 214)}
+INFO:root:trouble with sku: {('10528040', 215)}
+INFO:root:trouble with sku: {('9260', 216)}
+INFO:root:trouble with sku: {('101288', 217)}
+INFO:root:trouble with sku: {('11800', 218)}
+INFO:root:trouble with sku: {('10066083', 219)}
+INFO:root:trouble with sku: {('10049', 220)}
+INFO:root:trouble with sku: {('14397', 221)}
+INFO:root:trouble with sku: {('10460', 222)}
+INFO:root:trouble with sku: {('10039049', 223)}
+INFO:root:trouble with sku: {('12170', 224)}
+INFO:root:trouble with sku: {('10660029', 225)}
+INFO:root:trouble with sku: {('10661024', 226)}
+INFO:root:trouble with sku: {('102256', 227)}
+INFO:root:trouble with sku: {('14383', 228)}
+INFO:root:trouble with sku: {('10010004', 229)}
+INFO:root:trouble with sku: {('117072036', 230)}
+INFO:root:trouble with sku: {('10687083', 231)}
+INFO:root:trouble with sku: {('10226', 232)}
+INFO:root:trouble with sku: {('10811', 233)}
+INFO:root:trouble with sku: {('10805020', 234)}
+INFO:root:trouble with sku: {('19000121130', 235)}
+INFO:root:trouble with sku: {('11076006', 236)}
+INFO:root:trouble with sku: {('9272', 237)}
+INFO:root:trouble with sku: {('11836021', 238)}
+INFO:root:trouble with sku: {('92102', 239)}
+INFO:root:trouble with sku: {('10553', 240)}
+INFO:root:trouble with sku: {('19000078404', 241)}
+INFO:root:trouble with sku: {('10939', 242)}
+INFO:root:trouble with sku: {('10071008', 243)}
+INFO:root:trouble with sku: {('11589017', 244)}
+INFO:root:trouble with sku: {('19000062891', 245)}
+INFO:root:trouble with sku: {('101992', 246)}
+INFO:root:trouble with sku: {('101685', 247)}
+INFO:root:trouble with sku: {('100314', 248)}
+INFO:root:trouble with sku: {('10007002', 249)}
+INFO:root:trouble with sku: {('90070', 250)}
+INFO:root:trouble with sku: {('7251600003', 251)}
+INFO:root:trouble with sku: {('101091', 252)}
+INFO:root:trouble with sku: {('24233700002', 253)}
+INFO:root:trouble with sku: {('91014', 254)}
+INFO:root:trouble with sku: {('9701', 255)}
+INFO:root:trouble with sku: {('10269042', 256)}
+INFO:root:trouble with sku: {('12116', 257)}
+INFO:root:trouble with sku: {('10893', 258)}
+INFO:root:trouble with sku: {('10137006', 259)}
+INFO:root:trouble with sku: {('10815', 260)}
+INFO:root:trouble with sku: {('10837006', 261)}
+INFO:root:trouble with sku: {('19000121607', 262)}
+INFO:root:trouble with sku: {('11746003', 263)}
+INFO:root:trouble with sku: {('10258002', 264)}
+INFO:root:trouble with sku: {('10168', 265)}
+INFO:root:trouble with sku: {('19760345189', 266)}
+INFO:root:trouble with sku: {('9925', 267)}
+INFO:root:trouble with sku: {('50483', 268)}
+INFO:root:trouble with sku: {('10106', 269)}
+INFO:root:trouble with sku: {('10820', 270)}
+INFO:root:trouble with sku: {('24471400003', 271)}
+INFO:root:trouble with sku: {('10454', 272)}
+INFO:root:trouble with sku: {('19144', 273)}
+INFO:root:trouble with sku: {('101349', 274)}
+INFO:root:trouble with sku: {('100673', 275)}
+INFO:root:trouble with sku: {('19000121609', 276)}
+INFO:root:trouble with sku: {('3', 277)}
+INFO:root:trouble with sku: {('102237', 278)}
+INFO:root:trouble with sku: {('11815020', 279)}
+INFO:root:trouble with sku: {('19000093459', 280)}
+INFO:root:trouble with sku: {('19133', 281)}
+INFO:root:trouble with sku: {('10058', 282)}
+INFO:root:trouble with sku: {('11461046', 283)}
+INFO:root:trouble with sku: {('100837', 284)}
+INFO:root:trouble with sku: {('11821008', 285)}
+INFO:root:trouble with sku: {('13405', 286)}
+INFO:root:trouble with sku: {('14027', 287)}
+INFO:root:trouble with sku: {('100811', 288)}
+INFO:root:trouble with sku: {('11717', 289)}
+INFO:root:trouble with sku: {('10820017', 290)}
+INFO:root:trouble with sku: {('100237', 291)}
+INFO:root:trouble with sku: {('10789', 292)}
+INFO:root:trouble with sku: {('10813', 293)}
+INFO:root:trouble with sku: {('10051044', 294)}
+INFO:root:trouble with sku: {('10051038', 295)}
+INFO:root:trouble with sku: {('10030', 296)}
+INFO:root:trouble with sku: {('11503024', 297)}
+INFO:root:trouble with sku: {('100961', 298)}
+INFO:root:trouble with sku: {('10243', 299)}
+INFO:root:trouble with sku: {('19000125879', 300)}
+INFO:root:trouble with sku: {('10805110', 301)}
+INFO:root:trouble with sku: {('6572', 302)}
+INFO:root:trouble with sku: {('10688046', 303)}
+INFO:root:trouble with sku: {('12289', 304)}
+INFO:root:trouble with sku: {('30051', 305)}
+INFO:root:trouble with sku: {('10763110', 306)}
+INFO:root:trouble with sku: {('85012', 307)}
+INFO:root:trouble with sku: {('11191', 308)}
+INFO:root:trouble with sku: {('10028017', 309)}
+INFO:root:trouble with sku: {('100694', 310)}
+INFO:root:trouble with sku: {('10051002', 311)}
+INFO:root:trouble with sku: {('100661', 312)}
+INFO:root:trouble with sku: {('9927', 313)}
+INFO:root:trouble with sku: {('100372', 314)}
+INFO:root:trouble with sku: {('10247', 315)}
+INFO:root:trouble with sku: {('100464', 316)}
+INFO:root:trouble with sku: {('11349', 317)}
+INFO:root:trouble with sku: {('10072', 318)}
+INFO:root:trouble with sku: {('100865', 319)}
+INFO:root:trouble with sku: {('1636900035', 320)}
+INFO:root:trouble with sku: {('11117', 321)}
+INFO:root:trouble with sku: {('30032', 322)}
+INFO:root:trouble with sku: {('11544', 323)}
+INFO:root:trouble with sku: {('9704', 324)}
+INFO:root:trouble with sku: {('101420', 325)}
+INFO:root:trouble with sku: {('18906', 326)}
+INFO:root:trouble with sku: {('10660', 327)}
+INFO:root:trouble with sku: {('9238', 328)}
+INFO:root:trouble with sku: {('12062', 329)}
+INFO:root:trouble with sku: {('11392039', 330)}
+INFO:root:trouble with sku: {('90004', 331)}
+INFO:root:trouble with sku: {('10483', 332)}
+INFO:root:trouble with sku: {('10553013', 333)}
+INFO:root:trouble with sku: {('100417', 334)}
+INFO:root:trouble with sku: {('11427019', 335)}
+INFO:root:trouble with sku: {('11879', 336)}
+INFO:root:trouble with sku: {('6547', 337)}
+INFO:root:trouble with sku: {('11714012', 338)}
+INFO:root:trouble with sku: {('12248', 339)}
+INFO:root:trouble with sku: {('100155', 340)}
+INFO:root:trouble with sku: {('1006026', 341)}
+INFO:root:trouble with sku: {('13252600001', 342)}
+INFO:root:trouble with sku: {('10052', 343)}
+INFO:root:trouble with sku: {('100169', 344)}
+INFO:root:trouble with sku: {('6008105', 345)}
+INFO:root:trouble with sku: {('10179', 346)}
+INFO:root:trouble with sku: {('11910', 347)}
+INFO:root:trouble with sku: {('10554006', 348)}
+INFO:root:trouble with sku: {('10610037', 349)}
+INFO:root:trouble with sku: {('117072', 350)}
+INFO:root:trouble with sku: {('10690', 351)}
+INFO:root:trouble with sku: {('9658', 352)}
+INFO:root:trouble with sku: {('18190', 353)}
+INFO:root:trouble with sku: {('100627', 354)}
+INFO:root:trouble with sku: {('10610052', 355)}
+INFO:root:trouble with sku: {('19000121615', 356)}
+INFO:root:trouble with sku: {('10832', 357)}
+INFO:root:trouble with sku: {('101841', 358)}
+INFO:root:trouble with sku: {('30198', 359)}
+INFO:root:trouble with sku: {('12087', 360)}
+INFO:root:trouble with sku: {('102350', 361)}
+INFO:root:trouble with sku: {('10948', 362)}
+INFO:root:trouble with sku: {('10072047', 363)}
+INFO:root:trouble with sku: {('10070048', 364)}
+INFO:root:trouble with sku: {('12101', 365)}
+INFO:root:trouble with sku: {('10553007', 366)}
+INFO:root:trouble with sku: {('24281600003', 367)}
+INFO:root:trouble with sku: {('11865003', 368)}
+INFO:root:trouble with sku: {('1082101003', 369)}
+INFO:root:trouble with sku: {('11219004', 370)}
+INFO:root:trouble with sku: {('11385', 371)}
+INFO:root:trouble with sku: {('19000009837', 372)}
+INFO:root:trouble with sku: {('10661053', 373)}
+INFO:root:trouble with sku: {('19000084042', 374)}
+INFO:root:trouble with sku: {('10066063', 375)}
+INFO:root:trouble with sku: {('10820003', 376)}
+INFO:root:trouble with sku: {('10031010', 377)}
+INFO:root:trouble with sku: {('11481001', 378)}
+INFO:root:trouble with sku: {('9469', 379)}
+INFO:root:trouble with sku: {('3218300003', 380)}
+INFO:root:trouble with sku: {('10262', 381)}
+INFO:root:trouble with sku: {('100415', 382)}
+INFO:root:trouble with sku: {('10119', 383)}
+INFO:root:trouble with sku: {('92146', 384)}
+INFO:root:trouble with sku: {('11805011', 385)}
+INFO:root:trouble with sku: {('12232', 386)}
+INFO:root:trouble with sku: {('11864', 387)}
+INFO:root:trouble with sku: {('100650', 388)}
+INFO:root:trouble with sku: {('19000009725', 389)}
+INFO:root:trouble with sku: {('19000009758', 390)}
+INFO:root:trouble with sku: {('10039055', 391)}
+INFO:root:trouble with sku: {('10031012', 392)}
+INFO:root:trouble with sku: {('100218', 393)}
+INFO:root:trouble with sku: {('117072031', 394)}
+INFO:root:trouble with sku: {('10072055', 395)}
+INFO:root:trouble with sku: {('101332', 396)}
+INFO:root:trouble with sku: {('10011022', 397)}
+INFO:root:trouble with sku: {('11857065', 398)}
+INFO:root:trouble with sku: {('13742', 399)}
+INFO:root:trouble with sku: {('11274055', 400)}
+INFO:root:trouble with sku: {('12251', 401)}
+INFO:root:trouble with sku: {('11714009', 402)}
+INFO:root:trouble with sku: {('30039', 403)}
+INFO:root:trouble with sku: {('101980', 404)}
+INFO:root:trouble with sku: {('11447', 405)}
+INFO:root:trouble with sku: {('10066004', 406)}
+INFO:root:trouble with sku: {('101440', 407)}
+INFO:root:trouble with sku: {('101355', 408)}
+INFO:root:trouble with sku: {('11662', 409)}
+INFO:root:trouble with sku: {('50025', 410)}
+INFO:root:trouble with sku: {('101488', 411)}
+INFO:root:trouble with sku: {('100888', 412)}
+INFO:root:trouble with sku: {('11841037', 413)}
+INFO:root:trouble with sku: {('100481', 414)}
+INFO:root:trouble with sku: {('11595024', 415)}
+INFO:root:trouble with sku: {('14017', 416)}
+INFO:root:trouble with sku: {('60355', 417)}
+INFO:root:trouble with sku: {('10291', 418)}
+INFO:root:trouble with sku: {('100864', 419)}
+INFO:root:trouble with sku: {('10110', 420)}
+INFO:root:trouble with sku: {('90314', 421)}
+INFO:root:trouble with sku: {('10066022', 422)}
+INFO:root:trouble with sku: {('1012800011', 423)}
+INFO:root:trouble with sku: {('110743016', 424)}
+INFO:root:trouble with sku: {('12121', 425)}
+INFO:root:trouble with sku: {('10926', 426)}
+INFO:root:trouble with sku: {('101793', 427)}
+INFO:root:trouble with sku: {('102366', 428)}
+INFO:root:trouble with sku: {('101988', 429)}
+INFO:root:trouble with sku: {('11737004', 430)}
+INFO:root:trouble with sku: {('101812', 431)}
+INFO:root:trouble with sku: {('13999', 432)}
+INFO:root:trouble with sku: {('14346', 433)}
+INFO:root:trouble with sku: {('101857', 434)}
+INFO:root:trouble with sku: {('10044037', 435)}
+INFO:root:trouble with sku: {('11956', 436)}
+INFO:root:trouble with sku: {('3603', 437)}
+INFO:root:trouble with sku: {('100008', 438)}
+INFO:root:trouble with sku: {('11026', 439)}
+INFO:root:trouble with sku: {('101431', 440)}
+INFO:root:trouble with sku: {('22024', 441)}
+INFO:root:trouble with sku: {('19000121127', 442)}
+INFO:root:trouble with sku: {('101290', 443)}
+INFO:root:trouble with sku: {('50248', 444)}
+INFO:root:trouble with sku: {('11780', 445)}
+INFO:root:trouble with sku: {('40642', 446)}
+INFO:root:trouble with sku: {('11673', 447)}
+INFO:root:trouble with sku: {('101785', 448)}
+INFO:root:trouble with sku: {('40743', 449)}
+INFO:root:trouble with sku: {('19760330525', 450)}
+INFO:root:trouble with sku: {('100753', 451)}
+INFO:root:trouble with sku: {('11821033', 452)}
+INFO:root:trouble with sku: {('11071', 453)}
+INFO:root:trouble with sku: {('11219104', 454)}
+INFO:root:trouble with sku: {('11841038', 455)}
+INFO:root:trouble with sku: {('100525', 456)}
+INFO:root:trouble with sku: {('101916', 457)}
+INFO:root:trouble with sku: {('14077', 458)}
+INFO:root:trouble with sku: {('100019', 459)}
+INFO:root:trouble with sku: {('10528020', 460)}
+INFO:root:trouble with sku: {('100076', 461)}
+INFO:root:trouble with sku: {('102050', 462)}
+INFO:root:trouble with sku: {('15829', 463)}
+INFO:root:trouble with sku: {('100390', 464)}
+INFO:root:trouble with sku: {('50244', 465)}
+INFO:root:trouble with sku: {('91150', 466)}
+INFO:root:trouble with sku: {('101432', 467)}
+INFO:root:trouble with sku: {('11665', 468)}
+INFO:root:trouble with sku: {('101077', 469)}
+INFO:root:trouble with sku: {('101482', 470)}
+INFO:root:trouble with sku: {('101144', 471)}
+INFO:root:trouble with sku: {('10018', 472)}
+INFO:root:trouble with sku: {('10805045', 473)}
+INFO:root:trouble with sku: {('101095', 474)}
+INFO:root:trouble with sku: {('101536', 475)}
+INFO:root:trouble with sku: {('10554003', 476)}
+INFO:root:trouble with sku: {('19000029076', 477)}
+INFO:root:trouble with sku: {('12202', 478)}
+INFO:root:trouble with sku: {('18907', 479)}
+INFO:root:trouble with sku: {('19000084044', 480)}
+INFO:root:trouble with sku: {('102442', 481)}
+INFO:root:trouble with sku: {('101711', 482)}
+INFO:root:trouble with sku: {('91461', 483)}
+INFO:root:trouble with sku: {('14075200004', 484)}
+INFO:root:trouble with sku: {('10107', 485)}
+INFO:root:trouble with sku: {('100406', 486)}
+INFO:root:trouble with sku: {('4336', 487)}
+INFO:root:trouble with sku: {('11714001', 488)}
+INFO:root:trouble with sku: {('10137062', 489)}
+INFO:root:trouble with sku: {('11102', 490)}
+INFO:root:trouble with sku: {('50253', 491)}
+INFO:root:trouble with sku: {('100483', 492)}
+INFO:root:trouble with sku: {('10060', 493)}
+INFO:root:trouble with sku: {('19000121123', 494)}
+INFO:root:trouble with sku: {('11805049', 495)}
+INFO:root:trouble with sku: {('10899', 496)}
+INFO:root:trouble with sku: {('19000124316', 497)}
+INFO:root:trouble with sku: {('40207', 498)}
+INFO:root:trouble with sku: {('40200', 499)}
+INFO:root:trouble with sku: {('19000016115', 500)}
+INFO:root:trouble with sku: {('6625', 501)}
+INFO:root:trouble with sku: {('92155', 502)}
+INFO:root:trouble with sku: {('9612', 503)}
+INFO:root:trouble with sku: {('10031005', 504)}
+INFO:root:trouble with sku: {('11299', 505)}
+INFO:root:trouble with sku: {('100336', 506)}
+INFO:root:trouble with sku: {('10610025', 507)}
+INFO:root:trouble with sku: {('10067', 508)}
+INFO:root:trouble with sku: {('11805036', 509)}
+INFO:root:trouble with sku: {('100774', 510)}
+INFO:root:trouble with sku: {('10554015', 511)}
+INFO:root:trouble with sku: {('101216', 512)}
+INFO:root:trouble with sku: {('10093', 513)}
+INFO:root:trouble with sku: {('10014', 514)}
+INFO:root:trouble with sku: {('90709', 515)}
+INFO:root:trouble with sku: {('19000099635', 516)}
+INFO:root:trouble with sku: {('100872', 517)}
+INFO:root:trouble with sku: {('100479', 518)}
+INFO:root:trouble with sku: {('101762', 519)}
+INFO:root:trouble with sku: {('10066098', 520)}
+INFO:root:trouble with sku: {('10039153', 521)}
+INFO:root:trouble with sku: {('11118004', 522)}
+INFO:root:trouble with sku: {('10064', 523)}
+INFO:root:trouble with sku: {('11461053', 524)}
+INFO:root:trouble with sku: {('10096', 525)}
+INFO:root:trouble with sku: {('11644', 526)}
+INFO:root:trouble with sku: {('101334', 527)}
+INFO:root:trouble with sku: {('10071', 528)}
+INFO:root:trouble with sku: {('10632', 529)}
+INFO:root:trouble with sku: {('41033', 530)}
+INFO:root:trouble with sku: {('41043', 531)}
+INFO:root:trouble with sku: {('10827', 532)}
+INFO:root:trouble with sku: {('10528024', 533)}
+INFO:root:trouble with sku: {('10729005', 534)}
+INFO:root:trouble with sku: {('60356', 535)}
+INFO:root:trouble with sku: {('55026', 536)}
+INFO:root:trouble with sku: {('10084003', 537)}
+INFO:root:trouble with sku: {('19000022799', 538)}
+INFO:root:trouble with sku: {('102265', 539)}
+INFO:root:trouble with sku: {('18899', 540)}
+INFO:root:trouble with sku: {('102288', 541)}
+INFO:root:trouble with sku: {('90003', 542)}
+INFO:root:trouble with sku: {('6551', 543)}
+INFO:root:trouble with sku: {('11805050', 544)}
+INFO:root:trouble with sku: {('100637', 545)}
+INFO:root:trouble with sku: {('50465', 546)}
+INFO:root:trouble with sku: {('10862002', 547)}
+INFO:root:trouble with sku: {('19760301645', 548)}
+INFO:root:trouble with sku: {('101517', 549)}
+INFO:root:trouble with sku: {('40742', 550)}
+INFO:root:trouble with sku: {('30033', 551)}
+INFO:root:trouble with sku: {('10660004', 552)}
+INFO:root:trouble with sku: {('11719', 553)}
+INFO:root:trouble with sku: {('100474', 554)}
+INFO:root:trouble with sku: {('10007013', 555)}
+INFO:root:trouble with sku: {('101639', 556)}
+INFO:root:trouble with sku: {('10610046', 557)}
+INFO:root:trouble with sku: {('9928', 558)}
+INFO:root:trouble with sku: {('10953', 559)}
+INFO:root:trouble with sku: {('89950100002', 560)}
+INFO:root:trouble with sku: {('10137060', 561)}
+INFO:root:trouble with sku: {('101945', 562)}
+INFO:root:trouble with sku: {('1006030', 563)}
+INFO:root:trouble with sku: {('11821', 564)}
+INFO:root:trouble with sku: {('17357', 565)}
+INFO:root:trouble with sku: {('19000119915', 566)}
+INFO:root:trouble with sku: {('10039163', 567)}
+INFO:root:trouble with sku: {('100695', 568)}
+INFO:root:trouble with sku: {('12160', 569)}
+INFO:root:trouble with sku: {('10092', 570)}
+INFO:root:trouble with sku: {('20019', 571)}
+INFO:root:trouble with sku: {('19000125888', 572)}
+INFO:root:trouble with sku: {('102547', 573)}
+INFO:root:trouble with sku: {('6391', 574)}
+INFO:root:trouble with sku: {('101299', 575)}
+INFO:root:trouble with sku: {('19000121613', 576)}
+INFO:root:trouble with sku: {('10837', 577)}
+INFO:root:trouble with sku: {('10099003', 578)}
+INFO:root:trouble with sku: {('102101', 579)}
+INFO:root:trouble with sku: {('10072023', 580)}
+INFO:root:trouble with sku: {('100797', 581)}
+INFO:root:trouble with sku: {('11541', 582)}
+INFO:root:trouble with sku: {('10434009', 583)}
+INFO:root:trouble with sku: {('12016', 584)}
+INFO:root:trouble with sku: {('10028', 585)}
+INFO:root:trouble with sku: {('17045', 586)}
+INFO:root:trouble with sku: {('10687055', 587)}
+INFO:root:trouble with sku: {('10044058', 588)}
+INFO:root:trouble with sku: {('10021009', 589)}
+INFO:root:trouble with sku: {('10735', 590)}
+INFO:root:trouble with sku: {('101917', 591)}
+INFO:root:trouble with sku: {('7768', 592)}
+INFO:root:trouble with sku: {('19134', 593)}
+INFO:root:trouble with sku: {('19000011278', 594)}
+INFO:root:trouble with sku: {('10434004', 595)}
+INFO:root:trouble with sku: {('22230', 596)}
+INFO:root:trouble with sku: {('19000086452', 597)}
+INFO:root:trouble with sku: {('11218013', 598)}
+INFO:root:trouble with sku: {('10687028', 599)}
+INFO:root:trouble with sku: {('9501', 600)}
+INFO:root:trouble with sku: {('117072053', 601)}
+INFO:root:trouble with sku: {('13498', 602)}
+INFO:root:trouble with sku: {('10805098', 603)}
+INFO:root:trouble with sku: {('10039112', 604)}
+INFO:root:trouble with sku: {('100340', 605)}
+INFO:root:trouble with sku: {('19760329375', 606)}
+INFO:root:trouble with sku: {('92179', 607)}
+INFO:root:trouble with sku: {('19000084041', 608)}
+INFO:root:trouble with sku: {('19000121128', 609)}
+INFO:root:trouble with sku: {('14388', 610)}
+INFO:root:trouble with sku: {('10072024', 611)}
+INFO:root:trouble with sku: {('10137002', 612)}
+INFO:root:trouble with sku: {('10058015', 613)}
+INFO:root:trouble with sku: {('90426', 614)}
+INFO:root:trouble with sku: {('10207059', 615)}
+INFO:root:trouble with sku: {('14007', 616)}
+INFO:root:trouble with sku: {('10039039', 617)}
+INFO:root:trouble with sku: {('11431003', 618)}
+INFO:root:trouble with sku: {('10654014', 619)}
+INFO:root:trouble with sku: {('11552026', 620)}
+INFO:root:trouble with sku: {('10039023', 621)}
+INFO:root:trouble with sku: {('10329005', 622)}
+INFO:root:trouble with sku: {('19000086456', 623)}
+INFO:root:trouble with sku: {('11756', 624)}
+INFO:root:trouble with sku: {('11503025', 625)}
+INFO:root:trouble with sku: {('6581', 626)}
+INFO:root:trouble with sku: {('18941', 627)}
+INFO:root:trouble with sku: {('14023', 628)}
+INFO:root:trouble with sku: {('101075', 629)}
+INFO:root:trouble with sku: {('40195', 630)}
+INFO:root:trouble with sku: {('11976', 631)}
+INFO:root:trouble with sku: {('22025', 632)}
+INFO:root:trouble with sku: {('6400', 633)}
+INFO:root:trouble with sku: {('19000025523', 634)}
+INFO:root:trouble with sku: {('100671', 635)}
+INFO:root:trouble with sku: {('19137', 636)}
+INFO:root:trouble with sku: {('92150', 637)}
+INFO:root:trouble with sku: {('41042', 638)}
+INFO:root:trouble with sku: {('41034', 639)}
+INFO:root:trouble with sku: {('11091010', 640)}
+INFO:root:trouble with sku: {('101088', 641)}
+INFO:root:trouble with sku: {('100161', 642)}
+INFO:root:trouble with sku: {('10805051', 643)}
+INFO:root:trouble with sku: {('11257004', 644)}
+INFO:root:trouble with sku: {('102261', 645)}
+INFO:root:trouble with sku: {('11102050', 646)}
+INFO:root:trouble with sku: {('11263', 647)}
+INFO:root:trouble with sku: {('10934055', 648)}
+INFO:root:trouble with sku: {('6550', 649)}
+INFO:root:trouble with sku: {('18952', 650)}
+INFO:root:trouble with sku: {('10805073', 651)}
+INFO:root:trouble with sku: {('101006', 652)}
+INFO:root:trouble with sku: {('9240', 653)}
+INFO:root:trouble with sku: {('10029', 654)}
+INFO:root:trouble with sku: {('10899063', 655)}
+INFO:root:trouble with sku: {('11427', 656)}
+INFO:root:trouble with sku: {('19132', 657)}
+INFO:root:trouble with sku: {('10072030', 658)}
+INFO:root:trouble with sku: {('11688036', 659)}
+INFO:root:trouble with sku: {('11589', 660)}
+INFO:root:trouble with sku: {('19000123096', 661)}
+INFO:root:trouble with sku: {('101265', 662)}
+INFO:root:trouble with sku: {('82251', 663)}
+INFO:root:trouble with sku: {('101742', 664)}
+INFO:root:trouble with sku: {('11709', 665)}
+INFO:root:trouble with sku: {('10818', 666)}
+INFO:root:trouble with sku: {('11850008', 667)}
+INFO:root:trouble with sku: {('10011025', 668)}
+INFO:root:trouble with sku: {('11467', 669)}
+INFO:root:trouble with sku: {('10020', 670)}
+INFO:root:trouble with sku: {('10688041', 671)}
+INFO:root:trouble with sku: {('101630', 672)}
+INFO:root:trouble with sku: {('10077', 673)}
+INFO:root:trouble with sku: {('102549', 674)}
+INFO:root:trouble with sku: {('10729007', 675)}
+INFO:root:trouble with sku: {('10705', 676)}
+INFO:root:trouble with sku: {('101345', 677)}
+INFO:root:trouble with sku: {('102418', 678)}
+INFO:root:trouble with sku: {('10729002', 679)}
+INFO:root:trouble with sku: {('110743015', 680)}
+INFO:root:trouble with sku: {('14011', 681)}
+INFO:root:trouble with sku: {('100489', 682)}
+INFO:root:trouble with sku: {('10526', 683)}
+INFO:root:trouble with sku: {('9230', 684)}
+INFO:root:trouble with sku: {('10805104', 685)}
+INFO:root:trouble with sku: {('19000086151', 686)}
+INFO:root:trouble with sku: {('10805021', 687)}
+INFO:root:trouble with sku: {('26930100006', 688)}
+INFO:root:trouble with sku: {('100369', 689)}
+INFO:root:trouble with sku: {('85008', 690)}
+INFO:root:trouble with sku: {('18892', 691)}
+INFO:root:trouble with sku: {('11386007', 692)}
+INFO:root:trouble with sku: {('101539', 693)}
+INFO:root:trouble with sku: {('19919', 694)}
+INFO:root:trouble with sku: {('10084006', 695)}
+INFO:root:trouble with sku: {('10157003', 696)}
+INFO:root:trouble with sku: {('16383', 697)}
+INFO:root:trouble with sku: {('10007014', 698)}
+INFO:root:trouble with sku: {('14395', 699)}
+INFO:root:trouble with sku: {('10660032', 700)}
+INFO:root:trouble with sku: {('10051043', 701)}
+INFO:root:trouble with sku: {('101850', 702)}
+INFO:root:trouble with sku: {('10842', 703)}
+INFO:root:trouble with sku: {('11503014', 704)}
+INFO:root:trouble with sku: {('11386010', 705)}
+INFO:root:trouble with sku: {('10137066', 706)}
+INFO:root:trouble with sku: {('10610014', 707)}
+INFO:root:trouble with sku: {('40731', 708)}
+INFO:root:trouble with sku: {('102255', 709)}
+INFO:root:trouble with sku: {('10066036', 710)}
+INFO:root:trouble with sku: {('18914', 711)}
+INFO:root:trouble with sku: {('11218014', 712)}
+INFO:root:trouble with sku: {('19760331347', 713)}
+INFO:root:trouble with sku: {('100398', 714)}
+INFO:root:trouble with sku: {('102277', 715)}
+INFO:root:trouble with sku: {('102227', 716)}
+INFO:root:trouble with sku: {('22022', 717)}
+INFO:root:trouble with sku: {('6396', 718)}
+INFO:root:trouble with sku: {('11658006', 719)}
+INFO:root:trouble with sku: {('10290018', 720)}
+INFO:root:trouble with sku: {('40753', 721)}
+INFO:root:trouble with sku: {('11506', 722)}
+INFO:root:trouble with sku: {('10820006', 723)}
+INFO:root:trouble with sku: {('102292', 724)}
+INFO:root:trouble with sku: {('11668', 725)}
+INFO:root:trouble with sku: {('11865002', 726)}
+INFO:root:trouble with sku: {('10070', 727)}
+INFO:root:trouble with sku: {('18940', 728)}
+INFO:root:trouble with sku: {('7251200003', 729)}
+INFO:root:trouble with sku: {('11040', 730)}
+INFO:root:trouble with sku: {('92232', 731)}
+INFO:root:trouble with sku: {('102278', 732)}
+INFO:root:trouble with sku: {('100114', 733)}
+INFO:root:trouble with sku: {('101994', 734)}
+INFO:root:trouble with sku: {('10137065', 735)}
+INFO:root:trouble with sku: {('14380', 736)}
+INFO:root:trouble with sku: {('19000009776', 737)}
+INFO:root:trouble with sku: {('10805119', 738)}
+INFO:root:trouble with sku: {('40632', 739)}
+INFO:root:trouble with sku: {('10057', 740)}
+INFO:root:trouble with sku: {('100282', 741)}
+INFO:root:trouble with sku: {('10076', 742)}
+INFO:root:trouble with sku: {('101578', 743)}
+INFO:root:trouble with sku: {('10528021', 744)}
+INFO:root:trouble with sku: {('101356', 745)}
+INFO:root:trouble with sku: {('10656', 746)}
+INFO:root:trouble with sku: {('11588', 747)}
+INFO:root:trouble with sku: {('10136', 748)}
+INFO:root:trouble with sku: {('14013', 749)}
+INFO:root:trouble with sku: {('10098', 750)}
+INFO:root:trouble with sku: {('100781', 751)}
+INFO:root:trouble with sku: {('10528003', 752)}
+INFO:root:trouble with sku: {('92242', 753)}
+INFO:root:trouble with sku: {('10039083', 754)}
+INFO:root:trouble with sku: {('24470100008', 755)}
+INFO:root:trouble with sku: {('11821001', 756)}
+INFO:root:trouble with sku: {('18937', 757)}
+INFO:root:trouble with sku: {('11219002', 758)}
+INFO:root:trouble with sku: {('11747', 759)}
+INFO:root:trouble with sku: {('11219089', 760)}
+INFO:root:trouble with sku: {('10820025', 761)}
+INFO:root:trouble with sku: {('10907023', 762)}
+INFO:root:trouble with sku: {('10539', 763)}
+INFO:root:trouble with sku: {('101446', 764)}
+INFO:root:trouble with sku: {('10190066', 765)}
+INFO:root:trouble with sku: {('10066054', 766)}
+INFO:root:trouble with sku: {('18896', 767)}
+INFO:root:trouble with sku: {('19000084045', 768)}
+INFO:root:trouble with sku: {('9256', 769)}
+INFO:root:trouble with sku: {('101943', 770)}
+INFO:root:trouble with sku: {('101608', 771)}
+INFO:root:trouble with sku: {('12171', 772)}
+INFO:root:trouble with sku: {('10910014', 773)}
+INFO:root:trouble with sku: {('100819', 774)}
+INFO:root:trouble with sku: {('100253', 775)}
+INFO:root:trouble with sku: {('11448019', 776)}
+INFO:root:trouble with sku: {('10934', 777)}
+INFO:root:trouble with sku: {('11656', 778)}
+INFO:root:trouble with sku: {('18878', 779)}
+INFO:root:trouble with sku: {('100345', 780)}
+INFO:root:trouble with sku: {('1082101001', 781)}
+INFO:root:trouble with sku: {('100438', 782)}
+INFO:root:trouble with sku: {('11552008', 783)}
+INFO:root:trouble with sku: {('14381', 784)}
+INFO:root:trouble with sku: {('101416', 785)}
+INFO:root:trouble with sku: {('101294', 786)}
+INFO:root:trouble with sku: {('11805017', 787)}
+INFO:root:trouble with sku: {('100174', 788)}
+INFO:root:trouble with sku: {('102416', 789)}
+INFO:root:trouble with sku: {('12225', 790)}
+INFO:root:trouble with sku: {('10005', 791)}
+INFO:root:trouble with sku: {('10044033', 792)}
+INFO:root:trouble with sku: {('14393', 793)}
+INFO:root:trouble with sku: {('9460', 794)}
+INFO:root:trouble with sku: {('91601', 795)}
+INFO:root:trouble with sku: {('10012', 796)}
+INFO:root:trouble with sku: {('10137055', 797)}
+INFO:root:trouble with sku: {('102198', 798)}
+INFO:root:trouble with sku: {('111293043', 799)}
+INFO:root:trouble with sku: {('10610', 800)}
+INFO:root:trouble with sku: {('11248', 801)}
+INFO:root:trouble with sku: {('11446003', 802)}
+INFO:root:trouble with sku: {('10952', 803)}
+INFO:root:trouble with sku: {('11251', 804)}
+INFO:root:trouble with sku: {('10072042', 805)}
+INFO:root:trouble with sku: {('10528014', 806)}
+INFO:root:trouble with sku: {('101194', 807)}
+INFO:root:trouble with sku: {('40740', 808)}
+INFO:root:trouble with sku: {('10899022', 809)}
+INFO:root:trouble with sku: {('102276', 810)}
+INFO:root:trouble with sku: {('18407', 811)}
+INFO:root:trouble with sku: {('102517', 812)}
+INFO:root:trouble with sku: {('19000102902', 813)}
+INFO:root:trouble with sku: {('19000009790', 814)}
+INFO:root:trouble with sku: {('11746008', 815)}
+INFO:root:trouble with sku: {('10130', 816)}
+INFO:root:trouble with sku: {('11865010', 817)}
+INFO:root:trouble with sku: {('10626', 818)}
+INFO:root:trouble with sku: {('10051031', 819)}
+INFO:root:trouble with sku: {('14040', 820)}
+INFO:root:trouble with sku: {('19000034221', 821)}
+INFO:root:trouble with sku: {('10207054', 822)}
+INFO:root:trouble with sku: {('10820021', 823)}
+INFO:root:trouble with sku: {('10411', 824)}
+INFO:root:trouble with sku: {('10205', 825)}
+INFO:root:trouble with sku: {('10107001', 826)}
+INFO:root:trouble with sku: {('11681012', 827)}
+INFO:root:trouble with sku: {('10079', 828)}
+INFO:root:trouble with sku: {('102106', 829)}
+INFO:root:trouble with sku: {('10209', 830)}
+INFO:root:trouble with sku: {('10610031', 831)}
+INFO:root:trouble with sku: {('10661025', 832)}
+INFO:root:trouble with sku: {('101692', 833)}
+INFO:root:trouble with sku: {('40736', 834)}
+INFO:root:trouble with sku: {('13998', 835)}
+INFO:root:trouble with sku: {('41044', 836)}
+INFO:root:trouble with sku: {('10434010', 837)}
+INFO:root:trouble with sku: {('100733', 838)}
+INFO:root:trouble with sku: {('10160', 839)}
+INFO:root:trouble with sku: {('100385', 840)}
+INFO:root:trouble with sku: {('10072022', 841)}
+INFO:root:trouble with sku: {('11503170', 842)}
+INFO:root:trouble with sku: {('85023', 843)}
+INFO:root:trouble with sku: {('10066103', 844)}
+INFO:root:trouble with sku: {('12025', 845)}
+INFO:root:trouble with sku: {('100972', 846)}
+INFO:root:trouble with sku: {('100281', 847)}
+INFO:root:trouble with sku: {('10737', 848)}
+INFO:root:trouble with sku: {('10919', 849)}
+INFO:root:trouble with sku: {('13437', 850)}
+INFO:root:trouble with sku: {('30042', 851)}
+INFO:root:trouble with sku: {('10039070', 852)}
+INFO:root:trouble with sku: {('11885', 853)}
+INFO:root:trouble with sku: {('10822022', 854)}
+INFO:root:trouble with sku: {('10820004', 855)}
+INFO:root:trouble with sku: {('10034', 856)}
+INFO:root:trouble with sku: {('10862001', 857)}
+INFO:root:trouble with sku: {('11309', 858)}
+INFO:root:trouble with sku: {('10661', 859)}
+INFO:root:trouble with sku: {('10449', 860)}
+INFO:root:trouble with sku: {('11805056', 861)}
+INFO:root:trouble with sku: {('10015', 862)}
+INFO:root:trouble with sku: {('19000009740', 863)}
+INFO:root:trouble with sku: {('10804004', 864)}
+INFO:root:trouble with sku: {('10528013', 865)}
+INFO:root:trouble with sku: {('1006028', 866)}
+INFO:root:trouble with sku: {('10828', 867)}
+INFO:root:trouble with sku: {('10024', 868)}
+INFO:root:trouble with sku: {('101269', 869)}
+INFO:root:trouble with sku: {('1020900038', 870)}
+INFO:root:trouble with sku: {('10528045', 871)}
+INFO:root:trouble with sku: {('10178001', 872)}
+INFO:root:trouble with sku: {('101531', 873)}
+INFO:root:trouble with sku: {('11846', 874)}
+INFO:root:trouble with sku: {('101037', 875)}
+INFO:root:trouble with sku: {('19000009730', 876)}
+INFO:root:trouble with sku: {('10072006', 877)}
+INFO:root:trouble with sku: {('24258800010', 878)}
+INFO:root:trouble with sku: {('18879', 879)}
+INFO:root:trouble with sku: {('40201', 880)}
+INFO:root:trouble with sku: {('10805215', 881)}
+INFO:root:trouble with sku: {('11865013', 882)}
+INFO:root:trouble with sku: {('19000047819', 883)}
+INFO:root:trouble with sku: {('101902', 884)}
+INFO:root:trouble with sku: {('10107007', 885)}
+INFO:root:trouble with sku: {('11658', 886)}
+INFO:root:trouble with sku: {('11526', 887)}
+INFO:root:trouble with sku: {('11830', 888)}
+INFO:root:trouble with sku: {('11714017', 889)}
+INFO:root:trouble with sku: {('40844', 890)}
+INFO:root:trouble with sku: {('11', 891)}
+INFO:root:trouble with sku: {('10031034', 892)}
+INFO:root:trouble with sku: {('961000', 893)}
+INFO:root:trouble with sku: {('18392', 894)}
+INFO:root:trouble with sku: {('15509', 895)}
+INFO:root:trouble with sku: {('19000011277', 896)}
+INFO:root:trouble with sku: {('10866', 897)}
+INFO:root:trouble with sku: {('102053', 898)}
+INFO:root:trouble with sku: {('19760310509', 899)}
+INFO:root:trouble with sku: {('10660041', 900)}
+INFO:root:trouble with sku: {('11870', 901)}
+INFO:root:trouble with sku: {('100025', 902)}
+INFO:root:trouble with sku: {('30043', 903)}
+INFO:root:trouble with sku: {('10337003', 904)}
+INFO:root:trouble with sku: {('10031006', 905)}
+INFO:root:trouble with sku: {('11668001', 906)}
+INFO:root:trouble with sku: {('11865004', 907)}
+INFO:root:trouble with sku: {('100167', 908)}
+INFO:root:trouble with sku: {('11199', 909)}
+INFO:root:trouble with sku: {('10358', 910)}
+INFO:root:trouble with sku: {('100993', 911)}
+INFO:root:trouble with sku: {('100323', 912)}
+INFO:root:trouble with sku: {('10051011', 913)}
+INFO:root:trouble with sku: {('11212', 914)}
+INFO:root:trouble with sku: {('40770', 915)}
+INFO:root:trouble with sku: {('10687068', 916)}
+INFO:root:trouble with sku: {('101683', 917)}
+INFO:root:trouble with sku: {('10729010', 918)}
+INFO:root:trouble with sku: {('40730', 919)}
+INFO:root:trouble with sku: {('11663', 920)}
+INFO:root:trouble with sku: {('100037', 921)}
+INFO:root:trouble with sku: {('100443', 922)}
+INFO:root:trouble with sku: {('10805023', 923)}
+INFO:root:trouble with sku: {('102167', 924)}
+INFO:root:trouble with sku: {('11737002', 925)}
+INFO:root:trouble with sku: {('10127', 926)}
+INFO:root:trouble with sku: {('10137036', 927)}
+INFO:root:trouble with sku: {('10708', 928)}
+INFO:root:trouble with sku: {('10551', 929)}
+INFO:root:trouble with sku: {('11681003', 930)}
+INFO:root:trouble with sku: {('11098019', 931)}
+INFO:root:trouble with sku: {('10051035', 932)}
+INFO:root:trouble with sku: {('11122', 933)}
+INFO:root:trouble with sku: {('11934', 934)}
+INFO:root:trouble with sku: {('2717000', 935)}
+INFO:root:trouble with sku: {('101847', 936)}
+INFO:root:trouble with sku: {('100366', 937)}
+INFO:root:trouble with sku: {('18872', 938)}
+INFO:root:trouble with sku: {('13428', 939)}
+INFO:root:trouble with sku: {('40196', 940)}
+INFO:root:trouble with sku: {('101600', 941)}
+INFO:root:trouble with sku: {('30030', 942)}
+INFO:root:trouble with sku: {('100660', 943)}
+INFO:root:trouble with sku: {('11974', 944)}
+INFO:root:trouble with sku: {('10528012', 945)}
+INFO:root:trouble with sku: {('10693', 946)}
+INFO:root:trouble with sku: {('101640', 947)}
+INFO:root:trouble with sku: {('117073', 948)}
+INFO:root:trouble with sku: {('13747', 949)}
+INFO:root:trouble with sku: {('9483', 950)}
+INFO:root:trouble with sku: {('18875', 951)}
+INFO:root:trouble with sku: {('12012', 952)}
+INFO:root:trouble with sku: {('11221', 953)}
+INFO:root:trouble with sku: {('10178', 954)}
+INFO:root:trouble with sku: {('19000084040', 955)}
+INFO:root:trouble with sku: {('100950', 956)}
+INFO:root:trouble with sku: {('12066', 957)}
+INFO:root:trouble with sku: {('10190065', 958)}
+INFO:root:trouble with sku: {('5025', 959)}
+INFO:root:trouble with sku: {('101506', 960)}
+INFO:root:trouble with sku: {('14009', 961)}
+INFO:root:trouble with sku: {('100493', 962)}
+INFO:root:trouble with sku: {('101947', 963)}
+INFO:root:trouble with sku: {('101343', 964)}
+INFO:root:trouble with sku: {('101313', 965)}
+INFO:root:trouble with sku: {('10659', 966)}
+INFO:root:trouble with sku: {('102303', 967)}
+INFO:root:trouble with sku: {('100442', 968)}
+INFO:root:trouble with sku: {('101790', 969)}
+INFO:root:trouble with sku: {('17096', 970)}
+INFO:root:trouble with sku: {('100718', 971)}
+INFO:root:trouble with sku: {('11138', 972)}
+INFO:root:trouble with sku: {('9241', 973)}
+INFO:root:trouble with sku: {('10528048', 974)}
+INFO:root:trouble with sku: {('10207', 975)}
+INFO:root:trouble with sku: {('10072032', 976)}
+INFO:root:trouble with sku: {('82502', 977)}
+INFO:root:trouble with sku: {('102180', 978)}
+INFO:root:trouble with sku: {('102280', 979)}
+INFO:root:trouble with sku: {('10044100', 980)}
+INFO:root:trouble with sku: {('12085', 981)}
+INFO:root:trouble with sku: {('10024132', 982)}
+INFO:root:trouble with sku: {('11860', 983)}
+INFO:root:trouble with sku: {('100749', 984)}
+INFO:root:trouble with sku: {('11865006', 985)}
+INFO:root:trouble with sku: {('10826', 986)}
+INFO:root:trouble with sku: {('1082101114', 987)}
+INFO:root:trouble with sku: {('9361', 988)}
+INFO:root:trouble with sku: {('101991', 989)}
+INFO:root:trouble with sku: {('100411', 990)}
+INFO:root:trouble with sku: {('11360002', 991)}
+INFO:root:trouble with sku: {('50198', 992)}
+INFO:root:trouble with sku: {('18949', 993)}
+INFO:root:trouble with sku: {('30276', 994)}
+INFO:root:trouble with sku: {('101039', 995)}
+INFO:root:trouble with sku: {('10039167', 996)}
+INFO:root:trouble with sku: {('102315', 997)}
+INFO:root:trouble with sku: {('10051029', 998)}
+INFO:root:trouble with sku: {('17354', 999)}
+INFO:root:trouble with sku: {('100100', 1000)}
+INFO:root:trouble with sku: {('40250', 1001)}
+INFO:root:trouble with sku: {('100944', 1002)}
+INFO:root:trouble with sku: {('11468', 1003)}
+INFO:root:trouble with sku: {('41071', 1004)}
+INFO:root:trouble with sku: {('11986', 1005)}
+INFO:root:trouble with sku: {('10190054', 1006)}
+INFO:root:trouble with sku: {('9253', 1007)}
+INFO:root:trouble with sku: {('12013', 1008)}
+INFO:root:trouble with sku: {('101954', 1009)}
+INFO:root:trouble with sku: {('11975', 1010)}
+INFO:root:trouble with sku: {('101474', 1011)}
+INFO:root:trouble with sku: {('10564002', 1012)}
+INFO:root:trouble with sku: {('100275', 1013)}
+INFO:root:trouble with sku: {('10137004', 1014)}
+INFO:root:trouble with sku: {('101054', 1015)}
+INFO:root:trouble with sku: {('11386011', 1016)}
+INFO:root:trouble with sku: {('100128', 1017)}
+INFO:root:trouble with sku: {('30044', 1018)}
+INFO:root:trouble with sku: {('100863', 1019)}
+INFO:root:trouble with sku: {('19760345228', 1020)}
+INFO:root:trouble with sku: {('11239', 1021)}
+INFO:root:trouble with sku: {('14373', 1022)}
+INFO:root:trouble with sku: {('11676', 1023)}
+INFO:root:trouble with sku: {('2711000', 1024)}
+INFO:root:trouble with sku: {('13743', 1025)}
+INFO:root:trouble with sku: {('60357', 1026)}
+INFO:root:trouble with sku: {('19000045112', 1027)}
+INFO:root:trouble with sku: {('19000045111', 1028)}
+INFO:root:trouble with sku: {('10058011', 1029)}
+INFO:root:trouble with sku: {('50438', 1030)}
+INFO:root:trouble with sku: {('101651', 1031)}
+INFO:root:trouble with sku: {('102279', 1032)}
+INFO:root:trouble with sku: {('11423', 1033)}
+INFO:root:trouble with sku: {('50252', 1034)}
+INFO:root:trouble with sku: {('82705', 1035)}
+INFO:root:trouble with sku: {('10554', 1036)}
+INFO:root:trouble with sku: {('92121', 1037)}
+INFO:root:trouble with sku: {('85022', 1038)}
+INFO:root:trouble with sku: {('11392040', 1039)}
+INFO:root:trouble with sku: {('10086', 1040)}
+INFO:root:trouble with sku: {('17679', 1041)}
+INFO:root:trouble with sku: {('11698003', 1042)}
+INFO:root:trouble with sku: {('10397', 1043)}
+INFO:root:trouble with sku: {('19000002448', 1044)}
+INFO:root:trouble with sku: {('10051016', 1045)}
+INFO:root:trouble with sku: {('18910', 1046)}
+INFO:root:trouble with sku: {('10190053', 1047)}
+INFO:root:trouble with sku: {('19136', 1048)}
+INFO:root:trouble with sku: {('11274', 1049)}
+INFO:root:trouble with sku: {('14016', 1050)}
+INFO:root:trouble with sku: {('100311', 1051)}
+INFO:root:trouble with sku: {('11290', 1052)}
+INFO:root:trouble with sku: {('10688', 1053)}
+INFO:root:trouble with sku: {('10542', 1054)}
+INFO:root:trouble with sku: {('19000042052', 1055)}
+INFO:root:trouble with sku: {('12003', 1056)}
+INFO:root:trouble with sku: {('100468', 1057)}
+INFO:root:trouble with sku: {('9573', 1058)}
+INFO:root:trouble with sku: {('100693', 1059)}
+INFO:root:trouble with sku: {('10066059', 1060)}
+INFO:root:trouble with sku: {('11665023', 1061)}
+INFO:root:trouble with sku: {('11503002', 1062)}
+INFO:root:trouble with sku: {('10687047', 1063)}
+INFO:root:trouble with sku: {('102236', 1064)}
+INFO:root:trouble with sku: {('101951', 1065)}
+INFO:root:trouble with sku: {('10814', 1066)}
+INFO:root:trouble with sku: {('100166', 1067)}
+INFO:root:trouble with sku: {('10039012', 1068)}
+INFO:root:trouble with sku: {('10434037', 1069)}
+INFO:root:trouble with sku: {('10479', 1070)}
+INFO:root:trouble with sku: {('12064', 1071)}
+INFO:root:trouble with sku: {('90617', 1072)}
+INFO:root:trouble with sku: {('10004', 1073)}
+INFO:root:trouble with sku: {('11821019', 1074)}
+INFO:root:trouble with sku: {('14363', 1075)}
+INFO:root:trouble with sku: {('101709', 1076)}
+INFO:root:trouble with sku: {('10209004', 1077)}
+INFO:root:trouble with sku: {('18959', 1078)}
+INFO:root:trouble with sku: {('19000026824', 1079)}
+INFO:root:trouble with sku: {('10981', 1080)}
+INFO:root:trouble with sku: {('12280', 1081)}
+INFO:root:trouble with sku: {('11805020', 1082)}
+INFO:root:trouble with sku: {('50471', 1083)}
+INFO:root:trouble with sku: {('10099', 1084)}
+INFO:root:trouble with sku: {('11865007', 1085)}
+INFO:root:trouble with sku: {('6548', 1086)}
+INFO:root:trouble with sku: {('19131', 1087)}
+INFO:root:trouble with sku: {('101293', 1088)}
+INFO:root:trouble with sku: {('11099', 1089)}
+INFO:root:trouble with sku: {('90711', 1090)}
+INFO:root:trouble with sku: {('19140', 1091)}
+INFO:root:trouble with sku: {('12215', 1092)}
+INFO:root:trouble with sku: {('102370', 1093)}
+INFO:root:trouble with sku: {('11431', 1094)}
+INFO:root:trouble with sku: {('14000', 1095)}
+INFO:root:trouble with sku: {('90079', 1096)}
+INFO:root:trouble with sku: {('10688006', 1097)}
+INFO:root:trouble with sku: {('19760341015', 1098)}
+INFO:root:trouble with sku: {('10207063', 1099)}
+INFO:root:trouble with sku: {('100672', 1100)}
+INFO:root:trouble with sku: {('11461', 1101)}
+INFO:root:trouble with sku: {('13445', 1102)}
+INFO:root:trouble with sku: {('14379', 1103)}
+INFO:root:trouble with sku: {('100789', 1104)}
+INFO:root:trouble with sku: {('10021012', 1105)}
+INFO:root:trouble with sku: {('101950', 1106)}
+INFO:root:trouble with sku: {('101385', 1107)}
+INFO:root:trouble with sku: {('10066008', 1108)}
+INFO:root:trouble with sku: {('85020', 1109)}
+INFO:root:trouble with sku: {('18876', 1110)}
+INFO:root:trouble with sku: {('10708008', 1111)}
+INFO:root:trouble with sku: {('11541001', 1112)}
+INFO:root:trouble with sku: {('11746', 1113)}
+INFO:root:trouble with sku: {('10564021', 1114)}
+INFO:root:trouble with sku: {('18912', 1115)}
+INFO:root:trouble with sku: {('40762', 1116)}
+INFO:root:trouble with sku: {('102051', 1117)}
+INFO:root:trouble with sku: {('22051', 1118)}
+INFO:root:trouble with sku: {('85024', 1119)}
+INFO:root:trouble with sku: {('10114', 1120)}
+INFO:root:trouble with sku: {('100758', 1121)}
+INFO:root:trouble with sku: {('101185', 1122)}
+INFO:root:trouble with sku: {('11714', 1123)}
+INFO:root:trouble with sku: {('11821027', 1124)}
+INFO:root:trouble with sku: {('12180', 1125)}
+INFO:root:trouble with sku: {('30274', 1126)}
+INFO:root:trouble with sku: {('101693', 1127)}
+INFO:root:trouble with sku: {('19000009741', 1128)}
+INFO:root:trouble with sku: {('22018', 1129)}
+INFO:root:trouble with sku: {('19000099636', 1130)}
+INFO:root:trouble with sku: {('11544009', 1131)}
+INFO:root:trouble with sku: {('100079', 1132)}
+INFO:root:trouble with sku: {('50178', 1133)}
+INFO:root:trouble with sku: {('15493', 1134)}
+INFO:root:trouble with sku: {('100445', 1135)}
+INFO:root:trouble with sku: {('12038', 1136)}
+INFO:root:trouble with sku: {('22222210687049', 1137)}
+INFO:root:trouble with sku: {('101119', 1138)}
+INFO:root:trouble with sku: {('10817', 1139)}
+INFO:root:trouble with sku: {('6632', 1140)}
+INFO:root:trouble with sku: {('100829', 1141)}
+INFO:root:trouble with sku: {('11659', 1142)}
+INFO:root:trouble with sku: {('100254', 1143)}
+INFO:root:trouble with sku: {('10805049', 1144)}
+INFO:root:trouble with sku: {('10661006', 1145)}
+INFO:root:trouble with sku: {('11552028', 1146)}
+INFO:root:trouble with sku: {('100610', 1147)}
+INFO:root:trouble with sku: {('9263', 1148)}
+INFO:root:trouble with sku: {('11841', 1149)}
+INFO:root:trouble with sku: {('10044030', 1150)}
+INFO:root:trouble with sku: {('100015', 1151)}
+INFO:root:trouble with sku: {('40910', 1152)}
+INFO:root:trouble with sku: {('100313', 1153)}
+INFO:root:trouble with sku: {('14004', 1154)}
+INFO:root:trouble with sku: {('10133', 1155)}
+INFO:root:trouble with sku: {('101869', 1156)}
+INFO:root:trouble with sku: {('11005014', 1157)}
+INFO:root:trouble with sku: {('100355', 1158)}
+INFO:root:trouble with sku: {('11706', 1159)}
+INFO:root:trouble with sku: {('19760301639', 1160)}
+INFO:root:trouble with sku: {('102439', 1161)}
+INFO:root:trouble with sku: {('100775', 1162)}
+INFO:root:trouble with sku: {('102094', 1163)}
+INFO:root:trouble with sku: {('5113', 1164)}
+INFO:root:trouble with sku: {('101702', 1165)}
+INFO:root:trouble with sku: {('10066003', 1166)}
+INFO:root:trouble with sku: {('100351', 1167)}
+INFO:root:trouble with sku: {('55004', 1168)}
+INFO:root:trouble with sku: {('100083', 1169)}
+INFO:root:trouble with sku: {('11219', 1170)}
+INFO:root:trouble with sku: {('12179', 1171)}
+INFO:root:trouble with sku: {('10327', 1172)}
+INFO:root:trouble with sku: {('10553118', 1173)}
+INFO:root:trouble with sku: {('11448', 1174)}
+INFO:root:trouble with sku: {('10577', 1175)}
+INFO:root:trouble with sku: {('19000064279', 1176)}
+INFO:root:trouble with sku: {('102520', 1177)}
+INFO:root:trouble with sku: {('11850005', 1178)}
+INFO:root:trouble with sku: {('10658', 1179)}
+INFO:root:trouble with sku: {('10805212', 1180)}
+INFO:root:trouble with sku: {('10209008', 1181)}
+INFO:root:trouble with sku: {('10107003', 1182)}
+INFO:root:trouble with sku: {('60353', 1183)}
+INFO:root:trouble with sku: {('10039035', 1184)}
+INFO:root:trouble with sku: {('53', 1185)}
+INFO:root:trouble with sku: {('11218', 1186)}
+INFO:root:trouble with sku: {('13430', 1187)}
+INFO:root:trouble with sku: {('10434038', 1188)}
+INFO:root:trouble with sku: {('10137035', 1189)}
+INFO:root:trouble with sku: {('92140', 1190)}
+INFO:root:trouble with sku: {('102275', 1191)}
+INFO:root:trouble with sku: {('11821042', 1192)}
+INFO:root:trouble with sku: {('10564014', 1193)}
+INFO:root:trouble with sku: {('9458', 1194)}
+INFO:root:trouble with sku: {('11219115', 1195)}
+INFO:root:trouble with sku: {('10007', 1196)}
+INFO:root:trouble with sku: {('10661050', 1197)}
+INFO:root:trouble with sku: {('11668009', 1198)}
+INFO:root:trouble with sku: {('10066019', 1199)}
+INFO:root:trouble with sku: {('101860', 1200)}
+INFO:root:trouble with sku: {('14366', 1201)}
+INFO:root:trouble with sku: {('11933', 1202)}
+INFO:root:trouble with sku: {('10745', 1203)}
+INFO:root:trouble with sku: {('10035', 1204)}
+INFO:root:trouble with sku: {('100512', 1205)}
+INFO:root:trouble with sku: {('101298', 1206)}
+INFO:root:trouble with sku: {('12076', 1207)}
+INFO:root:trouble with sku: {('102211', 1208)}
+INFO:root:trouble with sku: {('101808', 1209)}
+INFO:root:trouble with sku: {('100773', 1210)}
+INFO:root:trouble with sku: {('13418', 1211)}
+INFO:root:trouble with sku: {('11737027', 1212)}
+INFO:root:trouble with sku: {('10107008', 1213)}
+INFO:root:trouble with sku: {('100410', 1214)}
+INFO:root:trouble with sku: {('101433', 1215)}
+INFO:root:trouble with sku: {('100026', 1216)}
+INFO:root:trouble with sku: {('101649', 1217)}
+INFO:root:trouble with sku: {('11509', 1218)}
+INFO:root:trouble with sku: {('19000121610', 1219)}
+INFO:root:trouble with sku: {('9572', 1220)}
+INFO:root:trouble with sku: {('10939016', 1221)}
+INFO:root:trouble with sku: {('101704', 1222)}
+INFO:root:trouble with sku: {('10058019', 1223)}
+INFO:root:trouble with sku: {('10088015', 1224)}
+INFO:root:trouble with sku: {('102425', 1225)}
+INFO:root:trouble with sku: {('10528047', 1226)}
+INFO:root:trouble with sku: {('19176', 1227)}
+INFO:root:trouble with sku: {('92136', 1228)}
+INFO:root:trouble with sku: {('19168', 1229)}
+INFO:root:trouble with sku: {('11106', 1230)}
+INFO:root:trouble with sku: {('10089005', 1231)}
+INFO:root:trouble with sku: {('10221', 1232)}
+INFO:root:trouble with sku: {('10820015', 1233)}
+INFO:root:trouble with sku: {('14353', 1234)}
+INFO:root:trouble with sku: {('11106027', 1235)}
+INFO:root:trouble with sku: {('10610028', 1236)}
+INFO:root:trouble with sku: {('6584', 1237)}
+INFO:root:trouble with sku: {('11077', 1238)}
+INFO:root:trouble with sku: {('10610011', 1239)}
+INFO:root:trouble with sku: {('101175', 1240)}
+INFO:root:trouble with sku: {('102254', 1241)}
+INFO:root:trouble with sku: {('10610030', 1242)}
+INFO:root:trouble with sku: {('10763', 1243)}
+INFO:root:trouble with sku: {('10216', 1244)}
+INFO:root:trouble with sku: {('9709', 1245)}
+INFO:root:trouble with sku: {('90640', 1246)}
+INFO:root:trouble with sku: {('100765', 1247)}
+INFO:root:trouble with sku: {('102417', 1248)}
+INFO:root:trouble with sku: {('19936', 1249)}
+INFO:root:trouble with sku: {('1012800029', 1250)}
+INFO:root:trouble with sku: {('102316', 1251)}
+INFO:root:trouble with sku: {('111293014', 1252)}
+INFO:root:trouble with sku: {('19000010016', 1253)}
+INFO:root:trouble with sku: {('117072060', 1254)}
+INFO:root:trouble with sku: {('19000011271', 1255)}
+INFO:root:trouble with sku: {('6511', 1256)}
+INFO:root:trouble with sku: {('100040', 1257)}
+INFO:root:trouble with sku: {('6627', 1258)}
+INFO:root:trouble with sku: {('11257003', 1259)}
+INFO:root:trouble with sku: {('89310700007', 1260)}
+INFO:root:trouble with sku: {('11503', 1261)}
+INFO:root:trouble with sku: {('100339', 1262)}
+INFO:root:trouble with sku: {('100384', 1263)}
+INFO:root:trouble with sku: {('100772', 1264)}
+INFO:root:trouble with sku: {('11658013', 1265)}
+INFO:root:trouble with sku: {('10434006', 1266)}
+INFO:root:trouble with sku: {('10805213', 1267)}
+INFO:root:trouble with sku: {('10065', 1268)}
+INFO:root:trouble with sku: {('55023', 1269)}
+INFO:root:trouble with sku: {('100380', 1270)}
+INFO:root:trouble with sku: {('13755', 1271)}
+INFO:root:trouble with sku: {('41056', 1272)}
+INFO:root:trouble with sku: {('10066', 1273)}
+INFO:root:trouble with sku: {('10899045', 1274)}
+INFO:root:trouble with sku: {('13754', 1275)}
+INFO:root:trouble with sku: {('10209025', 1276)}
+INFO:root:trouble with sku: {('11714022', 1277)}
+INFO:root:trouble with sku: {('10198000', 1278)}
+INFO:root:trouble with sku: {('10660003', 1279)}
+INFO:root:trouble with sku: {('10016009', 1280)}
+INFO:root:trouble with sku: {('101118', 1281)}
+INFO:root:trouble with sku: {('1012800028', 1282)}
+INFO:root:trouble with sku: {('10506013', 1283)}
+INFO:root:trouble with sku: {('102438', 1284)}
+INFO:root:trouble with sku: {('100446', 1285)}
+INFO:root:trouble with sku: {('9585', 1286)}
+INFO:root:trouble with sku: {('12109', 1287)}
+INFO:root:trouble with sku: {('102029', 1288)}
+INFO:root:trouble with sku: {('11223001', 1289)}
+INFO:root:trouble with sku: {('10841', 1290)}
+INFO:root:trouble with sku: {('91602', 1291)}
+INFO:root:trouble with sku: {('102599', 1292)}
+INFO:root:trouble with sku: {('19000001985', 1293)}
+INFO:root:trouble with sku: {('240', 1294)}
+INFO:root:trouble with sku: {('10021002', 1295)}
+INFO:root:trouble with sku: {('10805138', 1296)}
+INFO:root:trouble with sku: {('10021051', 1297)}
+INFO:root:trouble with sku: {('10729009', 1298)}
+INFO:root:trouble with sku: {('11535001', 1299)}
+INFO:root:trouble with sku: {('19000053530', 1300)}
+INFO:root:trouble with sku: {('90620', 1301)}
+INFO:root:trouble with sku: {('11658010', 1302)}
+INFO:root:trouble with sku: {('10661047', 1303)}
+INFO:root:trouble with sku: {('10223', 1304)}
+INFO:root:trouble with sku: {('14024', 1305)}
+INFO:root:trouble with sku: {('11466', 1306)}
+INFO:root:trouble with sku: {('963', 1307)}
+INFO:root:trouble with sku: {('10982', 1308)}
+INFO:root:trouble with sku: {('11481', 1309)}
+INFO:root:trouble with sku: {('17104', 1310)}
+INFO:root:trouble with sku: {('18186', 1311)}
+INFO:root:trouble with sku: {('11681013', 1312)}
+INFO:root:trouble with sku: {('100970', 1313)}
+INFO:root:trouble with sku: {('9926', 1314)}
+INFO:root:trouble with sku: {('101368', 1315)}
+INFO:root:trouble with sku: {('10209009', 1316)}
+INFO:root:trouble with sku: {('11850006', 1317)}
+INFO:root:trouble with sku: {('10084001', 1318)}
+INFO:root:trouble with sku: {('13750', 1319)}
+INFO:root:trouble with sku: {('91104', 1320)}
+INFO:root:trouble with sku: {('100055', 1321)}
+INFO:root:trouble with sku: {('102600', 1322)}
+INFO:root:trouble with sku: {('100919', 1323)}
+INFO:root:trouble with sku: {('11528', 1324)}
+INFO:root:trouble with sku: {('100574', 1325)}
+INFO:root:trouble with sku: {('19000047820', 1326)}
+INFO:root:trouble with sku: {('10843', 1327)}
+INFO:root:trouble with sku: {('10805099', 1328)}
+INFO:root:trouble with sku: {('25300800004', 1329)}
+INFO:root:trouble with sku: {('10114012', 1330)}
+INFO:root:trouble with sku: {('11106023', 1331)}
+INFO:root:trouble with sku: {('10528028', 1332)}
+INFO:root:trouble with sku: {('11906', 1333)}
+INFO:root:trouble with sku: {('11348', 1334)}
+INFO:root:trouble with sku: {('92137', 1335)}
+INFO:root:trouble with sku: {('10006', 1336)}
+INFO:root:trouble with sku: {('10045', 1337)}
+INFO:root:trouble with sku: {('10820028', 1338)}
+INFO:root:trouble with sku: {('10329', 1339)}
+INFO:root:trouble with sku: {('11933004', 1340)}
+INFO:root:trouble with sku: {('10862', 1341)}
+INFO:root:trouble with sku: {('10805143', 1342)}
+INFO:root:trouble with sku: {('100965', 1343)}
+INFO:root:trouble with sku: {('10039143', 1344)}
+INFO:root:trouble with sku: {('14375', 1345)}
+INFO:root:trouble with sku: {('10070050', 1346)}
+INFO:root:trouble with sku: {('117072050', 1347)}
+INFO:root:trouble with sku: {('101672', 1348)}
+INFO:root:trouble with sku: {('101296', 1349)}
+INFO:root:trouble with sku: {('85013', 1350)}
+INFO:root:trouble with sku: {('2719000', 1351)}
+INFO:root:trouble with sku: {('100163', 1352)}
+INFO:root:trouble with sku: {('102114', 1353)}
+INFO:root:trouble with sku: {('11821002', 1354)}
+INFO:root:trouble with sku: {('11918', 1355)}
+INFO:root:trouble with sku: {('30041', 1356)}
+INFO:root:trouble with sku: {('19000000869', 1357)}
+INFO:root:trouble with sku: {('10031015', 1358)}
+INFO:root:trouble with sku: {('30035', 1359)}
+INFO:root:trouble with sku: {('11309042', 1360)}
+INFO:root:trouble with sku: {('11116', 1361)}
+INFO:root:trouble with sku: {('11821040', 1362)}
+INFO:root:trouble with sku: {('10066068', 1363)}
+INFO:root:trouble with sku: {('91703', 1364)}
+INFO:root:trouble with sku: {('40252', 1365)}
+INFO:root:trouble with sku: {('90712', 1366)}
+INFO:root:trouble with sku: {('50247', 1367)}
+INFO:root:trouble with sku: {('10070047', 1368)}
+INFO:root:trouble with sku: {('10039082', 1369)}
+INFO:root:trouble with sku: {('10761', 1370)}
+INFO:root:trouble with sku: {('100471', 1371)}
+INFO:root:trouble with sku: {('11849', 1372)}
+INFO:root:trouble with sku: {('90612', 1373)}
+INFO:root:trouble with sku: {('13321200040', 1374)}
+INFO:root:trouble with sku: {('102357', 1375)}
+INFO:root:trouble with sku: {('11954', 1376)}
+INFO:root:trouble with sku: {('11714004', 1377)}
+INFO:root:trouble with sku: {('11361', 1378)}
+INFO:root:trouble with sku: {('13427', 1379)}
+INFO:root:trouble with sku: {('12131', 1380)}
+INFO:root:trouble with sku: {('11871', 1381)}
+INFO:root:trouble with sku: {('11552', 1382)}
+INFO:root:trouble with sku: {('11552004', 1383)}
+INFO:root:trouble with sku: {('101030', 1384)}
+INFO:root:trouble with sku: {('10708026', 1385)}
+INFO:root:trouble with sku: {('10066100', 1386)}
+INFO:root:trouble with sku: {('19000055911', 1387)}
+INFO:root:trouble with sku: {('102041', 1388)}
+INFO:root:trouble with sku: {('10771', 1389)}
+INFO:root:trouble with sku: {('18924', 1390)}
+INFO:root:trouble with sku: {('6575', 1391)}
+INFO:root:trouble with sku: {('11386', 1392)}
+INFO:root:trouble with sku: {('10062', 1393)}
+INFO:root:trouble with sku: {('10653', 1394)}
+INFO:root:trouble with sku: {('11552001', 1395)}
+INFO:root:trouble with sku: {('100681', 1396)}
+INFO:root:trouble with sku: {('10066001', 1397)}
+INFO:root:trouble with sku: {('101765', 1398)}
+INFO:root:trouble with sku: {('11987', 1399)}
+INFO:root:trouble with sku: {('10920', 1400)}
+INFO:root:trouble with sku: {('11360009', 1401)}
+INFO:root:trouble with sku: {('10121', 1402)}
+INFO:root:trouble with sku: {('19000007471', 1403)}
+INFO:root:trouble with sku: {('10031041', 1404)}
+INFO:root:trouble with sku: {('101406', 1405)}
+INFO:root:trouble with sku: {('11993', 1406)}
+INFO:root:trouble with sku: {('82259', 1407)}
+INFO:root:trouble with sku: {('10820008', 1408)}
+INFO:root:trouble with sku: {('102057', 1409)}
+INFO:root:trouble with sku: {('10444', 1410)}
+INFO:root:trouble with sku: {('10434013', 1411)}
+INFO:root:trouble with sku: {('11666', 1412)}
+INFO:root:trouble with sku: {('101336', 1413)}
+INFO:root:trouble with sku: {('101529', 1414)}
+INFO:root:trouble with sku: {('101948', 1415)}
+INFO:root:trouble with sku: {('301', 1416)}
+INFO:root:trouble with sku: {('102088', 1417)}
+INFO:root:trouble with sku: {('10066062', 1418)}
+INFO:root:trouble with sku: {('11092', 1419)}
+INFO:root:trouble with sku: {('9486', 1420)}
+INFO:root:trouble with sku: {('11923', 1421)}
+INFO:root:trouble with sku: {('10066104', 1422)}
+INFO:root:trouble with sku: {('10689', 1423)}
+INFO:root:trouble with sku: {('101953', 1424)}
+INFO:root:trouble with sku: {('11815', 1425)}
+INFO:root:trouble with sku: {('19000009689', 1426)}
+INFO:root:trouble with sku: {('100193', 1427)}
+INFO:root:trouble with sku: {('102282', 1428)}
+INFO:root:trouble with sku: {('101002', 1429)}
+INFO:root:trouble with sku: {('14360', 1430)}
+INFO:root:trouble with sku: {('11893', 1431)}
+INFO:root:trouble with sku: {('102602', 1432)}
+INFO:root:trouble with sku: {('10805167', 1433)}
+INFO:root:trouble with sku: {('10142', 1434)}
+INFO:root:trouble with sku: {('11090', 1435)}
+INFO:root:trouble with sku: {('11605004', 1436)}
+INFO:root:trouble with sku: {('19000067547', 1437)}
+INFO:root:trouble with sku: {('40180', 1438)}
+INFO:root:trouble with sku: {('10844003', 1439)}
+INFO:root:trouble with sku: {('10066009', 1440)}
+INFO:root:trouble with sku: {('101342', 1441)}
+INFO:root:trouble with sku: {('101424', 1442)}
+INFO:root:trouble with sku: {('11850003', 1443)}
+INFO:root:trouble with sku: {('10137034', 1444)}
+INFO:root:trouble with sku: {('10479031', 1445)}
+INFO:root:trouble with sku: {('10072003', 1446)}
+INFO:root:trouble with sku: {('10013', 1447)}
+INFO:root:trouble with sku: {('101853', 1448)}
+INFO:root:trouble with sku: {('41041', 1449)}
+INFO:root:trouble with sku: {('101193', 1450)}
+INFO:root:trouble with sku: {('10058007', 1451)}
+INFO:root:trouble with sku: {('82503', 1452)}
+INFO:root:trouble with sku: {('4339', 1453)}
+INFO:root:trouble with sku: {('90636', 1454)}
+INFO:root:trouble with sku: {('10981003', 1455)}
+INFO:root:trouble with sku: {('60354', 1456)}
+INFO:root:trouble with sku: {('19000009761', 1457)}
+INFO:root:trouble with sku: {('100908', 1458)}
+INFO:root:trouble with sku: {('11549', 1459)}
+INFO:root:trouble with sku: {('10066035', 1460)}
+INFO:root:trouble with sku: {('10209017', 1461)}
+INFO:root:trouble with sku: {('102168', 1462)}
+INFO:root:trouble with sku: {('19000008722', 1463)}
+INFO:root:trouble with sku: {('10434043', 1464)}
+INFO:root:trouble with sku: {('101382', 1465)}
+INFO:root:trouble with sku: {('10051030', 1466)}
+INFO:root:trouble with sku: {('11534', 1467)}
+INFO:root:trouble with sku: {('11932', 1468)}
+INFO:root:trouble with sku: {('10066018', 1469)}
+INFO:root:trouble with sku: {('19000003215', 1470)}
+INFO:root:trouble with sku: {('10031', 1471)}
+INFO:root:trouble with sku: {('10928', 1472)}
+INFO:root:trouble with sku: {('19000009769', 1473)}
+INFO:root:trouble with sku: {('24198500004', 1474)}
+INFO:root:trouble with sku: {('10528004', 1475)}
+INFO:root:trouble with sku: {('40215', 1476)}
+INFO:root:trouble with sku: {('10954', 1477)}
+INFO:root:trouble with sku: {('1006032', 1478)}
+INFO:root:trouble with sku: {('11309043', 1479)}
+INFO:root:trouble with sku: {('101348', 1480)}
+INFO:root:trouble with sku: {('10021018', 1481)}
+INFO:root:trouble with sku: {('92115', 1482)}
+INFO:root:trouble with sku: {('10071007', 1483)}
+INFO:root:trouble with sku: {('10071011', 1484)}
+INFO:root:trouble with sku: {('102317', 1485)}
+INFO:root:trouble with sku: {('13436', 1486)}
+INFO:root:trouble with sku: {('18409', 1487)}
+INFO:root:trouble with sku: {('102160', 1488)}
+INFO:root:trouble with sku: {('117072004', 1489)}
+INFO:root:trouble with sku: {('12102', 1490)}
+INFO:root:trouble with sku: {('100132', 1491)}
+INFO:root:trouble with sku: {('101832', 1492)}
+INFO:root:trouble with sku: {('11073', 1493)}
+INFO:root:trouble with sku: {('10031037', 1494)}
+INFO:root:trouble with sku: {('101314', 1495)}
+INFO:root:trouble with sku: {('101252', 1496)}
+INFO:root:trouble with sku: {('11529', 1497)}
+INFO:root:trouble with sku: {('11681024', 1498)}
+INFO:root:trouble with sku: {('40193', 1499)}
+INFO:root:trouble with sku: {('40752', 1500)}
+INFO:root:trouble with sku: {('10528', 1501)}
+INFO:root:trouble with sku: {('101791', 1502)}
+INFO:root:trouble with sku: {('10107018', 1503)}
+INFO:root:trouble with sku: {('6371', 1504)}
+INFO:root:trouble with sku: {('19664', 1505)}
+INFO:root:trouble with sku: {('9929', 1506)}
+INFO:root:trouble with sku: {('11219065', 1507)}
+INFO:root:trouble with sku: {('10009', 1508)}
+INFO:root:trouble with sku: {('10307', 1509)}
+INFO:root:trouble with sku: {('10791', 1510)}
+INFO:root:trouble with sku: {('100526', 1511)}
+INFO:root:trouble with sku: {('17353', 1512)}
+INFO:root:trouble with sku: {('117072055', 1513)}
+INFO:root:trouble with sku: {('18954', 1514)}
+INFO:root:trouble with sku: {('10011', 1515)}
+INFO:root:trouble with sku: {('19000009807', 1516)}
+INFO:root:trouble with sku: {('10039', 1517)}
+INFO:root:trouble with sku: {('9242', 1518)}
+INFO:root:trouble with sku: {('10907', 1519)}
+INFO:root:trouble with sku: {('1014100034', 1520)}
+INFO:root:trouble with sku: {('13752', 1521)}
+INFO:root:trouble with sku: {('11821021', 1522)}
+INFO:root:trouble with sku: {('11877', 1523)}
+INFO:root:trouble with sku: {('10117', 1524)}
+INFO:root:trouble with sku: {('18404', 1525)}
+INFO:root:trouble with sku: {('10528053', 1526)}
+INFO:root:trouble with sku: {('10820002', 1527)}
+INFO:root:trouble with sku: {('11076', 1528)}
+INFO:root:trouble with sku: {('100367', 1529)}
+INFO:root:trouble with sku: {('11890', 1530)}
+INFO:root:trouble with sku: {('10162', 1531)}
+INFO:root:trouble with sku: {('101946', 1532)}
+INFO:root:trouble with sku: {('101653', 1533)}
+INFO:root:trouble with sku: {('11672', 1534)}
+INFO:root:trouble with sku: {('6583', 1535)}
+INFO:root:trouble with sku: {('100277', 1536)}
+INFO:root:trouble with sku: {('11539006', 1537)}
+INFO:root:trouble with sku: {('100545', 1538)}
+INFO:root:trouble with sku: {('19760328127', 1539)}
+INFO:root:trouble with sku: {('41040', 1540)}
+INFO:root:trouble with sku: {('10226003', 1541)}
+INFO:root:trouble with sku: {('100036', 1542)}
+INFO:root:trouble with sku: {('10089', 1543)}
+INFO:root:trouble with sku: {('6654', 1544)}
+INFO:root:trouble with sku: {('101217', 1545)}
+INFO:root:trouble with sku: {('17754', 1546)}
+INFO:root:trouble with sku: {('10066081', 1547)}
+INFO:root:trouble with sku: {('10046', 1548)}
+INFO:root:trouble with sku: {('11462', 1549)}
+INFO:root:trouble with sku: {('100424', 1550)}
+INFO:root:trouble with sku: {('11167', 1551)}
+INFO:root:trouble with sku: {('11917', 1552)}
+INFO:root:trouble with sku: {('10051024', 1553)}
+INFO:root:trouble with sku: {('11510', 1554)}
+INFO:root:trouble with sku: {('102140', 1555)}
+INFO:root:trouble with sku: {('88830800001', 1556)}
+INFO:root:trouble with sku: {('9610', 1557)}
+INFO:root:trouble with sku: {('11881', 1558)}
+INFO:root:trouble with sku: {('30037', 1559)}
+INFO:root:trouble with sku: {('92178', 1560)}
+INFO:root:trouble with sku: {('10028007', 1561)}
+INFO:root:trouble with sku: {('33', 1562)}
+INFO:root:trouble with sku: {('11805034', 1563)}
+INFO:root:trouble with sku: {('19000122000', 1564)}
+INFO:root:trouble with sku: {('101365', 1565)}
+INFO:root:trouble with sku: {('10039067', 1566)}
+INFO:root:trouble with sku: {('22215', 1567)}
+INFO:root:trouble with sku: {('10660012', 1568)}
+INFO:root:trouble with sku: {('100686', 1569)}
+INFO:root:trouble with sku: {('11266', 1570)}
+INFO:root:trouble with sku: {('82254', 1571)}
+INFO:root:trouble with sku: {('50258', 1572)}
+INFO:root:trouble with sku: {('13746', 1573)}
+INFO:root:trouble with sku: {('4340', 1574)}
+INFO:root:trouble with sku: {('10043', 1575)}
+INFO:root:trouble with sku: {('100646', 1576)}
+INFO:root:trouble with sku: {('101644', 1577)}
+INFO:root:trouble with sku: {('10190175', 1578)}
+INFO:root:trouble with sku: {('69940500106', 1579)}
+INFO:root:trouble with sku: {('24198800001', 1580)}
+INFO:root:trouble with sku: {('30048', 1581)}
+INFO:root:trouble with sku: {('100719', 1582)}
+INFO:root:trouble with sku: {('17684', 1583)}
+INFO:root:trouble with sku: {('41032', 1584)}
+INFO:root:trouble with sku: {('10836', 1585)}
+INFO:root:trouble with sku: {('6579', 1586)}
+INFO:root:trouble with sku: {('60380', 1587)}
+INFO:root:trouble with sku: {('11265', 1588)}
+INFO:root:trouble with sku: {('10059', 1589)}
+INFO:root:trouble with sku: {('102012', 1590)}
+INFO:root:trouble with sku: {('10089006', 1591)}
+INFO:root:trouble with sku: {('9545', 1592)}
+INFO:root:trouble with sku: {('20717', 1593)}
+INFO:root:trouble with sku: {('101199', 1594)}
+INFO:root:trouble with sku: {('10610036', 1595)}
+INFO:root:trouble with sku: {('101801', 1596)}
+INFO:root:trouble with sku: {('10543', 1597)}
+INFO:root:trouble with sku: {('101794', 1598)}
+INFO:root:trouble with sku: {('100487', 1599)}
+INFO:root:trouble with sku: {('10137030', 1600)}
+INFO:root:trouble with sku: {('11386009', 1601)}
+INFO:root:trouble with sku: {('14020', 1602)}
+INFO:root:trouble with sku: {('101687', 1603)}
+INFO:root:trouble with sku: {('102294', 1604)}
+INFO:root:trouble with sku: {('11821039', 1605)}
+INFO:root:trouble with sku: {('101701', 1606)}
+INFO:root:trouble with sku: {('10660008', 1607)}
+INFO:root:trouble with sku: {('10032', 1608)}
+INFO:root:trouble with sku: {('50480', 1609)}
+INFO:root:trouble with sku: {('11107', 1610)}
+INFO:root:trouble with sku: {('100645', 1611)}
+INFO:root:trouble with sku: {('12056', 1612)}
+INFO:root:trouble with sku: {('10137057', 1613)}
+INFO:root:trouble with sku: {('15824', 1614)}
+INFO:root:trouble with sku: {('22026', 1615)}
+INFO:root:trouble with sku: {('101454', 1616)}
+INFO:root:trouble with sku: {('11103', 1617)}
+INFO:root:trouble with sku: {('102071', 1618)}
+INFO:root:trouble with sku: {('100005', 1619)}
+INFO:root:trouble with sku: {('117072061', 1620)}
+INFO:root:trouble with sku: {('100154', 1621)}
+INFO:root:trouble with sku: {('19000093458', 1622)}
+INFO:root:trouble with sku: {('14005', 1623)}
+INFO:root:trouble with sku: {('10661054', 1624)}
+INFO:root:trouble with sku: {('14860100013', 1625)}
+INFO:root:trouble with sku: {('10477', 1626)}
+INFO:root:trouble with sku: {('11779', 1627)}
+INFO:root:trouble with sku: {('9274', 1628)}
+INFO:root:trouble with sku: {('9262', 1629)}
+INFO:root:trouble with sku: {('10063', 1630)}
+INFO:root:trouble with sku: {('90736', 1631)}
+INFO:root:trouble with sku: {('16403', 1632)}
+INFO:root:trouble with sku: {('101914', 1633)}
+INFO:root:trouble with sku: {('101522', 1634)}
+INFO:root:trouble with sku: {('101540', 1635)}
+INFO:root:trouble with sku: {('9705', 1636)}
+INFO:root:trouble with sku: {('9500', 1637)}
+INFO:root:trouble with sku: {('10930', 1638)}
+INFO:root:trouble with sku: {('11805', 1639)}
+INFO:root:trouble with sku: {('101910', 1640)}
+INFO:root:trouble with sku: {('19138', 1641)}
+INFO:root:trouble with sku: {('100659', 1642)}
+INFO:root:trouble with sku: {('9711', 1643)}
+INFO:root:trouble with sku: {('10107021', 1644)}
+INFO:root:trouble with sku: {('50316', 1645)}
+INFO:root:trouble with sku: {('82260', 1646)}
+INFO:root:trouble with sku: {('90327', 1647)}
+INFO:root:trouble with sku: {('101335', 1648)}
+INFO:root:trouble with sku: {('10506', 1649)}
+INFO:root:trouble with sku: {('100312', 1650)}
+INFO:root:trouble with sku: {('11092008', 1651)}
+INFO:root:trouble with sku: {('10313006', 1652)}
+INFO:root:trouble with sku: {('11431012', 1653)}
+INFO:root:trouble with sku: {('100816', 1654)}
+INFO:root:trouble with sku: {('100063', 1655)}
+INFO:root:trouble with sku: {('14387', 1656)}
+INFO:root:trouble with sku: {('10066014', 1657)}
+INFO:root:trouble with sku: {('10687056', 1658)}
+INFO:root:trouble with sku: {('10553012', 1659)}
+INFO:root:trouble with sku: {('50404', 1660)}
+INFO:root:trouble with sku: {('6', 1661)}
+INFO:root:trouble with sku: {('10039088', 1662)}
+INFO:root:trouble with sku: {('11659002', 1663)}
+INFO:root:trouble with sku: {('12070', 1664)}
+INFO:root:trouble with sku: {('10528031', 1665)}
+INFO:root:trouble with sku: {('102260', 1666)}
+INFO:root:trouble with sku: {('6397', 1667)}
+INFO:root:trouble with sku: {('9254', 1668)}
+INFO:root:trouble with sku: {('10031042', 1669)}
+INFO:root:trouble with sku: {('92127', 1670)}
+INFO:root:trouble with sku: {('20182', 1671)}
+INFO:root:trouble with sku: {('100004', 1672)}
+INFO:root:trouble with sku: {('92154', 1673)}
+INFO:root:trouble with sku: {('101115', 1674)}
+INFO:root:trouble with sku: {('19000055916', 1675)}
+INFO:root:trouble with sku: {('10072043', 1676)}
+INFO:root:trouble with sku: {('10441', 1677)}
+INFO:root:trouble with sku: {('102308', 1678)}
+INFO:root:trouble with sku: {('40754', 1679)}
+INFO:root:trouble with sku: {('101121', 1680)}
+INFO:root:trouble with sku: {('10037', 1681)}
+INFO:root:trouble with sku: {('10129', 1682)}
+INFO:root:trouble with sku: {('30286', 1683)}
+INFO:root:trouble with sku: {('12279', 1684)}
+INFO:root:trouble with sku: {('40757', 1685)}
+INFO:root:trouble with sku: {('10805052', 1686)}
+INFO:root:trouble with sku: {('12055', 1687)}
+INFO:root:trouble with sku: {('10650090', 1688)}
+INFO:root:trouble with sku: {('15291100007', 1689)}
+INFO:root:trouble with sku: {('10066058', 1690)}
+INFO:root:trouble with sku: {('100034', 1691)}
+INFO:root:trouble with sku: {('10319007', 1692)}
+INFO:root:trouble with sku: {('18396', 1693)}
+INFO:root:trouble with sku: {('18939', 1694)}
+INFO:root:trouble with sku: {('14015', 1695)}
+INFO:root:trouble with sku: {('50249', 1696)}
+INFO:root:trouble with sku: {('101571', 1697)}
+INFO:root:trouble with sku: {('10660028', 1698)}
+INFO:root:trouble with sku: {('15831', 1699)}
+INFO:root:trouble with sku: {('11998', 1700)}
+INFO:root:trouble with sku: {('10564013', 1701)}
+INFO:root:trouble with sku: {('100563', 1702)}
+INFO:root:trouble with sku: {('11309005', 1703)}
+INFO:root:trouble with sku: {('1012800023', 1704)}
+INFO:root:trouble with sku: {('22050', 1705)}
+INFO:root:trouble with sku: {('11821028', 1706)}
+INFO:root:trouble with sku: {('101570', 1707)}
+INFO:root:trouble with sku: {('15567', 1708)}
+INFO:root:trouble with sku: {('10434017', 1709)}
+INFO:root:trouble with sku: {('6449', 1710)}
+INFO:root:trouble with sku: {('12152', 1711)}
+INFO:root:trouble with sku: {('11884', 1712)}
+INFO:root:trouble with sku: {('101744', 1713)}
+INFO:root:trouble with sku: {('10661021', 1714)}
+INFO:root:trouble with sku: {('101303', 1715)}
+INFO:root:trouble with sku: {('10561', 1716)}
+INFO:root:trouble with sku: {('11813', 1717)}
+INFO:root:trouble with sku: {('102385', 1718)}
+INFO:root:trouble with sku: {('10647', 1719)}
+INFO:root:trouble with sku: {('19000015055', 1720)}
+INFO:root:trouble with sku: {('10897', 1721)}
+INFO:root:trouble with sku: {('101686', 1722)}
+INFO:root:trouble with sku: {('24470200004', 1723)}
+INFO:root:trouble with sku: {('13911', 1724)}
+INFO:root:trouble with sku: {('40756', 1725)}
+INFO:root:trouble with sku: {('11802', 1726)}
+INFO:root:trouble with sku: {('10708021', 1727)}
+INFO:root:trouble with sku: {('101371', 1728)}
+INFO:root:trouble with sku: {('10333', 1729)}
+INFO:root:trouble with sku: {('10056', 1730)}
+INFO:root:trouble with sku: {('11805024', 1731)}
+INFO:root:trouble with sku: {('11503012', 1732)}
+INFO:root:trouble with sku: {('11118', 1733)}
+INFO:root:trouble with sku: {('11503018', 1734)}
+INFO:root:trouble with sku: {('7770', 1735)}
+INFO:root:trouble with sku: {('12136', 1736)}
+INFO:root:trouble with sku: {('19000009759', 1737)}
+INFO:root:trouble with sku: {('11392', 1738)}
+INFO:root:trouble with sku: {('85019', 1739)}
+INFO:root:trouble with sku: {('19000092048', 1740)}
+INFO:root:trouble with sku: {('102307', 1741)}
+INFO:root:trouble with sku: {('6372', 1742)}
+INFO:root:trouble with sku: {('13432', 1743)}
+INFO:root:trouble with sku: {('30040', 1744)}
+INFO:root:trouble with sku: {('11873', 1745)}
+INFO:root:trouble with sku: {('11467006', 1746)}
+INFO:root:trouble with sku: {('92171', 1747)}
+INFO:root:trouble with sku: {('22189', 1748)}
+INFO:root:trouble with sku: {('10657', 1749)}
+INFO:root:trouble with sku: {('101412', 1750)}
+INFO:root:trouble with sku: {('10157', 1751)}
+INFO:root:trouble with sku: {('12107', 1752)}
+INFO:root:trouble with sku: {('10319', 1753)}
+INFO:root:trouble with sku: {('10805025', 1754)}
+INFO:root:trouble with sku: {('10805078', 1755)}
+INFO:root:trouble with sku: {('11552015', 1756)}
+INFO:root:trouble with sku: {('111293039', 1757)}
+INFO:root:trouble with sku: {('19760301637', 1758)}
+INFO:root:trouble with sku: {('6008130', 1759)}
+INFO:root:trouble with sku: {('19000084043', 1760)}
+INFO:root:trouble with sku: {('102477', 1761)}
+INFO:root:trouble with sku: {('102046', 1762)}
+INFO:root:trouble with sku: {('10113011', 1763)}
+INFO:root:trouble with sku: {('100940', 1764)}
+INFO:root:trouble with sku: {('11865008', 1765)}
+INFO:root:trouble with sku: {('100880', 1766)}
+INFO:root:trouble with sku: {('10687040', 1767)}
+INFO:root:trouble with sku: {('22229', 1768)}
+INFO:root:trouble with sku: {('102072', 1769)}
+INFO:root:trouble with sku: {('101481', 1770)}
+INFO:root:trouble with sku: {('18410', 1771)}
+INFO:root:trouble with sku: {('100959', 1772)}
+INFO:root:trouble with sku: {('10137059', 1773)}
+INFO:root:trouble with sku: {('11091045', 1774)}
+INFO:root:trouble with sku: {('22014', 1775)}
+INFO:root:trouble with sku: {('6657', 1776)}
+INFO:root:trouble with sku: {('10852', 1777)}
+INFO:root:trouble with sku: {('6404', 1778)}
+INFO:root:trouble with sku: {('10058012', 1779)}
+INFO:root:trouble with sku: {('10039075', 1780)}
+INFO:root:trouble with sku: {('90001', 1781)}
+INFO:root:trouble with sku: {('10729008', 1782)}
+INFO:root:trouble with sku: {('50043', 1783)}
+INFO:root:trouble with sku: {('12036', 1784)}
+INFO:root:trouble with sku: {('92138', 1785)}
+INFO:root:trouble with sku: {('50312', 1786)}
+INFO:root:trouble with sku: {('92139', 1787)}
+INFO:root:trouble with sku: {('10820022', 1788)}
+INFO:root:trouble with sku: {('19000053529', 1789)}
+INFO:root:trouble with sku: {('11072', 1790)}
+INFO:root:trouble with sku: {('10660030', 1791)}
+INFO:root:trouble with sku: {('10026', 1792)}
+INFO:root:trouble with sku: {('100930', 1793)}
+INFO:root:trouble with sku: {('89950100004', 1794)}
+INFO:root:trouble with sku: {('11821037', 1795)}
+INFO:root:trouble with sku: {('19000099634', 1796)}
+INFO:root:trouble with sku: {('10660000', 1797)}
+INFO:root:trouble with sku: {('11857052', 1798)}
+INFO:root:trouble with sku: {('50399', 1799)}
+INFO:root:trouble with sku: {('11805051', 1800)}
+INFO:root:trouble with sku: {('100472', 1801)}
+INFO:root:trouble with sku: {('19000109012', 1802)}
+INFO:root:trouble with sku: {('10114013', 1803)}
+INFO:root:trouble with sku: {('6369', 1804)}
+INFO:root:trouble with sku: {('6622', 1805)}
+INFO:root:trouble with sku: {('10650055', 1806)}
+INFO:root:trouble with sku: {('100720', 1807)}
+INFO:root:trouble with sku: {('26290900004', 1808)}
+INFO:root:trouble with sku: {('10652', 1809)}
+INFO:root:trouble with sku: {('19760330540', 1810)}
+INFO:root:trouble with sku: {('85018', 1811)}
+INFO:root:trouble with sku: {('10039077', 1812)}
+INFO:root:trouble with sku: {('9270', 1813)}
+INFO:root:trouble with sku: {('101940', 1814)}
+INFO:root:trouble with sku: {('10553011', 1815)}
+INFO:root:trouble with sku: {('13568', 1816)}
+INFO:root:trouble with sku: {('100393', 1817)}
+INFO:root:trouble with sku: {('10107014', 1818)}
+INFO:root:trouble with sku: {('9703', 1819)}
+INFO:root:trouble with sku: {('100059', 1820)}
+INFO:root:trouble with sku: {('11821007', 1821)}
+INFO:root:trouble with sku: {('10137233', 1822)}
+INFO:root:trouble with sku: {('10105', 1823)}
+INFO:root:trouble with sku: {('12172', 1824)}
+INFO:root:trouble with sku: {('10313005', 1825)}
+INFO:root:trouble with sku: {('11857047', 1826)}
+INFO:root:trouble with sku: {('100480', 1827)}
+INFO:root:trouble with sku: {('10066101', 1828)}
+INFO:root:trouble with sku: {('11345', 1829)}
+INFO:root:trouble with sku: {('10016', 1830)}
+INFO:root:trouble with sku: {('19000050652', 1831)}
+INFO:root:trouble with sku: {('10506008', 1832)}
+INFO:root:trouble with sku: {('11897', 1833)}
+INFO:root:trouble with sku: {('40761', 1834)}
+INFO:root:trouble with sku: {('14012', 1835)}
+INFO:root:trouble with sku: {('10097', 1836)}
+INFO:root:trouble with sku: {('10590', 1837)}
+INFO:root:trouble with sku: {('10687064', 1838)}
+INFO:root:trouble with sku: {('30053', 1839)}
+INFO:root:trouble with sku: {('11118002', 1840)}
+INFO:root:trouble with sku: {('100994', 1841)}
+INFO:root:trouble with sku: {('19000002275', 1842)}
+INFO:root:trouble with sku: {('8110300022', 1843)}
+INFO:root:trouble with sku: {('10038', 1844)}
+INFO:root:trouble with sku: {('101142', 1845)}
+INFO:root:trouble with sku: {('101942', 1846)}
+INFO:root:trouble with sku: {('100397', 1847)}
+INFO:root:trouble with sku: {('19247', 1848)}
+INFO:root:trouble with sku: {('102537', 1849)}
+INFO:root:trouble with sku: {('101935', 1850)}
+INFO:root:trouble with sku: {('101273', 1851)}
+INFO:root:trouble with sku: {('10470', 1852)}
+INFO:root:trouble with sku: {('101161', 1853)}
+INFO:root:trouble with sku: {('100606', 1854)}
+INFO:root:trouble with sku: {('10924', 1855)}
+INFO:root:trouble with sku: {('100383', 1856)}
+INFO:root:trouble with sku: {('100320', 1857)}
+INFO:root:trouble with sku: {('11500', 1858)}
+INFO:root:trouble with sku: {('100684', 1859)}
+INFO:root:trouble with sku: {('10183', 1860)}
+INFO:root:trouble with sku: {('101771', 1861)}
+INFO:root:trouble with sku: {('30275', 1862)}
+INFO:root:trouble with sku: {('20014', 1863)}
+INFO:root:trouble with sku: {('12080', 1864)}
+INFO:root:trouble with sku: {('100467', 1865)}
+INFO:root:trouble with sku: {('101699', 1866)}
+INFO:root:trouble with sku: {('19000102877', 1867)}
+INFO:root:trouble with sku: {('10007003', 1868)}
+INFO:root:trouble with sku: {('9', 1869)}
+INFO:root:trouble with sku: {('11658007', 1870)}
+INFO:root:trouble with sku: {('102598', 1871)}
+INFO:root:trouble with sku: {('10116', 1872)}
+INFO:root:trouble with sku: {('14021', 1873)}
+INFO:root:trouble with sku: {('10687066', 1874)}
+INFO:root:trouble with sku: {('11857', 1875)}
+INFO:root:trouble with sku: {('12002', 1876)}
+INFO:root:trouble with sku: {('40771', 1877)}
+INFO:root:trouble with sku: {('10198', 1878)}
+INFO:root:trouble with sku: {('11684', 1879)}
+INFO:root:trouble with sku: {('19000001986', 1880)}
+INFO:root:trouble with sku: {('10290', 1881)}
+INFO:root:trouble with sku: {('11836013', 1882)}
+INFO:root:trouble with sku: {('10084', 1883)}
+INFO:root:trouble with sku: {('10805163', 1884)}
+INFO:root:trouble with sku: {('50256', 1885)}
+INFO:root:trouble with sku: {('6567', 1886)}
+INFO:root:trouble with sku: {('102409', 1887)}
+INFO:root:trouble with sku: {('11481009', 1888)}
+INFO:root:trouble with sku: {('117072052', 1889)}
+INFO:root:trouble with sku: {('10830', 1890)}
+INFO:root:trouble with sku: {('19000080045', 1891)}
+INFO:root:trouble with sku: {('101700', 1892)}
+INFO:root:trouble with sku: {('11714006', 1893)}
+INFO:root:trouble with sku: {('10066006', 1894)}
+INFO:root:trouble with sku: {('10434015', 1895)}
+INFO:root:trouble with sku: {('19000009637', 1896)}
+INFO:root:trouble with sku: {('10007012', 1897)}
+INFO:root:trouble with sku: {('19000034178', 1898)}
+INFO:root:trouble with sku: {('10729', 1899)}
+INFO:root:trouble with sku: {('19000001989', 1900)}
+INFO:root:trouble with sku: {('10265', 1901)}
+INFO:root:trouble with sku: {('14010', 1902)}
+INFO:root:trouble with sku: {('101530', 1903)}
+INFO:root:trouble with sku: {('10019', 1904)}
+INFO:root:trouble with sku: {('14014', 1905)}
+INFO:root:trouble with sku: {('11805010', 1906)}
+INFO:root:trouble with sku: {('102039', 1907)}
+INFO:root:trouble with sku: {('10687', 1908)}
+INFO:root:trouble with sku: {('12077', 1909)}
+INFO:root:trouble with sku: {('10145', 1910)}
+INFO:root:trouble with sku: {('10820027', 1911)}
+INFO:root:trouble with sku: {('10002', 1912)}
+INFO:root:trouble with sku: {('101078', 1913)}
+INFO:root:trouble with sku: {('100926', 1914)}
+INFO:root:trouble with sku: {('11714019', 1915)}
+INFO:root:trouble with sku: {('100687', 1916)}
+INFO:root:trouble with sku: {('100421', 1917)}
+INFO:root:trouble with sku: {('11774', 1918)}
+INFO:root:trouble with sku: {('17031', 1919)}
+INFO:root:trouble with sku: {('14396', 1920)}
+INFO:root:trouble with sku: {('101613', 1921)}
+INFO:root:trouble with sku: {('11865001', 1922)}
+INFO:root:trouble with sku: {('2710000', 1923)}
+INFO:root:trouble with sku: {('10654', 1924)}
+INFO:root:trouble with sku: {('11005017', 1925)}
+INFO:root:trouble with sku: {('11821023', 1926)}
+INFO:root:trouble with sku: {('101402', 1927)}
+INFO:root:trouble with sku: {('100867', 1928)}
+INFO:root:trouble with sku: {('10118', 1929)}
+INFO:root:trouble with sku: {('102480', 1930)}
+INFO:root:trouble with sku: {('10337001', 1931)}
+INFO:root:trouble with sku: {('11842', 1932)}
+INFO:root:trouble with sku: {('101338', 1933)}
+INFO:root:trouble with sku: {('55020', 1934)}
+INFO:root:trouble with sku: {('101235', 1935)}
+INFO:root:trouble with sku: {('11585', 1936)}
+INFO:root:trouble with sku: {('10654020', 1937)}
+INFO:root:trouble with sku: {('40635', 1938)}
+INFO:root:trouble with sku: {('12114', 1939)}
+INFO:root:trouble with sku: {('11821041', 1940)}
+INFO:root:trouble with sku: {('10008', 1941)}
+INFO:root:trouble with sku: {('100439', 1942)}
+INFO:root:trouble with sku: {('12153', 1943)}
+INFO:root:trouble with sku: {('11503021', 1944)}
+INFO:root:trouble with sku: {('12161', 1945)}
+INFO:root:trouble with sku: {('19143', 1946)}
+INFO:root:trouble with sku: {('6383', 1947)}
+INFO:root:trouble with sku: {('101123', 1948)}
+INFO:root:trouble with sku: {('15455', 1949)}
+INFO:root:trouble with sku: {('9251', 1950)}
+INFO:root:trouble with sku: {('10528011', 1951)}
+INFO:root:trouble with sku: {('11446', 1952)}
+INFO:root:trouble with sku: {('10805048', 1953)}
+INFO:root:trouble with sku: {('10528023', 1954)}
+INFO:root:trouble with sku: {('10021033', 1955)}
+INFO:root:trouble with sku: {('9278', 1956)}
+INFO:root:trouble with sku: {('90315', 1957)}
+INFO:root:trouble with sku: {('10660007', 1958)}
+INFO:root:trouble with sku: {('11446002', 1959)}
+INFO:root:trouble with sku: {('40631', 1960)}
+INFO:root:trouble with sku: {('102345', 1961)}
+INFO:root:trouble with sku: {('11502', 1962)}
+INFO:root:trouble with sku: {('11850007', 1963)}
+INFO:root:trouble with sku: {('101295', 1964)}
+INFO:root:trouble with sku: {('101346', 1965)}
+INFO:root:trouble with sku: {('40749', 1966)}
+INFO:root:trouble with sku: {('10058014', 1967)}
+INFO:root:trouble with sku: {('13930900004', 1968)}
+INFO:root:trouble with sku: {('101049', 1969)}
+INFO:root:trouble with sku: {('100111', 1970)}
+INFO:root:trouble with sku: {('101188', 1971)}
+INFO:root:trouble with sku: {('11658005', 1972)}
+INFO:root:trouble with sku: {('9236', 1973)}
+INFO:root:trouble with sku: {('1162003', 1974)}
+INFO:root:trouble with sku: {('10066072', 1975)}
+INFO:root:trouble with sku: {('101624', 1976)}
+INFO:root:trouble with sku: {('100219', 1977)}
+INFO:root:trouble with sku: {('10053', 1978)}
+INFO:root:trouble with sku: {('19000109577', 1979)}
+INFO:root:trouble with sku: {('101143', 1980)}
+INFO:root:trouble with sku: {('8645', 1981)}
+INFO:root:trouble with sku: {('92143', 1982)}
+INFO:root:trouble with sku: {('10671', 1983)}
+INFO:root:trouble with sku: {('10109', 1984)}
+INFO:root:trouble with sku: {('101497', 1985)}
+INFO:root:trouble with sku: {('12115', 1986)}
+INFO:root:trouble with sku: {('41038', 1987)}
+INFO:root:trouble with sku: {('69940500104', 1988)}
+INFO:root:trouble with sku: {('11737', 1989)}
+INFO:root:trouble with sku: {('10582003', 1990)}
+INFO:root:trouble with sku: {('6655', 1991)}
+INFO:root:trouble with sku: {('10153', 1992)}
+INFO:root:trouble with sku: {('90602', 1993)}
+INFO:root:trouble with sku: {('3374400003', 1994)}
+INFO:root:trouble with sku: {('82100100004', 1995)}
+INFO:root:trouble with sku: {('12286', 1996)}
+INFO:root:trouble with sku: {('10044', 1997)}
+INFO:root:trouble with sku: {('10051008', 1998)}
+INFO:root:trouble with sku: {('102341', 1999)}
+INFO:root:trouble with sku: {('10564', 2000)}
+INFO:root:trouble with sku: {('10687026', 2001)}
+INFO:root:trouble with sku: {('11714003', 2002)}
+INFO:root:trouble with sku: {('60706', 2003)}
+INFO:root:trouble with sku: {('10107012', 2004)}
+INFO:root:trouble with sku: {('18933', 2005)}
+INFO:root:trouble with sku: {('100842', 2006)}
+INFO:root:trouble with sku: {('14390', 2007)}
+INFO:root:trouble with sku: {('100115', 2008)}
+INFO:root:trouble with sku: {('19000034223', 2009)}
+INFO:root:trouble with sku: {('85006', 2010)}
+INFO:root:trouble with sku: {('85026', 2011)}
+INFO:root:trouble with sku: {('12182', 2012)}
+INFO:root:trouble with sku: {('10687024', 2013)}
+INFO:root:trouble with sku: {('19000068923', 2014)}
+INFO:root:trouble with sku: {('10687049', 2015)}
+INFO:root:trouble with sku: {('19000092289', 2016)}
+INFO:root:trouble with sku: {('12283', 2017)}
+INFO:root:trouble with sku: {('12149', 2018)}
+INFO:root:trouble with sku: {('102066', 2019)}
+INFO:root:trouble with sku: {('117072016', 2020)}
+INFO:root:trouble with sku: {('101200', 2021)}
+INFO:root:trouble with sku: {('11514', 2022)}
+INFO:root:trouble with sku: {('11681005', 2023)}
+INFO:root:trouble with sku: {('12095', 2024)}
+INFO:root:trouble with sku: {('90429', 2025)}
+INFO:root:trouble with sku: {('10109001', 2026)}
+INFO:root:trouble with sku: {('19000001987', 2027)}
+INFO:root:trouble with sku: {('10095', 2028)}
+INFO:root:trouble with sku: {('50245', 2029)}
+INFO:root:trouble with sku: {('8260', 2030)}
+INFO:root:trouble with sku: {('101537', 2031)}
+INFO:root:trouble with sku: {('91472', 2032)}
+INFO:root:trouble with sku: {('101795', 2033)}
+INFO:root:trouble with sku: {('30', 2034)}
+INFO:root:trouble with sku: {('10434', 2035)}
+INFO:root:trouble with sku: {('10313', 2036)}
+INFO:root:trouble with sku: {('11746011', 2037)}
+INFO:root:trouble with sku: {('10661048', 2038)}
+INFO:root:trouble with sku: {('11076005', 2039)}
+INFO:root:trouble with sku: {('101480', 2040)}
+INFO:root:trouble with sku: {('102124', 2041)}
+INFO:root:trouble with sku: {('10137061', 2042)}
+INFO:root:trouble with sku: {('10072036', 2043)}
+INFO:root:trouble with sku: {('18945', 2044)}
+INFO:root:trouble with sku: {('9467', 2045)}
+INFO:root:trouble with sku: {('101422', 2046)}
+INFO:root:trouble with sku: {('19000009848', 2047)}
+INFO:root:trouble with sku: {('10051001', 2048)}
+INFO:root:trouble with sku: {('20294', 2049)}
+INFO:root:trouble with sku: {('10773', 2050)}
+INFO:root:trouble with sku: {('19000034343', 2051)}
+INFO:root:trouble with sku: {('102340', 2052)}
+INFO:root:trouble with sku: {('10149', 2053)}
+INFO:root:trouble with sku: {('100', 2054)}
+INFO:root:trouble with sku: {('10137244', 2055)}
+INFO:root:trouble with sku: {('11865012', 2056)}
+INFO:root:trouble with sku: {('117072023', 2057)}
+INFO:root:trouble with sku: {('10901', 2058)}
+INFO:root:trouble with sku: {('37750400001', 2059)}
+INFO:root:trouble with sku: {('11857009', 2060)}
+INFO:root:trouble with sku: {('10088', 2061)}
+INFO:root:trouble with sku: {('10708081', 2062)}
+INFO:root:trouble with sku: {('11111110687040', 2063)}
+INFO:root:trouble with sku: {('82504', 2064)}
+INFO:root:trouble with sku: {('10564003', 2065)}
+INFO:root:trouble with sku: {('40560', 2066)}
+INFO:root:trouble with sku: {('12241', 2067)}
+INFO:root:trouble with sku: {('11612', 2068)}
+INFO:root:trouble with sku: {('10069', 2069)}
+INFO:root:trouble with sku: {('11023', 2070)}
+INFO:root:trouble with sku: {('50478', 2071)}
+INFO:root:trouble with sku: {('11865005', 2072)}
+INFO:root:trouble with sku: {('92244', 2073)}
+INFO:root:trouble with sku: {('16401', 2074)}
+INFO:root:trouble with sku: {('11559', 2075)}
+INFO:root:trouble with sku: {('101151', 2076)}
+INFO:root:trouble with sku: {('101300', 2077)}
+INFO:root:trouble with sku: {('11408', 2078)}
+INFO:root:trouble with sku: {('14008', 2079)}
+INFO:root:trouble with sku: {('22040', 2080)}
+INFO:root:trouble with sku: {('10051003', 2081)}
+INFO:root:trouble with sku: {('1828', 2082)}
+INFO:root:trouble with sku: {('101792', 2083)}
+INFO:root:trouble with sku: {('12183', 2084)}
+INFO:root:trouble with sku: {('12098', 2085)}
+INFO:root:trouble with sku: {('100189', 2086)}
+INFO:root:trouble with sku: {('7291300002', 2087)}
+INFO:root:trouble with sku: {('100882', 2088)}
+INFO:root:trouble with sku: {('10508', 2089)}
+INFO:root:trouble with sku: {('101134', 2090)}
+INFO:root:trouble with sku: {('13751', 2091)}
+INFO:root:trouble with sku: {('30052', 2092)}
+INFO:root:trouble with sku: {('14018', 2093)}
+INFO:root:trouble with sku: {('9706', 2094)}
+INFO:root:trouble with sku: {('11496010', 2095)}
+INFO:root:trouble with sku: {('100887', 2096)}
+INFO:root:trouble with sku: {('40627', 2097)}
+INFO:root:trouble with sku: {('111293040', 2098)}
+INFO:root:trouble with sku: {('101280', 2099)}
+INFO:root:trouble with sku: {('102419', 2100)}
+INFO:root:trouble with sku: {('10829', 2101)}
+INFO:root:trouble with sku: {('3901400001', 2102)}
+INFO:root:trouble with sku: {('38700200002', 2103)}
+INFO:root:trouble with sku: {('9239', 2104)}
+INFO:root:trouble with sku: {('10183099', 2105)}
+INFO:root:trouble with sku: {('10051', 2106)}
+INFO:root:trouble with sku: {('101207', 2107)}
+INFO:root:trouble with sku: {('11431016', 2108)}
+INFO:root:trouble with sku: {('30047', 2109)}
+INFO:root:trouble with sku: {('10356', 2110)}
+INFO:root:trouble with sku: {('11018', 2111)}
+INFO:root:trouble with sku: {('19000011276', 2112)}
+INFO:root:trouble with sku: {('85028', 2113)}
+INFO:root:trouble with sku: {('10611', 2114)}
+INFO:root:trouble with sku: {('60352', 2115)}
+INFO:root:trouble with sku: {('10071003', 2116)}
+INFO:root:trouble with sku: {('10805047', 2117)}
+INFO:root:trouble with sku: {('10221005', 2118)}
+INFO:root:trouble with sku: {('101738', 2119)}
+INFO:root:trouble with sku: {('100230', 2120)}
+INFO:root:trouble with sku: {('1082101002', 2121)}
+INFO:root:trouble with sku: {('10809', 2122)}
+INFO:root:trouble with sku: {('10910', 2123)}
+INFO:root:trouble with sku: {('10434047', 2124)}
+INFO:root:trouble with sku: {('11933005', 2125)}
+INFO:root:trouble with sku: {('18936', 2126)}
+INFO:root:trouble with sku: {('11380', 2127)}
+INFO:root:trouble with sku: {('102082', 2128)}
+INFO:root:trouble with sku: {('10066071', 2129)}
+INFO:root:trouble with sku: {('101283', 2130)}
+INFO:root:trouble with sku: {('958000', 2131)}
+INFO:root:trouble with sku: {('11839', 2132)}
+INFO:root:trouble with sku: {('19000001982', 2133)}
+INFO:root:trouble with sku: {('101912', 2134)}
+INFO:root:trouble with sku: {('11585002', 2135)}
+INFO:root:trouble with sku: {('102240', 2136)}
+INFO:root:trouble with sku: {('101419', 2137)}
+INFO:root:trouble with sku: {('22013', 2138)}
+INFO:root:trouble with sku: {('6392', 2139)}
+INFO:root:trouble with sku: {('102301', 2140)}
+INFO:root:trouble with sku: {('10007017', 2141)}
+INFO:root:trouble with sku: {('10021', 2142)}
+INFO:root:trouble with sku: {('101861', 2143)}
+INFO:root:trouble with sku: {('40763', 2144)}
+INFO:root:trouble with sku: {('10454001', 2145)}
+INFO:root:trouble with sku: {('10058013', 2146)}
+INFO:root:trouble with sku: {('102286', 2147)}
+INFO:root:trouble with sku: {('19000001983', 2148)}
+INFO:root:trouble with sku: {('101341', 2149)}
+INFO:root:trouble with sku: {('11791', 2150)}
+INFO:root:trouble with sku: {('100920', 2151)}
+INFO:root:trouble with sku: {('101523', 2152)}
+INFO:root:trouble with sku: {('19660', 2153)}
+INFO:root:trouble with sku: {('100546', 2154)}
+INFO:root:trouble with sku: {('10269', 2155)}
+INFO:root:trouble with sku: {('10226006', 2156)}
+INFO:root:trouble with sku: {('100318', 2157)}
+INFO:root:trouble with sku: {('11249', 2158)}
+INFO:root:trouble with sku: {('11435', 2159)}
+INFO:root:trouble with sku: {('10878', 2160)}
+INFO:root:trouble with sku: {('17751', 2161)}
+INFO:root:trouble with sku: {('1006029', 2162)}
+INFO:root:trouble with sku: {('102011', 2163)}
+INFO:root:trouble with sku: {('11309016', 2164)}
+INFO:root:trouble with sku: {('10528022', 2165)}
+INFO:root:trouble with sku: {('50255', 2166)}
+INFO:root:trouble with sku: {('0', 2167)}
+INFO:root:trouble with sku: {('10021032', 2168)}
+INFO:root:trouble with sku: {('17105', 2169)}
+INFO:root:trouble with sku: {('11552005', 2170)}
+INFO:root:trouble with sku: {('10023', 2171)}
+INFO:root:trouble with sku: {('11896001', 2172)}
+INFO:root:trouble with sku: {('10051034', 2173)}
+INFO:root:trouble with sku: {('11792015', 2174)}
+INFO:root:trouble with sku: {('19000009726', 2175)}
+INFO:root:trouble with sku: {('10434014', 2176)}
+INFO:root:trouble with sku: {('11019', 2177)}
+INFO:root:trouble with sku: {('100278', 2178)}
+INFO:root:trouble with sku: {('19000015624', 2179)}
+INFO:root:trouble with sku: {('18411', 2180)}
+INFO:root:trouble with sku: {('4', 2181)}
+INFO:root:trouble with sku: {('10026005', 2182)}
+INFO:root:trouble with sku: {('10033', 2183)}
+INFO:root:trouble with sku: {('10805044', 2184)}
+INFO:root:trouble with sku: {('15823', 2185)}
+INFO:root:trouble with sku: {('101050', 2186)}
+INFO:root:trouble with sku: {('102314', 2187)}
+INFO:root:trouble with sku: {('82501', 2188)}
+INFO:root:trouble with sku: {('102635', 2189)}
+INFO:root:trouble with sku: {('10528015', 2190)}
+INFO:root:trouble with sku: {('10001', 2191)}
+INFO:root:trouble with sku: {('11821004', 2192)}
+INFO:root:trouble with sku: {('100513', 2193)}
+INFO:root:trouble with sku: {('10066011', 2194)}
+INFO:root:trouble with sku: {('102377', 2195)}
+INFO:root:trouble with sku: {('100788', 2196)}
+INFO:root:trouble with sku: {('10249', 2197)}
+INFO:root:trouble with sku: {('11805037', 2198)}
+INFO:root:trouble with sku: {('19000076929', 2199)}
+INFO:root:gold_apple done, going to database: {2022-12-01 05:41:10.940057}
+INFO:root:gold_apple sequence done: {2022-12-01 05:41:34.209129}
+INFO:root:start iledebeaute sequence: {2022-12-01 05:41:34.209129}
+INFO:root:first level: {https://iledebeaute.ru/brands/clarins/}
+INFO:root:parsed_iledebeaute_data len: {60}
+INFO:root:next level: {https://iledebeaute.ru/brands/clarins/page2/}
+INFO:root:parsed_iledebeaute_data len: {120}
+INFO:root:next level: {https://iledebeaute.ru/brands/clarins/page3/}
+INFO:root:parsed_iledebeaute_data len: {180}
+INFO:root:next level: {https://iledebeaute.ru/brands/clarins/page4/}
+INFO:root:parsed_iledebeaute_data len: {240}
+INFO:root:next level: {https://iledebeaute.ru/brands/clarins/page5/}
+INFO:root:parsed_iledebeaute_data len: {241}
+INFO:root:got data: {241}
+INFO:root:first level: {https://iledebeaute.ru/brands/sisley/}
+INFO:root:parsed_iledebeaute_data len: {301}
+INFO:root:next level: {https://iledebeaute.ru/brands/sisley/page2/}
+INFO:root:parsed_iledebeaute_data len: {361}
+INFO:root:next level: {https://iledebeaute.ru/brands/sisley/page3/}
+INFO:root:parsed_iledebeaute_data len: {389}
+INFO:root:got data: {148}
+INFO:root:first level: {https://iledebeaute.ru/brands/helena_rubinstein/}
+INFO:root:parsed_iledebeaute_data len: {410}
+INFO:root:got data: {21}
+INFO:root:first level: {https://iledebeaute.ru/brands/biotherm/}
+INFO:root:parsed_iledebeaute_data len: {460}
+INFO:root:got data: {50}
+INFO:root:first level: {https://iledebeaute.ru/brands/dior/}
+INFO:root:parsed_iledebeaute_data len: {460}
+INFO:root:got data: {0}
+INFO:root:first level: {https://iledebeaute.ru/brands/darphin/}
+INFO:root:parsed_iledebeaute_data len: {513}
+INFO:root:got data: {53}
+INFO:root:first level: {https://iledebeaute.ru/brands/paco_rabanne/}
+INFO:root:parsed_iledebeaute_data len: {526}
+INFO:root:got data: {13}
+INFO:root:first level: {https://iledebeaute.ru/brands/nina_ricci/}
+INFO:root:parsed_iledebeaute_data len: {531}
+INFO:root:got data: {5}
+INFO:root:first level: {https://iledebeaute.ru/brands/prada/}
+INFO:root:parsed_iledebeaute_data len: {548}
+INFO:root:got data: {17}
+INFO:root:first level: {https://iledebeaute.ru/brands/carolina_herrera/}
+INFO:root:parsed_iledebeaute_data len: {561}
+INFO:root:got data: {13}
+INFO:root:first level: {https://iledebeaute.ru/brands/caudalie/}
+INFO:root:parsed_iledebeaute_data len: {613}
+INFO:root:got data: {52}
+INFO:root:first level: {https://iledebeaute.ru/brands/guerlain/}
+INFO:root:parsed_iledebeaute_data len: {673}
+INFO:root:next level: {https://iledebeaute.ru/brands/guerlain/page2/}
+INFO:root:parsed_iledebeaute_data len: {733}
+INFO:root:next level: {https://iledebeaute.ru/brands/guerlain/page3/}
+INFO:root:parsed_iledebeaute_data len: {742}
+INFO:root:got data: {129}
+INFO:root:first level: {https://iledebeaute.ru/brands/loccitane/}
+INFO:root:parsed_iledebeaute_data len: {802}
+INFO:root:next level: {https://iledebeaute.ru/brands/loccitane/page2/}
+INFO:root:parsed_iledebeaute_data len: {840}
+INFO:root:got data: {98}
+INFO:root:first level: {https://iledebeaute.ru/brands/la_colline/}
+INFO:root:parsed_iledebeaute_data len: {884}
+INFO:root:got data: {44}
+INFO:root:first level: {https://iledebeaute.ru/brands/la_prairie/}
+INFO:root:parsed_iledebeaute_data len: {909}
+INFO:root:got data: {25}
+INFO:root:first level: {https://iledebeaute.ru/brands/lancome/}
+INFO:root:parsed_iledebeaute_data len: {969}
+INFO:root:next level: {https://iledebeaute.ru/brands/lancome/page2/}
+INFO:root:parsed_iledebeaute_data len: {1029}
+INFO:root:next level: {https://iledebeaute.ru/brands/lancome/page3/}
+INFO:root:parsed_iledebeaute_data len: {1045}
+INFO:root:got data: {136}
+INFO:root:first level: {https://iledebeaute.ru/brands/yves_saint_laurent/}
+INFO:root:parsed_iledebeaute_data len: {1105}
+INFO:root:next level: {https://iledebeaute.ru/brands/yves_saint_laurent/page2/}
+INFO:root:parsed_iledebeaute_data len: {1109}
+INFO:root:got data: {64}
+INFO:root:first level: {https://iledebeaute.ru/brands/gucci/}
+INFO:root:parsed_iledebeaute_data len: {1131}
+INFO:root:got data: {22}
+INFO:root:first level: {https://iledebeaute.ru/brands/bvlgari/}
+INFO:root:parsed_iledebeaute_data len: {1141}
+INFO:root:got data: {10}
+INFO:root:first level: {https://iledebeaute.ru/brands/calvin_klein/}
+INFO:root:parsed_iledebeaute_data len: {1150}
+INFO:root:got data: {9}
+INFO:root:first level: {https://iledebeaute.ru/brands/givenchy/}
+INFO:root:parsed_iledebeaute_data len: {1210}
+INFO:root:next level: {https://iledebeaute.ru/brands/givenchy/page2/}
+INFO:root:parsed_iledebeaute_data len: {1242}
+INFO:root:got data: {92}
+INFO:root:first level: {https://iledebeaute.ru/brands/shiseido/}
+INFO:root:parsed_iledebeaute_data len: {1302}
+INFO:root:next level: {https://iledebeaute.ru/brands/shiseido/page2/}
+INFO:root:parsed_iledebeaute_data len: {1362}
+INFO:root:next level: {https://iledebeaute.ru/brands/shiseido/page3/}
+INFO:root:parsed_iledebeaute_data len: {1376}
+INFO:root:got data: {134}
+INFO:root:first level: {https://iledebeaute.ru/brands/rouge_bunny_rouge/}
+INFO:root:parsed_iledebeaute_data len: {1388}
+INFO:root:got data: {12}
+INFO:root:first level: {https://iledebeaute.ru/brands/estee_lauder/}
+INFO:root:parsed_iledebeaute_data len: {1448}
+INFO:root:next level: {https://iledebeaute.ru/brands/estee_lauder/page2/}
+INFO:root:parsed_iledebeaute_data len: {1508}
+INFO:root:next level: {https://iledebeaute.ru/brands/estee_lauder/page3/}
+INFO:root:parsed_iledebeaute_data len: {1515}
+INFO:root:got data: {127}
+INFO:root:first level: {https://iledebeaute.ru/brands/garnier/}
+INFO:root:parsed_iledebeaute_data len: {1518}
+INFO:root:got data: {3}
+INFO:root:first level: {https://iledebeaute.ru/brands/cartier/}
+INFO:root:parsed_iledebeaute_data len: {1539}
+INFO:root:got data: {21}
+INFO:root:first level: {https://iledebeaute.ru/brands/kenzo/}
+INFO:root:parsed_iledebeaute_data len: {1577}
+INFO:root:got data: {38}
+INFO:root:first level: {https://iledebeaute.ru/brands/mavala/}
+INFO:root:parsed_iledebeaute_data len: {1630}
+INFO:root:got data: {53}
+INFO:root:first level: {https://iledebeaute.ru/brands/valentino/}
+INFO:root:parsed_iledebeaute_data len: {1637}
+INFO:root:got data: {7}
+INFO:root:first level: {https://iledebeaute.ru/brands/versace/}
+INFO:root:parsed_iledebeaute_data len: {1649}
+INFO:root:got data: {12}
+INFO:root:first level: {https://iledebeaute.ru/brands/dkny/}
+INFO:root:parsed_iledebeaute_data len: {1657}
+INFO:root:got data: {8}
+INFO:root:first level: {https://iledebeaute.ru/brands/lacoste/}
+INFO:root:parsed_iledebeaute_data len: {1676}
+INFO:root:got data: {19}
+INFO:root:first level: {https://iledebeaute.ru/brands/giorgio_armani/}
+INFO:root:parsed_iledebeaute_data len: {1736}
+INFO:root:next level: {https://iledebeaute.ru/brands/giorgio_armani/page2/}
+INFO:root:parsed_iledebeaute_data len: {1779}
+INFO:root:got data: {103}
+INFO:root:first level: {https://iledebeaute.ru/brands/antonio_banderas/}
+INFO:root:parsed_iledebeaute_data len: {1791}
+INFO:root:got data: {12}
+INFO:root:first level: {https://iledebeaute.ru/brands/clinique/}
+INFO:root:parsed_iledebeaute_data len: {1851}
+INFO:root:next level: {https://iledebeaute.ru/brands/clinique/page2/}
+INFO:root:parsed_iledebeaute_data len: {1911}
+INFO:root:next level: {https://iledebeaute.ru/brands/clinique/page3/}
+INFO:root:parsed_iledebeaute_data len: {1971}
+INFO:root:next level: {https://iledebeaute.ru/brands/clinique/page4/}
+INFO:root:parsed_iledebeaute_data len: {1977}
+INFO:root:got data: {186}
+INFO:root:first level: {https://iledebeaute.ru/brands/hermes/}
+INFO:root:parsed_iledebeaute_data len: {2031}
+INFO:root:got data: {54}
+INFO:root:first level: {https://iledebeaute.ru/brands/acqua_di_parma/}
+INFO:root:parsed_iledebeaute_data len: {2091}
+INFO:root:next level: {https://iledebeaute.ru/brands/acqua_di_parma/page2/}
+INFO:root:parsed_iledebeaute_data len: {2151}
+INFO:root:got data: {120}
+INFO:root:first level: {https://iledebeaute.ru/brands/la_mer/}
+INFO:root:parsed_iledebeaute_data len: {2202}
+INFO:root:got data: {51}
+INFO:root:first level: {https://iledebeaute.ru/brands/chloe/}
+INFO:root:parsed_iledebeaute_data len: {2213}
+INFO:root:got data: {11}
+INFO:root:first level: {https://iledebeaute.ru/brands/serge_lutens/}
+INFO:root:parsed_iledebeaute_data len: {2247}
+INFO:root:got data: {34}
+INFO:root:first level: {https://iledebeaute.ru/brands/redken/}
+INFO:root:parsed_iledebeaute_data len: {2295}
+INFO:root:got data: {48}
+INFO:root:first level: {https://iledebeaute.ru/brands/by_sephora/}
+INFO:root:parsed_iledebeaute_data len: {2355}
+INFO:root:next level: {https://iledebeaute.ru/brands/by_sephora/page2/}
+INFO:root:parsed_iledebeaute_data len: {2415}
+INFO:root:next level: {https://iledebeaute.ru/brands/by_sephora/page3/}
+INFO:root:parsed_iledebeaute_data len: {2475}
+INFO:root:next level: {https://iledebeaute.ru/brands/by_sephora/page4/}
+INFO:root:parsed_iledebeaute_data len: {2535}
+INFO:root:next level: {https://iledebeaute.ru/brands/by_sephora/page5/}
+INFO:root:parsed_iledebeaute_data len: {2577}
+INFO:root:got data: {282}
+INFO:root:first level: {https://iledebeaute.ru/brands/l_oreal_paris/}
+INFO:root:parsed_iledebeaute_data len: {2637}
+INFO:root:next level: {https://iledebeaute.ru/brands/l_oreal_paris/page2/}
+INFO:root:parsed_iledebeaute_data len: {2690}
+INFO:root:got data: {113}
+INFO:root:first level: {https://iledebeaute.ru/brands/hugo_boss/}
+INFO:root:parsed_iledebeaute_data len: {2708}
+INFO:root:got data: {18}
+INFO:root:first level: {https://iledebeaute.ru/brands/mac/}
+INFO:root:parsed_iledebeaute_data len: {2768}
+INFO:root:next level: {https://iledebeaute.ru/brands/mac/page2/}
+INFO:root:parsed_iledebeaute_data len: {2828}
+INFO:root:next level: {https://iledebeaute.ru/brands/mac/page3/}
+INFO:root:parsed_iledebeaute_data len: {2888}
+INFO:root:next level: {https://iledebeaute.ru/brands/mac/page4/}
+INFO:root:parsed_iledebeaute_data len: {2907}
+INFO:root:got data: {199}
+INFO:root:first level: {https://iledebeaute.ru/brands/make_up_for_ever/}
+INFO:root:parsed_iledebeaute_data len: {2967}
+INFO:root:next level: {https://iledebeaute.ru/brands/make_up_for_ever/page2/}
+INFO:root:parsed_iledebeaute_data len: {3027}
+INFO:root:next level: {https://iledebeaute.ru/brands/make_up_for_ever/page3/}
+INFO:root:parsed_iledebeaute_data len: {3037}
+INFO:root:got data: {130}
+INFO:root:first level: {https://iledebeaute.ru/brands/cellcosmet_and_cellmen/}
+INFO:root:parsed_iledebeaute_data len: {3074}
+INFO:root:got data: {37}
+INFO:root:first level: {https://iledebeaute.ru/brands/dolce-gabbana/}
+INFO:root:parsed_iledebeaute_data len: {3114}
+INFO:root:got data: {40}
+INFO:root:first level: {https://iledebeaute.ru/brands/swiss_line/}
+INFO:root:parsed_iledebeaute_data len: {3140}
+INFO:root:got data: {26}
+INFO:root:first level: {https://iledebeaute.ru/brands/loewe/}
+INFO:root:parsed_iledebeaute_data len: {3166}
+INFO:root:got data: {26}
+INFO:root:first level: {https://iledebeaute.ru/brands/escentric_molecules/}
+INFO:root:parsed_iledebeaute_data len: {3193}
+INFO:root:got data: {27}
+INFO:root:first level: {https://iledebeaute.ru/brands/lancaster/}
+INFO:root:parsed_iledebeaute_data len: {3235}
+INFO:root:got data: {42}
+INFO:root:first level: {https://iledebeaute.ru/brands/tom_ford/}
+INFO:root:parsed_iledebeaute_data len: {3295}
+INFO:root:next level: {https://iledebeaute.ru/brands/tom_ford/page2/}
+INFO:root:parsed_iledebeaute_data len: {3313}
+INFO:root:got data: {78}
+INFO:root:first level: {https://iledebeaute.ru/brands/mbr/}
+INFO:root:parsed_iledebeaute_data len: {3373}
+INFO:root:next level: {https://iledebeaute.ru/brands/mbr/page2/}
+INFO:root:parsed_iledebeaute_data len: {3383}
+INFO:root:got data: {70}
+INFO:root:first level: {https://iledebeaute.ru/brands/ermenegildo_zegna/}
+INFO:root:parsed_iledebeaute_data len: {3392}
+INFO:root:got data: {9}
+INFO:root:first level: {https://iledebeaute.ru/brands/valmont/}
+INFO:root:parsed_iledebeaute_data len: {3448}
+INFO:root:got data: {56}
+INFO:root:first level: {https://iledebeaute.ru/brands/guam/}
+INFO:root:parsed_iledebeaute_data len: {3508}
+INFO:root:next level: {https://iledebeaute.ru/brands/guam/page2/}
+INFO:root:parsed_iledebeaute_data len: {3530}
+INFO:root:got data: {82}
+INFO:root:first level: {https://iledebeaute.ru/brands/sensai/}
+INFO:root:parsed_iledebeaute_data len: {3590}
+INFO:root:next level: {https://iledebeaute.ru/brands/sensai/page2/}
+INFO:root:parsed_iledebeaute_data len: {3634}
+INFO:root:got data: {104}
+INFO:root:first level: {https://iledebeaute.ru/brands/kvd_vegan_beauty/}
+INFO:root:parsed_iledebeaute_data len: {3682}
+INFO:root:got data: {48}
+INFO:root:first level: {https://iledebeaute.ru/brands/narciso_rodriguez/}
+INFO:root:parsed_iledebeaute_data len: {3706}
+INFO:root:got data: {24}
+INFO:root:first level: {https://iledebeaute.ru/brands/viktor_rolf/}
+INFO:root:parsed_iledebeaute_data len: {3714}
+INFO:root:got data: {8}
+INFO:root:first level: {https://iledebeaute.ru/brands/ren-clean-skincare/}
+INFO:root:parsed_iledebeaute_data len: {3735}
+INFO:root:got data: {21}
+INFO:root:first level: {https://iledebeaute.ru/brands/shaik/}
+INFO:root:parsed_iledebeaute_data len: {3741}
+INFO:root:got data: {6}
+INFO:root:first level: {https://iledebeaute.ru/brands/john_frieda/}
+INFO:root:parsed_iledebeaute_data len: {3780}
+INFO:root:got data: {39}
+INFO:root:first level: {https://iledebeaute.ru/brands/juliette_has_a_gun/}
+INFO:root:parsed_iledebeaute_data len: {3800}
+INFO:root:got data: {20}
+INFO:root:first level: {https://iledebeaute.ru/brands/mancera/}
+INFO:root:parsed_iledebeaute_data len: {3846}
+INFO:root:got data: {46}
+INFO:root:first level: {https://iledebeaute.ru/brands/bobbi_brown/}
+INFO:root:parsed_iledebeaute_data len: {3906}
+INFO:root:next level: {https://iledebeaute.ru/brands/bobbi_brown/page2/}
+INFO:root:parsed_iledebeaute_data len: {3946}
+INFO:root:got data: {100}
+INFO:root:first level: {https://iledebeaute.ru/brands/dr_jart/}
+INFO:root:parsed_iledebeaute_data len: {4006}
+INFO:root:next level: {https://iledebeaute.ru/brands/dr_jart/page2/}
+INFO:root:parsed_iledebeaute_data len: {4008}
+INFO:root:got data: {62}
+INFO:root:first level: {https://iledebeaute.ru/brands/dr__brandt/}
+INFO:root:parsed_iledebeaute_data len: {4027}
+INFO:root:got data: {19}
+INFO:root:first level: {https://iledebeaute.ru/brands/byredo/}
+INFO:root:parsed_iledebeaute_data len: {4087}
+INFO:root:got data: {60}
+INFO:root:first level: {https://iledebeaute.ru/brands/diptyque/}
+INFO:root:parsed_iledebeaute_data len: {4145}
+INFO:root:got data: {58}
+INFO:root:first level: {https://iledebeaute.ru/brands/kilian/}
+INFO:root:parsed_iledebeaute_data len: {4201}
+INFO:root:got data: {56}
+INFO:root:first level: {https://iledebeaute.ru/brands/laneige/}
+INFO:root:parsed_iledebeaute_data len: {4220}
+INFO:root:got data: {19}
+INFO:root:first level: {https://iledebeaute.ru/brands/beautiful_mind/}
+INFO:root:parsed_iledebeaute_data len: {4222}
+INFO:root:got data: {2}
+INFO:root:first level: {https://iledebeaute.ru/brands/les_contes/}
+INFO:root:parsed_iledebeaute_data len: {4240}
+INFO:root:got data: {18}
+INFO:root:first level: {https://iledebeaute.ru/brands/rexaline/}
+INFO:root:parsed_iledebeaute_data len: {4249}
+INFO:root:got data: {9}
+INFO:root:first level: {https://iledebeaute.ru/brands/clive_christian/}
+INFO:root:parsed_iledebeaute_data len: {4273}
+INFO:root:got data: {24}
+INFO:root:first level: {https://iledebeaute.ru/brands/percy%26reed/}
+INFO:root:parsed_iledebeaute_data len: {4308}
+INFO:root:got data: {35}
+INFO:root:first level: {https://iledebeaute.ru/brands/atelier_cologne/}
+INFO:root:parsed_iledebeaute_data len: {4341}
+INFO:root:got data: {33}
+INFO:root:first level: {https://iledebeaute.ru/brands/erborian/}
+INFO:root:parsed_iledebeaute_data len: {4401}
+INFO:root:next level: {https://iledebeaute.ru/brands/erborian/page2/}
+INFO:root:parsed_iledebeaute_data len: {4442}
+INFO:root:got data: {101}
+INFO:root:first level: {https://iledebeaute.ru/brands/glamglow/}
+INFO:root:parsed_iledebeaute_data len: {4465}
+INFO:root:got data: {23}
+INFO:root:first level: {https://iledebeaute.ru/brands/rich/}
+INFO:root:parsed_iledebeaute_data len: {4486}
+INFO:root:got data: {21}
+INFO:root:first level: {https://iledebeaute.ru/brands/mugler/}
+INFO:root:parsed_iledebeaute_data len: {4517}
+INFO:root:got data: {31}
+INFO:root:first level: {https://iledebeaute.ru/brands/benefit/}
+INFO:root:parsed_iledebeaute_data len: {4577}
+INFO:root:next level: {https://iledebeaute.ru/brands/benefit/page2/}
+INFO:root:parsed_iledebeaute_data len: {4618}
+INFO:root:got data: {101}
+INFO:root:first level: {https://iledebeaute.ru/brands/urban_decay/}
+INFO:root:parsed_iledebeaute_data len: {4637}
+INFO:root:got data: {19}
+INFO:root:first level: {https://iledebeaute.ru/brands/lovien_essential/}
+INFO:root:parsed_iledebeaute_data len: {4663}
+INFO:root:got data: {26}
+INFO:root:first level: {https://iledebeaute.ru/brands/roja_dove/}
+INFO:root:parsed_iledebeaute_data len: {4674}
+INFO:root:got data: {11}
+INFO:root:first level: {https://iledebeaute.ru/brands/tangle_teezer/}
+INFO:root:parsed_iledebeaute_data len: {4714}
+INFO:root:got data: {40}
+INFO:root:first level: {https://iledebeaute.ru/brands/beautyblender/}
+INFO:root:parsed_iledebeaute_data len: {4742}
+INFO:root:got data: {28}
+INFO:root:first level: {https://iledebeaute.ru/brands/invisibobble/}
+INFO:root:parsed_iledebeaute_data len: {4781}
+INFO:root:got data: {39}
+INFO:root:first level: {https://iledebeaute.ru/brands/olaplex/}
+INFO:root:parsed_iledebeaute_data len: {4792}
+INFO:root:got data: {11}
+INFO:root:first level: {https://iledebeaute.ru/brands/memo/}
+INFO:root:parsed_iledebeaute_data len: {4819}
+INFO:root:got data: {27}
+INFO:root:first level: {https://iledebeaute.ru/brands/ormonde_jayne/}
+INFO:root:parsed_iledebeaute_data len: {4847}
+INFO:root:got data: {28}
+INFO:root:first level: {https://iledebeaute.ru/brands/moresque/}
+INFO:root:parsed_iledebeaute_data len: {4873}
+INFO:root:got data: {26}
+INFO:root:first level: {https://iledebeaute.ru/brands/creed/}
+INFO:root:parsed_iledebeaute_data len: {4890}
+INFO:root:got data: {17}
+INFO:root:first level: {https://iledebeaute.ru/brands/the_chemical_barbers/}
+INFO:root:parsed_iledebeaute_data len: {4901}
+INFO:root:got data: {11}
+INFO:root:first level: {https://iledebeaute.ru/brands/filorga/}
+INFO:root:parsed_iledebeaute_data len: {4947}
+INFO:root:got data: {46}
+INFO:root:first level: {https://iledebeaute.ru/brands/carmex/}
+INFO:root:parsed_iledebeaute_data len: {4953}
+INFO:root:got data: {6}
+INFO:root:first level: {https://iledebeaute.ru/brands/maison_margiela/}
+INFO:root:parsed_iledebeaute_data len: {4974}
+INFO:root:got data: {21}
+INFO:root:first level: {https://iledebeaute.ru/brands/vilhelm-parfumerie/}
+INFO:root:parsed_iledebeaute_data len: {5034}
+INFO:root:next level: {https://iledebeaute.ru/brands/vilhelm-parfumerie/page2/}
+INFO:root:parsed_iledebeaute_data len: {5045}
+INFO:root:got data: {71}
+INFO:root:first level: {https://iledebeaute.ru/brands/planeta_organica/}
+INFO:root:parsed_iledebeaute_data len: {5046}
+INFO:root:got data: {1}
+INFO:root:first level: {https://iledebeaute.ru/brands/natura-siberica/}
+INFO:root:parsed_iledebeaute_data len: {5106}
+INFO:root:next level: {https://iledebeaute.ru/brands/natura-siberica/page2/}
+INFO:root:parsed_iledebeaute_data len: {5133}
+INFO:root:got data: {87}
+INFO:root:first level: {https://iledebeaute.ru/brands/hask/}
+INFO:root:parsed_iledebeaute_data len: {5170}
+INFO:root:got data: {37}
+INFO:root:first level: {https://iledebeaute.ru/brands/petitfee/}
+INFO:root:parsed_iledebeaute_data len: {5190}
+INFO:root:got data: {20}
+INFO:root:first level: {https://iledebeaute.ru/brands/too-faced/}
+INFO:root:parsed_iledebeaute_data len: {5250}
+INFO:root:next level: {https://iledebeaute.ru/brands/too-faced/page2/}
+INFO:root:parsed_iledebeaute_data len: {5267}
+INFO:root:got data: {77}
+INFO:root:first level: {https://iledebeaute.ru/brands/sephora_box/}
+INFO:root:parsed_iledebeaute_data len: {5270}
+INFO:root:got data: {3}
+INFO:root:first level: {https://iledebeaute.ru/brands/la-bruket/}
+INFO:root:parsed_iledebeaute_data len: {5307}
+INFO:root:got data: {37}
+INFO:root:first level: {https://iledebeaute.ru/brands/jacques-zolty/}
+INFO:root:parsed_iledebeaute_data len: {5319}
+INFO:root:got data: {12}
+INFO:root:first level: {https://iledebeaute.ru/brands/saal-co/}
+INFO:root:parsed_iledebeaute_data len: {5326}
+INFO:root:got data: {7}
+INFO:root:first level: {https://iledebeaute.ru/brands/monart_parfums/}
+INFO:root:parsed_iledebeaute_data len: {5331}
+INFO:root:got data: {5}
+INFO:root:first level: {https://iledebeaute.ru/brands/huda-beauty/}
+INFO:root:parsed_iledebeaute_data len: {5391}
+INFO:root:next level: {https://iledebeaute.ru/brands/huda-beauty/page2/}
+INFO:root:parsed_iledebeaute_data len: {5399}
+INFO:root:got data: {68}
+INFO:root:first level: {https://iledebeaute.ru/brands/belif/}
+INFO:root:parsed_iledebeaute_data len: {5415}
+INFO:root:got data: {16}
+INFO:root:first level: {https://iledebeaute.ru/brands/boscia/}
+INFO:root:parsed_iledebeaute_data len: {5416}
+INFO:root:got data: {1}
+INFO:root:first level: {https://iledebeaute.ru/brands/patchology/}
+INFO:root:parsed_iledebeaute_data len: {5432}
+INFO:root:got data: {16}
+INFO:root:first level: {https://iledebeaute.ru/brands/sol-de-janeiro/}
+INFO:root:parsed_iledebeaute_data len: {5441}
+INFO:root:got data: {9}
+INFO:root:first level: {https://iledebeaute.ru/brands/frank-body/}
+INFO:root:parsed_iledebeaute_data len: {5446}
+INFO:root:got data: {5}
+INFO:root:first level: {https://iledebeaute.ru/brands/hermetica/}
+INFO:root:parsed_iledebeaute_data len: {5465}
+INFO:root:got data: {19}
+INFO:root:first level: {https://iledebeaute.ru/brands/pixi/}
+INFO:root:parsed_iledebeaute_data len: {5525}
+INFO:root:got data: {60}
+INFO:root:first level: {https://iledebeaute.ru/brands/tarte/}
+INFO:root:parsed_iledebeaute_data len: {5534}
+INFO:root:got data: {9}
+INFO:root:first level: {https://iledebeaute.ru/brands/natashadenona/}
+INFO:root:parsed_iledebeaute_data len: {5590}
+INFO:root:got data: {56}
+INFO:root:first level: {https://iledebeaute.ru/brands/hourglass/}
+INFO:root:parsed_iledebeaute_data len: {5648}
+INFO:root:got data: {58}
+INFO:root:first level: {https://iledebeaute.ru/brands/anastasia_beverly_hills/}
+INFO:root:parsed_iledebeaute_data len: {5708}
+INFO:root:got data: {60}
+INFO:root:first level: {https://iledebeaute.ru/brands/this_works/}
+INFO:root:parsed_iledebeaute_data len: {5709}
+INFO:root:got data: {1}
+INFO:root:first level: {https://iledebeaute.ru/brands/mario_badescu/}
+INFO:root:parsed_iledebeaute_data len: {5757}
+INFO:root:got data: {48}
+INFO:root:first level: {https://iledebeaute.ru/brands/alpha_h/}
+INFO:root:parsed_iledebeaute_data len: {5759}
+INFO:root:got data: {2}
+INFO:root:first level: {https://iledebeaute.ru/brands/zoeva/}
+INFO:root:parsed_iledebeaute_data len: {5808}
+INFO:root:got data: {49}
+INFO:root:first level: {https://iledebeaute.ru/brands/l_sanic/}
+INFO:root:parsed_iledebeaute_data len: {5819}
+INFO:root:got data: {11}
+INFO:root:first level: {https://iledebeaute.ru/brands/merci_handy/}
+INFO:root:parsed_iledebeaute_data len: {5854}
+INFO:root:got data: {35}
+INFO:root:first level: {https://iledebeaute.ru/brands/peace_out/}
+INFO:root:parsed_iledebeaute_data len: {5859}
+INFO:root:got data: {5}
+INFO:root:first level: {https://iledebeaute.ru/brands/winky_lux/}
+INFO:root:parsed_iledebeaute_data len: {5862}
+INFO:root:got data: {3}
+INFO:root:first level: {https://iledebeaute.ru/brands/youth_to_the_people/}
+INFO:root:parsed_iledebeaute_data len: {5872}
+INFO:root:got data: {10}
+INFO:root:first level: {https://iledebeaute.ru/brands/christophe_robin/}
+INFO:root:parsed_iledebeaute_data len: {5874}
+INFO:root:got data: {2}
+INFO:root:first level: {https://iledebeaute.ru/brands/sephora_favorites/}
+INFO:root:parsed_iledebeaute_data len: {5875}
+INFO:root:got data: {1}
+INFO:root:first level: {https://iledebeaute.ru/brands/the_inkey_list/}
+INFO:root:parsed_iledebeaute_data len: {5893}
+INFO:root:got data: {18}
+INFO:root:first level: {https://iledebeaute.ru/brands/lanolips/}
+INFO:root:parsed_iledebeaute_data len: {5909}
+INFO:root:got data: {16}
+INFO:root:first level: {https://iledebeaute.ru/brands/sunday_riley/}
+INFO:root:parsed_iledebeaute_data len: {5927}
+INFO:root:got data: {18}
+INFO:root:first level: {https://iledebeaute.ru/brands/polaar/}
+INFO:root:parsed_iledebeaute_data len: {5929}
+INFO:root:got data: {2}
+INFO:root:first level: {https://iledebeaute.ru/brands/jo_malone/}
+INFO:root:parsed_iledebeaute_data len: {5967}
+INFO:root:got data: {38}
+INFO:root:first level: {https://iledebeaute.ru/brands/the_house_of_oud/}
+INFO:root:parsed_iledebeaute_data len: {5985}
+INFO:root:got data: {18}
+INFO:root:first level: {https://iledebeaute.ru/brands/fenty_beauty/}
+INFO:root:parsed_iledebeaute_data len: {6045}
+INFO:root:next level: {https://iledebeaute.ru/brands/fenty_beauty/page2/}
+INFO:root:parsed_iledebeaute_data len: {6061}
+INFO:root:got data: {76}
+INFO:root:first level: {https://iledebeaute.ru/brands/olehenriksen/}
+INFO:root:parsed_iledebeaute_data len: {6097}
+INFO:root:got data: {36}
+INFO:root:first level: {https://iledebeaute.ru/brands/npw/}
+INFO:root:parsed_iledebeaute_data len: {6104}
+INFO:root:got data: {7}
+INFO:root:first level: {https://iledebeaute.ru/brands/egyptian-magic/}
+INFO:root:parsed_iledebeaute_data len: {6105}
+INFO:root:got data: {1}
+INFO:root:first level: {https://iledebeaute.ru/brands/fresh/}
+INFO:root:parsed_iledebeaute_data len: {6163}
+INFO:root:got data: {58}
+INFO:root:first level: {https://iledebeaute.ru/brands/wishful/}
+INFO:root:parsed_iledebeaute_data len: {6181}
+INFO:root:got data: {18}
+INFO:root:first level: {https://iledebeaute.ru/brands/loreal-professionnel/}
+INFO:root:parsed_iledebeaute_data len: {6231}
+INFO:root:got data: {50}
+INFO:root:first level: {https://iledebeaute.ru/brands/kerastase/}
+INFO:root:parsed_iledebeaute_data len: {6291}
+INFO:root:next level: {https://iledebeaute.ru/brands/kerastase/page2/}
+INFO:root:parsed_iledebeaute_data len: {6316}
+INFO:root:got data: {85}
+INFO:root:first level: {https://iledebeaute.ru/brands/fenty-skin/}
+INFO:root:parsed_iledebeaute_data len: {6333}
+INFO:root:got data: {17}
+INFO:root:first level: {https://iledebeaute.ru/brands/miller-et-bertaux/}
+INFO:root:parsed_iledebeaute_data len: {6348}
+INFO:root:got data: {15}
+INFO:root:first level: {https://iledebeaute.ru/brands/maison-crivelli/}
+INFO:root:parsed_iledebeaute_data len: {6358}
+INFO:root:got data: {10}
+INFO:root:first level: {https://iledebeaute.ru/brands/parle-moi-de-parfum/}
+INFO:root:parsed_iledebeaute_data len: {6373}
+INFO:root:got data: {15}
+INFO:root:first level: {https://iledebeaute.ru/brands/goldfield-and-banks-australia/}
+INFO:root:parsed_iledebeaute_data len: {6384}
+INFO:root:got data: {11}
+INFO:root:first level: {https://iledebeaute.ru/brands/rare-beauty/}
+INFO:root:parsed_iledebeaute_data len: {6418}
+INFO:root:got data: {34}
+INFO:root:first level: {https://iledebeaute.ru/brands/truly/}
+INFO:root:parsed_iledebeaute_data len: {6436}
+INFO:root:got data: {18}
+INFO:root:first level: {https://iledebeaute.ru/brands/foreo/}
+INFO:root:parsed_iledebeaute_data len: {6489}
+INFO:root:got data: {53}
+INFO:root:first level: {https://iledebeaute.ru/brands/pat_mcgrath_labs/}
+INFO:root:parsed_iledebeaute_data len: {6513}
+INFO:root:got data: {24}
+INFO:root:first level: {https://iledebeaute.ru/brands/burdin/}
+INFO:root:parsed_iledebeaute_data len: {6520}
+INFO:root:got data: {7}
+INFO:root:first level: {https://iledebeaute.ru/brands/the_merchant_of_venice/}
+INFO:root:parsed_iledebeaute_data len: {6539}
+INFO:root:got data: {19}
+INFO:root:iledebeaute done, going to database: {2022-12-01 06:01:02.851884}
+INFO:root:iledebeaute sequence done: {2022-12-01 06:01:03.508754}
+INFO:root:start letu sequence: {2022-12-01 06:01:03.508754}
+INFO:root:initiating parsing sequence: {2022-12-01 14:38:39.249883}
+INFO:root:start letu sequence: {2022-12-01 14:38:39.249883}
+INFO:root:save threshold exceeded, proxy change: {2022-12-02 05:49:38.671237}

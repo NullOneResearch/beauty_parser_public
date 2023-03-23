@@ -1,0 +1,138 @@
+INFO:root:new_message: {(KeyError('799895636'), 'Mashniny', '2022-11-29 19:25:40.925793', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895637'), 'Mashniny', '2022-11-29 19:32:08.418161', '|||', 'проверочка')}
+INFO:root:new_message: {(KeyError('799895638'), 'Mashniny', '2022-11-29 19:47:02.672329', '|||', 'Тестовый запрос')}
+INFO:root:new_message: {(KeyError('799895638'), 'Mashniny', '2022-11-29 19:47:41.065061', '|||', 'Тестовый запрос')}
+INFO:root:new_message: {(KeyError('799895639'), 'Mashniny', '2022-11-29 19:48:01.879526', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895640'), 'Mashniny', '2022-11-29 19:48:54.551897', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895641'), 'Mashniny', '2022-11-29 19:50:26.773600', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895616'), 'runchitta', '2022-11-29 19:55:41.259439', '|||', '/start')}
+INFO:root:new_message: {(KeyError('799895617'), 'runchitta', '2022-11-29 19:55:41.276425', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895618'), 'runchitta', '2022-11-29 19:55:41.277391', '|||', 'крем garnier')}
+INFO:root:new_message: {(KeyError('799895619'), 'Mashniny', '2022-11-29 19:55:41.277391', '|||', 'test test')}
+INFO:root:new_message: {(KeyError('799895620'), 'runchitta', '2022-11-29 19:55:41.277391', '|||', 'ты че...')}
+INFO:root:new_message: {(KeyError('799895621'), 'Mashniny', '2022-11-29 19:55:41.277391', '|||', 'апдейт')}
+INFO:root:new_message: {(KeyError('799895622'), 'runchitta', '2022-11-29 19:55:41.278929', '|||', 'Дима хорош')}
+INFO:root:new_message: {(KeyError('799895623'), 'runchitta', '2022-11-29 19:55:41.278929', '|||', 'слыш')}
+INFO:root:new_message: {(KeyError('799895624'), 'runchitta', '2022-11-29 19:55:41.278929', '|||', 'О_О')}
+INFO:root:new_message: {(KeyError('799895625'), 'runchitta', '2022-11-29 19:55:41.280726', '|||', 'False')}
+INFO:root:new_message: {(KeyError('799895626'), 'runchitta', '2022-11-29 19:55:41.281379', '|||', 'не answered!!!')}
+INFO:root:new_message: {(KeyError('799895627'), 'Mashniny', '2022-11-29 19:55:41.281379', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895628'), 'Mashniny', '2022-11-29 19:55:41.282376', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895629'), 'runchitta', '2022-11-29 19:55:41.282376', '|||', 'картошка')}
+INFO:root:new_message: {(KeyError('799895630'), 'runchitta', '2022-11-29 19:55:41.283374', '|||', 'че тупим?')}
+INFO:root:new_message: {(KeyError('799895631'), 'Mashniny', '2022-11-29 19:55:41.283413', '|||', 'проверка')}
+INFO:root:new_message: {(KeyError('799895632'), 'Mashniny', '2022-11-29 19:55:41.283413', '|||', 'тест проверка')}
+INFO:root:new_message: {(KeyError('799895633'), 'Mashniny', '2022-11-29 19:55:41.283413', '|||', 'тест')}
+INFO:root:new_message: {(KeyError('799895634'), 'Mashniny', '2022-11-29 19:55:41.284371', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895635'), 'Mashniny', '2022-11-29 19:55:41.285810', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895636'), 'Mashniny', '2022-11-29 19:55:41.285810', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895637'), 'Mashniny', '2022-11-29 19:55:41.286678', '|||', 'проверочка')}
+INFO:root:new_message: {(KeyError('799895638'), 'Mashniny', '2022-11-29 19:55:41.286678', '|||', 'Тестовый запрос')}
+INFO:root:new_message: {(KeyError('799895639'), 'Mashniny', '2022-11-29 19:55:41.286678', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895640'), 'Mashniny', '2022-11-29 19:55:41.286678', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895641'), 'Mashniny', '2022-11-29 19:55:41.286678', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895616'), 'runchitta', '2022-11-29 19:56:17.088333', '|||', '/start')}
+INFO:root:new_message: {(KeyError('799895617'), 'runchitta', '2022-11-29 19:56:17.088333', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895618'), 'runchitta', '2022-11-29 19:56:17.088333', '|||', 'крем garnier')}
+INFO:root:new_message: {(KeyError('799895619'), 'Mashniny', '2022-11-29 19:56:17.089331', '|||', 'test test')}
+INFO:root:new_message: {(KeyError('799895620'), 'runchitta', '2022-11-29 19:56:17.090331', '|||', 'ты че...')}
+INFO:root:new_message: {(KeyError('799895621'), 'Mashniny', '2022-11-29 19:56:17.091325', '|||', 'апдейт')}
+INFO:root:new_message: {(KeyError('799895622'), 'runchitta', '2022-11-29 19:56:17.091325', '|||', 'Дима хорош')}
+INFO:root:new_message: {(KeyError('799895623'), 'runchitta', '2022-11-29 19:56:17.092329', '|||', 'слыш')}
+INFO:root:new_message: {(KeyError('799895624'), 'runchitta', '2022-11-29 19:56:17.092865', '|||', 'О_О')}
+INFO:root:new_message: {(KeyError('799895625'), 'runchitta', '2022-11-29 19:56:17.092865', '|||', 'False')}
+INFO:root:new_message: {(KeyError('799895626'), 'runchitta', '2022-11-29 19:56:17.093610', '|||', 'не answered!!!')}
+INFO:root:new_message: {(KeyError('799895627'), 'Mashniny', '2022-11-29 19:56:17.094317', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895628'), 'Mashniny', '2022-11-29 19:56:17.095668', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895629'), 'runchitta', '2022-11-29 19:56:17.096311', '|||', 'картошка')}
+INFO:root:new_message: {(KeyError('799895630'), 'runchitta', '2022-11-29 19:56:17.096311', '|||', 'че тупим?')}
+INFO:root:new_message: {(KeyError('799895631'), 'Mashniny', '2022-11-29 19:56:17.096311', '|||', 'проверка')}
+INFO:root:new_message: {(KeyError('799895632'), 'Mashniny', '2022-11-29 19:56:17.097308', '|||', 'тест проверка')}
+INFO:root:new_message: {(KeyError('799895633'), 'Mashniny', '2022-11-29 19:56:17.098307', '|||', 'тест')}
+INFO:root:new_message: {(KeyError('799895634'), 'Mashniny', '2022-11-29 19:56:17.099304', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895635'), 'Mashniny', '2022-11-29 19:56:17.100300', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895636'), 'Mashniny', '2022-11-29 19:56:17.101297', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895637'), 'Mashniny', '2022-11-29 19:56:17.101297', '|||', 'проверочка')}
+INFO:root:new_message: {(KeyError('799895638'), 'Mashniny', '2022-11-29 19:56:17.101297', '|||', 'Тестовый запрос')}
+INFO:root:new_message: {(KeyError('799895639'), 'Mashniny', '2022-11-29 19:56:17.101297', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895640'), 'Mashniny', '2022-11-29 19:56:17.102294', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895641'), 'Mashniny', '2022-11-29 19:56:17.102294', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895616'), 'runchitta', '2022-11-29 19:56:42.160868', '|||', '/start')}
+INFO:root:new_message: {(KeyError('799895617'), 'runchitta', '2022-11-29 19:56:42.161106', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895618'), 'runchitta', '2022-11-29 19:56:42.161106', '|||', 'крем garnier')}
+INFO:root:new_message: {(KeyError('799895619'), 'Mashniny', '2022-11-29 19:56:42.161106', '|||', 'test test')}
+INFO:root:new_message: {(KeyError('799895620'), 'runchitta', '2022-11-29 19:56:42.161106', '|||', 'ты че...')}
+INFO:root:new_message: {(KeyError('799895621'), 'Mashniny', '2022-11-29 19:56:42.162134', '|||', 'апдейт')}
+INFO:root:new_message: {(KeyError('799895622'), 'runchitta', '2022-11-29 19:56:42.163131', '|||', 'Дима хорош')}
+INFO:root:new_message: {(KeyError('799895623'), 'runchitta', '2022-11-29 19:56:42.163131', '|||', 'слыш')}
+INFO:root:new_message: {(KeyError('799895624'), 'runchitta', '2022-11-29 19:56:42.163131', '|||', 'О_О')}
+INFO:root:new_message: {(KeyError('799895625'), 'runchitta', '2022-11-29 19:56:42.164129', '|||', 'False')}
+INFO:root:new_message: {(KeyError('799895626'), 'runchitta', '2022-11-29 19:56:42.165697', '|||', 'не answered!!!')}
+INFO:root:new_message: {(KeyError('799895627'), 'Mashniny', '2022-11-29 19:56:42.165697', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895628'), 'Mashniny', '2022-11-29 19:56:42.166110', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895629'), 'runchitta', '2022-11-29 19:56:42.166110', '|||', 'картошка')}
+INFO:root:new_message: {(KeyError('799895630'), 'runchitta', '2022-11-29 19:56:42.167121', '|||', 'че тупим?')}
+INFO:root:new_message: {(KeyError('799895631'), 'Mashniny', '2022-11-29 19:56:42.167121', '|||', 'проверка')}
+INFO:root:new_message: {(KeyError('799895632'), 'Mashniny', '2022-11-29 19:56:42.167121', '|||', 'тест проверка')}
+INFO:root:new_message: {(KeyError('799895633'), 'Mashniny', '2022-11-29 19:56:42.168118', '|||', 'тест')}
+INFO:root:new_message: {(KeyError('799895634'), 'Mashniny', '2022-11-29 19:56:42.168118', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895635'), 'Mashniny', '2022-11-29 19:56:42.169116', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895636'), 'Mashniny', '2022-11-29 19:56:42.169116', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895637'), 'Mashniny', '2022-11-29 19:56:42.170116', '|||', 'проверочка')}
+INFO:root:new_message: {(KeyError('799895638'), 'Mashniny', '2022-11-29 19:56:42.170116', '|||', 'Тестовый запрос')}
+INFO:root:new_message: {(KeyError('799895639'), 'Mashniny', '2022-11-29 19:56:42.171110', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895640'), 'Mashniny', '2022-11-29 19:56:42.171110', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895641'), 'Mashniny', '2022-11-29 19:56:42.171110', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895616'), 'runchitta', '2022-11-29 19:57:06.245384', '|||', '/start')}
+INFO:root:new_message: {(KeyError('799895617'), 'runchitta', '2022-11-29 19:57:06.245384', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895618'), 'runchitta', '2022-11-29 19:57:06.247136', '|||', 'крем garnier')}
+INFO:root:new_message: {(KeyError('799895619'), 'Mashniny', '2022-11-29 19:57:06.247377', '|||', 'test test')}
+INFO:root:new_message: {(KeyError('799895620'), 'runchitta', '2022-11-29 19:57:06.247377', '|||', 'ты че...')}
+INFO:root:new_message: {(KeyError('799895621'), 'Mashniny', '2022-11-29 19:57:06.248375', '|||', 'апдейт')}
+INFO:root:new_message: {(KeyError('799895622'), 'runchitta', '2022-11-29 19:57:06.248375', '|||', 'Дима хорош')}
+INFO:root:new_message: {(KeyError('799895623'), 'runchitta', '2022-11-29 19:57:06.249404', '|||', 'слыш')}
+INFO:root:new_message: {(KeyError('799895624'), 'runchitta', '2022-11-29 19:57:06.249404', '|||', 'О_О')}
+INFO:root:new_message: {(KeyError('799895625'), 'runchitta', '2022-11-29 19:57:06.249404', '|||', 'False')}
+INFO:root:new_message: {(KeyError('799895626'), 'runchitta', '2022-11-29 19:57:06.249404', '|||', 'не answered!!!')}
+INFO:root:new_message: {(KeyError('799895627'), 'Mashniny', '2022-11-29 19:57:06.249404', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895628'), 'Mashniny', '2022-11-29 19:57:06.249404', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895629'), 'runchitta', '2022-11-29 19:57:06.250434', '|||', 'картошка')}
+INFO:root:new_message: {(KeyError('799895630'), 'runchitta', '2022-11-29 19:57:06.250434', '|||', 'че тупим?')}
+INFO:root:new_message: {(KeyError('799895631'), 'Mashniny', '2022-11-29 19:57:06.250434', '|||', 'проверка')}
+INFO:root:new_message: {(KeyError('799895632'), 'Mashniny', '2022-11-29 19:57:06.253393', '|||', 'тест проверка')}
+INFO:root:new_message: {(KeyError('799895633'), 'Mashniny', '2022-11-29 19:57:06.253393', '|||', 'тест')}
+INFO:root:new_message: {(KeyError('799895634'), 'Mashniny', '2022-11-29 19:57:06.254396', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895635'), 'Mashniny', '2022-11-29 19:57:06.254396', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895636'), 'Mashniny', '2022-11-29 19:57:06.254396', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895637'), 'Mashniny', '2022-11-29 19:57:06.255388', '|||', 'проверочка')}
+INFO:root:new_message: {(KeyError('799895638'), 'Mashniny', '2022-11-29 19:57:06.255388', '|||', 'Тестовый запрос')}
+INFO:root:new_message: {(KeyError('799895639'), 'Mashniny', '2022-11-29 19:57:06.255388', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895640'), 'Mashniny', '2022-11-29 19:57:06.255388', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895641'), 'Mashniny', '2022-11-29 19:57:06.257401', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895616'), 'runchitta', '2022-11-29 19:57:30.412933', '|||', '/start')}
+INFO:root:new_message: {(KeyError('799895617'), 'runchitta', '2022-11-29 19:57:30.412933', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895618'), 'runchitta', '2022-11-29 19:57:30.413955', '|||', 'крем garnier')}
+INFO:root:new_message: {(KeyError('799895619'), 'Mashniny', '2022-11-29 19:57:30.413955', '|||', 'test test')}
+INFO:root:new_message: {(KeyError('799895620'), 'runchitta', '2022-11-29 19:57:30.413955', '|||', 'ты че...')}
+INFO:root:new_message: {(KeyError('799895621'), 'Mashniny', '2022-11-29 19:57:30.415923', '|||', 'апдейт')}
+INFO:root:new_message: {(KeyError('799895622'), 'runchitta', '2022-11-29 19:57:30.415923', '|||', 'Дима хорош')}
+INFO:root:new_message: {(KeyError('799895623'), 'runchitta', '2022-11-29 19:57:30.415923', '|||', 'слыш')}
+INFO:root:new_message: {(KeyError('799895624'), 'runchitta', '2022-11-29 19:57:30.417267', '|||', 'О_О')}
+INFO:root:new_message: {(KeyError('799895625'), 'runchitta', '2022-11-29 19:57:30.417267', '|||', 'False')}
+INFO:root:new_message: {(KeyError('799895626'), 'runchitta', '2022-11-29 19:57:30.417267', '|||', 'не answered!!!')}
+INFO:root:new_message: {(KeyError('799895627'), 'Mashniny', '2022-11-29 19:57:30.418923', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895628'), 'Mashniny', '2022-11-29 19:57:30.418923', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895629'), 'runchitta', '2022-11-29 19:57:30.418923', '|||', 'картошка')}
+INFO:root:new_message: {(KeyError('799895630'), 'runchitta', '2022-11-29 19:57:30.418923', '|||', 'че тупим?')}
+INFO:root:new_message: {(KeyError('799895631'), 'Mashniny', '2022-11-29 19:57:30.418923', '|||', 'проверка')}
+INFO:root:new_message: {(KeyError('799895632'), 'Mashniny', '2022-11-29 19:57:30.421008', '|||', 'тест проверка')}
+INFO:root:new_message: {(KeyError('799895633'), 'Mashniny', '2022-11-29 19:57:30.421220', '|||', 'тест')}
+INFO:root:new_message: {(KeyError('799895634'), 'Mashniny', '2022-11-29 19:57:30.421793', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895635'), 'Mashniny', '2022-11-29 19:57:30.421913', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895636'), 'Mashniny', '2022-11-29 19:57:30.422911', '|||', 'тестирование')}
+INFO:root:new_message: {(KeyError('799895637'), 'Mashniny', '2022-11-29 19:57:30.422911', '|||', 'проверочка')}
+INFO:root:new_message: {(KeyError('799895638'), 'Mashniny', '2022-11-29 19:57:30.423902', '|||', 'Тестовый запрос')}
+INFO:root:new_message: {(KeyError('799895639'), 'Mashniny', '2022-11-29 19:57:30.423902', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895640'), 'Mashniny', '2022-11-29 19:57:30.424918', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895641'), 'Mashniny', '2022-11-29 19:57:30.425898', '|||', 'крем')}
+INFO:root:new_message: {(KeyError('799895642'), 'Mashniny', '2022-11-29 19:58:15.895157', '|||', 'крема')}
